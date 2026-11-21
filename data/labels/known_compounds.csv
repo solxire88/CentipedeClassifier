@@ -1,0 +1,638 @@
+inchikey,name,family,class,verified
+KWTSXDURSIMDCE-UHFFFAOYSA-N,Amphetamine,amphetamine-type,stimulant,yes
+MYWUZJCMWCOHBA-UHFFFAOYSA-N,Methamphetamine,amphetamine-type,stimulant,yes
+DHHVAGZRUROJKS-UHFFFAOYSA-N,Phentermine,amphetamine-type,stimulant,yes
+ZPUCINDJVBIVPJ-UHFFFAOYSA-N,Cocaine,stimulant-other,stimulant,yes
+DUGOZIWVEXMGBE-UHFFFAOYSA-N,Dexmethylphenidate,stimulant-other,stimulant,yes
+YELGFTGWJGBAQU-UHFFFAOYSA-N,Mephedrone,cathinone,stimulant,yes
+LPLLVINFLBSFRP-UHFFFAOYSA-N,Methcathinone,cathinone,stimulant,yes
+WLIWIUNEJRETFX-UHFFFAOYSA-N,Pentedrone,cathinone,stimulant,yes
+SYHGEUNFJIGTRX-UHFFFAOYSA-N,"3,4-Methylenedioxypyrovalerone",pyrrolidinophenone,stimulant,yes
+IQXXEPZFOOTTBA-UHFFFAOYSA-N,1-Benzylpiperazine,stimulant-other,stimulant,yes
+PUAQLLVFLMYYJJ-UHFFFAOYSA-N,Cathinone,cathinone,stimulant,yes
+DDPMGIMJSRUULN-UHFFFAOYSA-N,Buphedrone,cathinone,stimulant,yes
+UEJBEYOXRNGPEI-UHFFFAOYSA-N,4-Chloromethcathinone,cathinone,stimulant,yes
+VOBHXZCDAVEXEY-UHFFFAOYSA-N,Lisdexamfetamine,amphetamine-type,stimulant,yes
+ZDHZDWSHLNBTEB-UHFFFAOYSA-N,4-Methylamphetamine,amphetamine-type,stimulant,yes
+OOBHFESNSZDWIU-UHFFFAOYSA-N,Phenmetrazine,stimulant-other,stimulant,yes
+XISBAJBPDVRSPG-CHWSQXEVSA-N,4-Fluoromethylphenidate,stimulant-other,stimulant,yes
+NMPOSNRHZIWLLL-XUWVNRHRSA-N,Cocaethylene,stimulant-other,stimulant,yes
+SYAKTDIEAPMBAL-UHFFFAOYSA-N,Aminorex,stimulant-other,stimulant,yes
+XXEPPPIWZFICOJ-UHFFFAOYSA-N,Diethylpropion,cathinone,stimulant,yes
+SHXWCVYOXRDMCX-UHFFFAOYSA-N,"3,4-Methylenedioxymethamphetamine",amphetamine-type,stimulant,yes
+NGBBVGZWCFBOGO-UHFFFAOYSA-N,"3,4-Methylenedioxyamphetamine",amphetamine-type,stimulant,yes
+VKEQBMCRQDSRET-UHFFFAOYSA-N,Methylone,cathinone,stimulant,yes
+CGKQZIULZRXRRJ-UHFFFAOYSA-N,Butylone,cathinone,stimulant,yes
+MJEMIOXXNCZZFK-UHFFFAOYSA-N,Ethylone,cathinone,stimulant,yes
+DFMLULIEUUXXSA-UHFFFAOYSA-N,Pentylone,cathinone,stimulant,yes
+YERSNXHEOIYEGX-UHFFFAOYSA-N,Eutylone,cathinone,stimulant,yes
+VKUMKUZDZWHMQU-UHFFFAOYSA-N,5-APB,amphetamine-type,stimulant,yes
+MFOCDFTXLCYLKU-UHFFFAOYSA-N,Phendimetrazine,stimulant-other,stimulant,yes
+OWQIUQKMMPDHQQ-UHFFFAOYSA-N,Dimethocaine,stimulant-other,stimulant,yes
+LJQBMYDFWFGESC-UHFFFAOYSA-N,4-Methylaminorex,stimulant-other,stimulant,yes
+IKFBPFGUINLYQI-UHFFFAOYSA-N,Fencamfamine,stimulant-other,stimulant,yes
+ZPXSCAKFGYXMGA-UHFFFAOYSA-N,Mazindol,stimulant-other,stimulant,yes
+UNBMPKNTYKDYCG-UHFFFAOYSA-N,"1,3-Dimethylbutylamine",stimulant-other,stimulant,yes
+YXKTVDFXDRQTKV-UHFFFAOYSA-N,Benzphetamine,amphetamine-type,stimulant,yes
+RXQCGGRTAILOIN-UHFFFAOYSA-N,Mephentermine,amphetamine-type,stimulant,yes
+DTNUPBSOODGRKW-UHFFFAOYSA-N,Naphyrone,pyrrolidinophenone,stimulant,yes
+OSNIIMCBVLBNGS-UHFFFAOYSA-N,Dimethylone,cathinone,stimulant,yes
+KPUJAQRFIJAORQ-UHFFFAOYSA-N,.alpha.-Pyrrolidinopropiophenone,pyrrolidinophenone,stimulant,yes
+KYIJLDDXQWBNGX-UHFFFAOYSA-N,.alpha.-Pyrrolidinohexanophenone,pyrrolidinophenone,stimulant,yes
+MWKQPIROPJSFRI-UHFFFAOYSA-N,4-Fluoromethamphetamine,amphetamine-type,stimulant,yes
+XNWIKJYFOIDUGD-UHFFFAOYSA-N,2-Fluoromethamphetamine,amphetamine-type,stimulant,yes
+QDNXSIYWHYGMCD-UHFFFAOYSA-N,3-Methylmethcathinone,cathinone,stimulant,yes
+FUYPDKFWOHBUFT-UHFFFAOYSA-N,4-Ethylmethcathinone,cathinone,stimulant,yes
+OOJXMFNDUXHDOV-UHFFFAOYSA-N,4-Bromomethcathinone,cathinone,stimulant,yes
+AYDBLCSLKNTEJL-RFQIPJPRSA-N,Norcocaine,stimulant-other,stimulant,yes
+YAGBSNMZQKEFCO-UHFFFAOYSA-N,N-Ethylamphetamine,amphetamine-type,stimulant,yes
+NMCHYWGKBADVMK-UHFFFAOYSA-N,Fenethylline,amphetamine-type,stimulant,yes
+FMCGSUUBYTWNDP-UHFFFAOYSA-N,Methylephedrine,stimulant-other,stimulant,yes
+OBDSVYOSYSKVMX-UHFFFAOYSA-N,"N,N-Dimethylamphetamine",amphetamine-type,stimulant,yes
+BQJCRHHNABKAKU-UHFFFAOYSA-N,Morphine,morphinan,opioid,yes
+OROGSEYTTFOCAN-UHFFFAOYSA-N,Codeine,morphinan,opioid,yes
+GVGLGOZIDCSQPN-UHFFFAOYSA-N,Heroin,morphinan,opioid,yes
+BRUQQQPBMZOVGD-UHFFFAOYSA-N,Oxycodone,morphinan,opioid,yes
+WVLOADHCBXTIJK-UHFFFAOYSA-N,Hydromorphone,morphinan,opioid,yes
+PJMPHNIQZUBGLI-UHFFFAOYSA-N,Fentanyl,fentanyl-type,opioid,yes
+YDSDEBIZUNNPOB-UHFFFAOYSA-N,Carfentanil,fentanyl-type,opioid,yes
+USSIQXCVUWKGNF-UHFFFAOYSA-N,Methadone,opioid-other,opioid,yes
+TVYLLZQTGLZFBW-UHFFFAOYSA-N,Tramadol,opioid-other,opioid,yes
+OIOQREYBGDAYGT-UHFFFAOYSA-N,Isotonitazene,nitazene,opioid,yes
+LLPOLZWFYMWNKH-UHFFFAOYSA-N,Hydrocodone,morphinan,opioid,yes
+UQCNKQCJZOAFTQ-UHFFFAOYSA-N,Oxymorphone,morphinan,opioid,yes
+RMRJXGBAOAMLHD-UHFFFAOYSA-N,Buprenorphine,morphinan,opioid,yes
+RBOXVHNMENFORY-DNJOTXNNSA-N,Dihydrocodeine,morphinan,opioid,yes
+IFKLAQQSCNILHL-UHFFFAOYSA-N,Butorphanol,morphinan,opioid,yes
+KWTWDQCKEHXFFR-UHFFFAOYSA-N,Tapentadol,opioid-other,opioid,yes
+XADCESSVHJOZHK-UHFFFAOYSA-N,Meperidine,opioid-other,opioid,yes
+JGPNMZWFVRQNGU-UHFFFAOYSA-N,U-47700,opioid-other,opioid,yes
+CNOFBGYRMCBVLO-UHFFFAOYSA-N,Brorphine,opioid-other,opioid,yes
+GGCSSNBKKAUURC-UHFFFAOYSA-N,Sufentanil,fentanyl-type,opioid,yes
+IDBPHNDTYPBSNI-UHFFFAOYSA-N,Alfentanil,fentanyl-type,opioid,yes
+ZTVQQQVZCWLTDF-UHFFFAOYSA-N,Remifentanil,fentanyl-type,opioid,yes
+NYISTOZKVCMVEL-UHFFFAOYSA-N,Ocfentanil,fentanyl-type,opioid,yes
+FYIUUQUPOKIKNI-UHFFFAOYSA-N,Acetyl fentanyl,fentanyl-type,opioid,yes
+QQOMYEQLWQJRKK-UHFFFAOYSA-N,Butyryl fentanyl,fentanyl-type,opioid,yes
+RFQNLMWUIJJEQF-UHFFFAOYSA-N,Acrylfentanyl,fentanyl-type,opioid,yes
+LSSHGONYDWDTQM-UHFFFAOYSA-N,4'-Fluorofentanyl,fentanyl-type,opioid,yes
+FZJVHWISUGFFQV-UHFFFAOYSA-N,2-Furanyl fentanyl,fentanyl-type,opioid,yes
+MLQRZXNZHAOCHQ-KNQAVFIVSA-N,cis-3-methyl Fentanyl,fentanyl-type,opioid,yes
+PXDBZSCGSQSKST-UHFFFAOYSA-N,Etonitazene,nitazene,opioid,yes
+HNGZTLMRQTVPBH-UHFFFAOYSA-N,Metonitazene,nitazene,opioid,yes
+SJHUJFHOXYDSJY-UHFFFAOYSA-N,Protonitazene,nitazene,opioid,yes
+UZZPOLCDCVWLAZ-UHFFFAOYSA-N,Butonitazene,nitazene,opioid,yes
+GPZLDQAEBHTMPG-UHFFFAOYSA-N,Clonitazene,nitazene,opioid,yes
+ZTWHIDCAGRMKTC-UHFFFAOYSA-N,Flunitazene,nitazene,opioid,yes
+XGHTZJUKJYZDSW-UHFFFAOYSA-N,Menitazene,nitazene,opioid,yes
+XCWWXPKOMYPTRP-UHFFFAOYSA-N,Fluetonitazene,nitazene,opioid,yes
+BMLPNUNXHUGDOI-UHFFFAOYSA-N,Etodesnitazene,nitazene,opioid,yes
+SFNKTTXBZXVGOH-UHFFFAOYSA-N,Metodesnitazene,nitazene,opioid,yes
+VOKSWYLNZZRQPF-UHFFFAOYSA-N,Pentazocine,opioid-other,opioid,yes
+LNNWVNGFPYWNQE-UHFFFAOYSA-N,Desomorphine,morphinan,opioid,yes
+SVDHSZFEQYXRDC-UHFFFAOYSA-N,Dipipanone,opioid-other,opioid,yes
+YMRFZDHYDKZXPA-UHFFFAOYSA-N,Thiofentanyl,fentanyl-type,opioid,yes
+JGORUXKMRLIJSV-YNHQPCIGSA-N,Norhydrocodone,morphinan,opioid,yes
+CEHFMRGBRNNSCM-UHFFFAOYSA-N,Protodesnitazene,nitazene,opioid,yes
+RLJABWOKWHXDGQ-UHFFFAOYSA-N,Allonitazene,nitazene,opioid,yes
+VCCPXHWAJYWQMR-UHFFFAOYSA-N,Valeryl fentanyl,fentanyl-type,opioid,yes
+SADNVKRDSWWFTK-UHFFFAOYSA-N,Methoxyacetyl fentanyl,fentanyl-type,opioid,yes
+QZFMCYUBPSLOBP-UHFFFAOYSA-N,para-Fluorobutyryl fentanyl,fentanyl-type,opioid,yes
+WRPFPNIHTOSMKU-UHFFFAOYSA-N,Isobutyryl fentanyl,fentanyl-type,opioid,yes
+CYQFCXCEBYINGO-UHFFFAOYSA-N,Δ-9-Tetrahydrocannabinol,cannabinoid-other,cannabinoid,yes
+HCAWPGARWVBULJ-UHFFFAOYSA-N,Δ-8-Tetrahydrocannabinol,cannabinoid-other,cannabinoid,yes
+SSQJFGMEZBFMNV-UHFFFAOYSA-N,HU-210,cannabinoid-other,cannabinoid,yes
+JDNLPKCAXICMBW-UHFFFAOYSA-N,JWH-018,indole-ketone-SC,cannabinoid,yes
+VCHHHSMPMLNVGS-UHFFFAOYSA-N,JWH-073,indole-ketone-SC,cannabinoid,yes
+ALQFAGFPQCBPED-UHFFFAOYSA-N,AM2201,indole-ketone-SC,cannabinoid,yes
+NBMMIBNZVQFQEO-UHFFFAOYSA-N,UR-144,indole-ketone-SC,cannabinoid,yes
+UCTCCIPCJZKWEZ-UHFFFAOYSA-N,AKB48,carboxamide-ester-SC,cannabinoid,yes
+ZAVGICCEAOUWFM-UHFFFAOYSA-N,PB-22,carboxamide-ester-SC,cannabinoid,yes
+LWOCBHBFWNGPGM-QGZVFWFLSA-N,MDMB-4en-PINACA,carboxamide-ester-SC,cannabinoid,yes
+FFLSJIQJQKDDCM-UHFFFAOYSA-N,JWH-250,indole-ketone-SC,cannabinoid,yes
+SZWYXJHTNGJPKU-UHFFFAOYSA-N,JWH-200,indole-ketone-SC,cannabinoid,yes
+LJSBBBWQTLXQEN-UHFFFAOYSA-N,JWH-015,indole-ketone-SC,cannabinoid,yes
+LACIUQLUNACUKC-UHFFFAOYSA-N,JWH-210,indole-ketone-SC,cannabinoid,yes
+LFFIIZFINPPEMC-UHFFFAOYSA-N,AM694,indole-ketone-SC,cannabinoid,yes
+OZCYJKDWRUIFFE-UHFFFAOYSA-N,RCS-4,indole-ketone-SC,cannabinoid,yes
+PXLDPUUMIHVLEC-UHFFFAOYSA-N,XLR11,indole-ketone-SC,cannabinoid,yes
+GIMHPAQOAAZSHS-UHFFFAOYSA-N,AB-PINACA,carboxamide-ester-SC,cannabinoid,yes
+ZSSGCSINPVBLQD-UHFFFAOYSA-N,ADB-FUBINACA,carboxamide-ester-SC,cannabinoid,yes
+SRJKCVHWIDFUBO-UHFFFAOYSA-N,MDMB-CHMICA,carboxamide-ester-SC,cannabinoid,yes
+PWEKNGSNNAKWBL-QGZVFWFLSA-N,5-fluoro ADB,carboxamide-ester-SC,cannabinoid,yes
+CHSUEEBESACQDV-UHFFFAOYSA-N,5-fluoro-MDMB-PICA,carboxamide-ester-SC,cannabinoid,yes
+GPWADXHYJAZPAX-OAHLLOKOSA-N,ADB-BUTINACA,carboxamide-ester-SC,cannabinoid,yes
+RFCDVEHNYDVCMU-UHFFFAOYSA-N,MDMB-FUBINACA,carboxamide-ester-SC,cannabinoid,yes
+UXOFEILQVZFLRH-UHFFFAOYSA-N,FUB-144,indole-ketone-SC,cannabinoid,yes
+RHYGTJXOHOGQGI-UHFFFAOYSA-N,BB-22,carboxamide-ester-SC,cannabinoid,yes
+RCEKSVIFQKKFLS-UHFFFAOYSA-N,FDU-PB-22,carboxamide-ester-SC,cannabinoid,yes
+MBOCMBFDYVSGLJ-UHFFFAOYSA-N,5-fluoro PB-22,carboxamide-ester-SC,cannabinoid,yes
+UCMFSGVIEPXYIV-XHICYHHKSA-N,5-fluoro AKB48,carboxamide-ester-SC,cannabinoid,yes
+INXXQNIOWMOYEJ-UHFFFAOYSA-N,CUMYL-CBMICA,carboxamide-ester-SC,cannabinoid,yes
+UBMPKJKGUQDHRM-UHFFFAOYSA-N,JWH-081,indole-ketone-SC,cannabinoid,yes
+HUKJQMKQFWYIHS-UHFFFAOYSA-N,JWH-122,indole-ketone-SC,cannabinoid,yes
+PALJPGHWDUHUPO-UHFFFAOYSA-N,JWH-019,indole-ketone-SC,cannabinoid,yes
+YDINKDBAZJOSLV-UHFFFAOYSA-N,JWH-203,indole-ketone-SC,cannabinoid,yes
+IUWBHGFOHXVVKV-UHFFFAOYSA-N,JWH-398,indole-ketone-SC,cannabinoid,yes
+BSQFBMXCQIKYNI-UHFFFAOYSA-N,RCS-8,indole-ketone-SC,cannabinoid,yes
+IGBHZHCGWLHBAE-UHFFFAOYSA-N,MAM2201,indole-ketone-SC,cannabinoid,yes
+NSCXPXDWLZORPX-UHFFFAOYSA-N,EAM2201,indole-ketone-SC,cannabinoid,yes
+URKVBEKZCMUTQC-UHFFFAOYSA-N,AM1220,indole-ketone-SC,cannabinoid,yes
+KSLCYQTUSSEGPT-UHFFFAOYSA-N,AM2233,indole-ketone-SC,cannabinoid,yes
+AKOOIMKXADOPDA-UHFFFAOYSA-N,AB-FUBINACA,carboxamide-ester-SC,cannabinoid,yes
+KJNZIEGLNLCWTQ-UHFFFAOYSA-N,AB-CHMINACA,carboxamide-ester-SC,cannabinoid,yes
+ZWCCSIUBHCZKOY-UHFFFAOYSA-N,ADB-CHMINACA,carboxamide-ester-SC,cannabinoid,yes
+YHAWFWPNIXPRDT-MRXNPFEDSA-N,MDMB-BUTINACA,carboxamide-ester-SC,cannabinoid,yes
+CFMZQSDQCNKGII-UHFFFAOYSA-N,CUMYL-CBMINACA,carboxamide-ester-SC,cannabinoid,yes
+TZXBEYFALIFOAG-FQEVSTJZSA-N,APP-FUBINACA,carboxamide-ester-SC,cannabinoid,yes
+VBGLYOIFKLUMQG-UHFFFAOYSA-N,Cannabinol,cannabinoid-other,cannabinoid,yes
+UVOLYTDXHDXWJU-UHFFFAOYSA-N,Cannabichromene,cannabinoid-other,cannabinoid,yes
+UCONUSSAWGCZMV-HZPDHXFCSA-N,THCA-A,cannabinoid-other,cannabinoid,yes
+QHMBSVQNZZTUGM-UHFFFAOYSA-N,Cannabidiol,cannabinoid-other,cannabinoid,yes
+YMHOBZXQZVXHBM-UHFFFAOYSA-N,2C-B,phenethylamine-psychedelic,psychedelic,yes
+PQHQBRJAAZQXHL-UHFFFAOYSA-N,2C-I,phenethylamine-psychedelic,psychedelic,yes
+VDRGNAMREYBIHA-UHFFFAOYSA-N,2C-E,phenethylamine-psychedelic,psychedelic,yes
+CGKQFIWIPSIVAS-UHFFFAOYSA-N,2C-C,phenethylamine-psychedelic,psychedelic,yes
+UNQQFDCVEMVQHM-UHFFFAOYSA-N,2C-D,phenethylamine-psychedelic,psychedelic,yes
+HCWQGDLBIKOJPM-UHFFFAOYSA-N,2C-T-2,phenethylamine-psychedelic,psychedelic,yes
+ZFUOLNAKPBFDIJ-UHFFFAOYSA-N,25I-NBOMe,phenethylamine-psychedelic,psychedelic,yes
+SUXGNJVVBGJEFB-UHFFFAOYSA-N,25B-NBOMe,phenethylamine-psychedelic,psychedelic,yes
+FJFPOGCVVLUYAQ-UHFFFAOYSA-N,25C-NBOMe,phenethylamine-psychedelic,psychedelic,yes
+ACRITBNCBMTINK-UHFFFAOYSA-N,DOC,phenethylamine-psychedelic,psychedelic,yes
+RHCSKNNOAZULRK-UHFFFAOYSA-N,Mescaline,phenethylamine-psychedelic,psychedelic,yes
+RHOGRSKNWDNCDN-UHFFFAOYSA-N,Escaline,phenethylamine-psychedelic,psychedelic,yes
+HYWLMSUAZVDUFW-UHFFFAOYSA-N,Proscaline,phenethylamine-psychedelic,psychedelic,yes
+JNUAYHHGCXYBHX-UHFFFAOYSA-N,Allylescaline,phenethylamine-psychedelic,psychedelic,yes
+WNCUVUUEJZEATP-UHFFFAOYSA-N,2C-H,phenethylamine-psychedelic,psychedelic,yes
+RMLXCDMTGWSEOU-UHFFFAOYSA-N,25H-NBOMe,phenethylamine-psychedelic,psychedelic,yes
+QHEBYIJRKGDFGH-UHFFFAOYSA-N,25P-NBOMe,phenethylamine-psychedelic,psychedelic,yes
+OZEBFZPAWCXEGK-UHFFFAOYSA-N,25T2-NBOMe,phenethylamine-psychedelic,psychedelic,yes
+CPVMNHOHOSNFOP-UHFFFAOYSA-N,25T7-NBOMe,phenethylamine-psychedelic,psychedelic,yes
+UEEAUFJYLUJWQJ-UHFFFAOYSA-N,DOPR,phenethylamine-psychedelic,psychedelic,yes
+YZDFADGMVOSVIX-UHFFFAOYSA-N,2C-B-FLY,phenethylamine-psychedelic,psychedelic,yes
+GIKPTWKWYXCBEC-UHFFFAOYSA-N,Bromo-DragonFLY,phenethylamine-psychedelic,psychedelic,yes
+RSUNJYKZRKIBNB-UHFFFAOYSA-N,25B-NBOH,phenethylamine-psychedelic,psychedelic,yes
+FEUZHYRXGQTBRO-UHFFFAOYSA-N,25I-NBOH,phenethylamine-psychedelic,psychedelic,yes
+ATMBBMXJNIJRST-UHFFFAOYSA-N,25B-NBF,phenethylamine-psychedelic,psychedelic,yes
+NFOSUSKGYPPAMT-UHFFFAOYSA-N,25B-NB3OMe,phenethylamine-psychedelic,psychedelic,yes
+UXQBKANLBLUVMK-UHFFFAOYSA-N,2-bromo Mescaline,phenethylamine-psychedelic,psychedelic,yes
+ORXQUAPZHKCCAX-UHFFFAOYSA-N,Lophophine,phenethylamine-psychedelic,psychedelic,yes
+HNBAVLIQFTYMAX-UHFFFAOYSA-N,Metaescaline,phenethylamine-psychedelic,psychedelic,yes
+USPSMWCGHVXKMN-UHFFFAOYSA-N,Mescaline NBOMe,phenethylamine-psychedelic,psychedelic,yes
+SPCIYGNTAMCTRO-UHFFFAOYSA-N,Psilocin,tryptamine,psychedelic,yes
+QVDSEJDULKLHCG-UHFFFAOYSA-N,Psilocybin,tryptamine,psychedelic,yes
+DMULVCHRPCFFGV-UHFFFAOYSA-N,Dimethyltryptamine,tryptamine,psychedelic,yes
+ZSTKHSQDNIGFLM-UHFFFAOYSA-N,5-methoxy DMT,tryptamine,psychedelic,yes
+LSSUMOWDTKZHHT-UHFFFAOYSA-N,Diethyltryptamine,tryptamine,psychedelic,yes
+ZRVAAGAZUWXRIP-UHFFFAOYSA-N,"N,N-Diisopropyltryptamine",tryptamine,psychedelic,yes
+BOOQTIHIKDDPRW-UHFFFAOYSA-N,"N,N-Dipropyltryptamine",tryptamine,psychedelic,yes
+OMDKHOOGGJRLLX-UHFFFAOYSA-N,4-acetoxy MET,tryptamine,psychedelic,yes
+ORWQBKPSGDRPPA-UHFFFAOYSA-N,4-Hydroxy-MET,tryptamine,psychedelic,yes
+HEDOODBJFVUQMS-UHFFFAOYSA-N,5-methoxy MiPT,tryptamine,psychedelic,yes
+RTLRUOSYLFOFHV-UHFFFAOYSA-N,Acetylpsilocin,tryptamine,psychedelic,yes
+WYEVVQJLTXBMPM-UHFFFAOYSA-N,"4-Acetoxy-N,N-diethyltryptamine",tryptamine,psychedelic,yes
+ZPAOVGZYDSXCPK-UHFFFAOYSA-N,"4-acetoxy-N,N-Diisopropyltryptamine",tryptamine,psychedelic,yes
+RXKGHZCQFXXWFQ-UHFFFAOYSA-N,4-Hydroxy-MIPT,tryptamine,psychedelic,yes
+KBRYKXCBGISXQV-UHFFFAOYSA-N,4-hydroxy DiPT,tryptamine,psychedelic,yes
+DNBPMBJFRRVTSJ-UHFFFAOYSA-N,"5-methoxy-N,N-Diisopropyltryptamine",tryptamine,psychedelic,yes
+AVECDEWGCOLCPZ-UHFFFAOYSA-N,5-methoxy MET,tryptamine,psychedelic,yes
+HGRHWEAUHXYNNP-UHFFFAOYSA-N,5-Methoxy DALT,tryptamine,psychedelic,yes
+VTTONGPRPXSUTJ-UHFFFAOYSA-N,Bufotenine,tryptamine,psychedelic,yes
+QSQQQURBVYWZKJ-UHFFFAOYSA-N,.alpha.-methyl Tryptamine,tryptamine,psychedelic,yes
+KGDVJQQWCDDEPP-UHFFFAOYSA-N,5-methoxy DET,tryptamine,psychedelic,yes
+VVEQXDHSGNBFLZ-UHFFFAOYSA-N,5-methoxy EiPT,tryptamine,psychedelic,yes
+QQZJNZJNPDORBO-UHFFFAOYSA-N,5-methoxy NiPT,tryptamine,psychedelic,yes
+WVGCRISHWANOTO-UHFFFAOYSA-N,5-methoxy DBT,tryptamine,psychedelic,yes
+OHHYMKDBKJPILO-UHFFFAOYSA-N,4-Hydroxy-DET,tryptamine,psychedelic,yes
+XFQDDPQGBLSNCN-UHFFFAOYSA-N,4-Hydroxy-MPT,tryptamine,psychedelic,yes
+CNGCYOYLGRGRQJ-UHFFFAOYSA-N,4-acetoxy PiPT,tryptamine,psychedelic,yes
+HFYHBTWTJDAYGW-UHFFFAOYSA-N,4-methoxy DMT,tryptamine,psychedelic,yes
+AWOWBKXVYZRYSP-UHFFFAOYSA-N,6-methoxy DMT,tryptamine,psychedelic,yes
+MYEGVMLMDWYPOA-UHFFFAOYSA-N,N-methyl-N-Ethyltryptamine,tryptamine,psychedelic,yes
+VAYOSLLFUXYJDT-UHFFFAOYSA-N,LSD,psychedelic-other,psychedelic,yes
+JSMQOVGXBIDBIE-UHFFFAOYSA-N,1P-LSD,psychedelic-other,psychedelic,yes
+SVRFNPSJPIDUBC-DYESRHJHSA-N,1B-LSD,psychedelic-other,psychedelic,yes
+RAFUPYYDHPFASC-UHFFFAOYSA-N,1cP-LSD,psychedelic-other,psychedelic,yes
+GIIBVGJWUZNECE-XMSQKQJNSA-N,1V-LSD,psychedelic-other,psychedelic,yes
+RSBBZALMPUUEKF-AUSIDOKSSA-N,1H-LSD,psychedelic-other,psychedelic,yes
+FJOWXGYLIWJFCH-UHFFFAOYSA-N,ALD-52,psychedelic-other,psychedelic,yes
+JCQLEPDZFXGHHQ-OXQOHEQNSA-N,AL-LAD,psychedelic-other,psychedelic,yes
+VKRAXSZEDRWLAG-SJKOYZFVSA-N,2-bromo LSD,psychedelic-other,psychedelic,yes
+OBSYBRPAKCASQB-UHFFFAOYSA-N,Salvinorin A,psychedelic-other,psychedelic,yes
+YQEZLKZALYSWHR-UHFFFAOYSA-N,Ketamine,arylcyclohexylamine,dissociative,yes
+ZAGBSZSITDFFAF-UHFFFAOYSA-N,Deschloroketamine,arylcyclohexylamine,dissociative,yes
+LPKTWLVEGBNOOX-UHFFFAOYSA-N,Methoxetamine,arylcyclohexylamine,dissociative,yes
+PHFAGYYTDLITTB-UHFFFAOYSA-N,2-Fluoro Deschloroketamine,arylcyclohexylamine,dissociative,yes
+JTJMJGYZQZDUJJ-UHFFFAOYSA-N,Phencyclidine,arylcyclohexylamine,dissociative,yes
+FYOWWXMGDATDQY-UHFFFAOYSA-N,Rolicyclidine,arylcyclohexylamine,dissociative,yes
+JUZZEWSCNBCFRL-UHFFFAOYSA-N,Tenocyclidine,arylcyclohexylamine,dissociative,yes
+BQQSZHHKGPOXLN-UHFFFAOYSA-N,3-Methoxy PCP,arylcyclohexylamine,dissociative,yes
+XPZHMMRWEBHHNI-UHFFFAOYSA-N,4-methyl-PCP,arylcyclohexylamine,dissociative,yes
+DUKNIHFTDAXJON-CTQRGLTFSA-N,LSZ,psychedelic-other,psychedelic,yes
+VAYOSLLFUXYJDT-KBXCAEBGSA-N,iso-LSD,psychedelic-other,psychedelic,yes
+CZRJGQXHVRNZRZ-UHFFFAOYSA-N,Lysergic acid N-(methylpropyl)amide,psychedelic-other,psychedelic,yes
+BLTMVAIOAAGYAR-CEFSSPBYSA-N,Salvinorin B,psychedelic-other,psychedelic,yes
+BXNJHAXVSOCGBA-UHFFFAOYSA-N,Harmine,psychedelic-other,psychedelic,yes
+RERZNCLIYCABFS-UHFFFAOYSA-N,Harmaline,psychedelic-other,psychedelic,yes
+ZJQHPWUVQPJPQT-UHFFFAOYSA-N,Muscimol,psychedelic-other,psychedelic,yes
+PFPLGKFWWBXTNP-UHFFFAOYSA-N,3-fluoro-PCP,arylcyclohexylamine,dissociative,yes
+BMFKUCGCXMDGBK-UHFFFAOYSA-N,3-methyl PCP,arylcyclohexylamine,dissociative,yes
+MUZGGFNYVLGUFS-UHFFFAOYSA-N,4-Methoxy-PCP,arylcyclohexylamine,dissociative,yes
+HUHBTESMMFLCAN-UHFFFAOYSA-N,3-Chloro-PCP,arylcyclohexylamine,dissociative,yes
+ANUGFLCSICVCSB-UHFFFAOYSA-N,"3,4-Methylenedioxy PCP",arylcyclohexylamine,dissociative,yes
+AMSXTZUCNOKUEN-UHFFFAOYSA-N,3-Hydroxy-PCP,arylcyclohexylamine,dissociative,yes
+NLTZYGQREVLCBK-UHFFFAOYSA-N,3-methoxy Rolicyclidine,arylcyclohexylamine,dissociative,yes
+WIMLPRYZJQNQLE-UHFFFAOYSA-N,Deoxymethoxetamine,arylcyclohexylamine,dissociative,yes
+IDLSBAANXISGEI-UHFFFAOYSA-N,Deschloro-N-ethyl-ketamine,arylcyclohexylamine,dissociative,yes
+OYAUVHORXFUVAJ-UHFFFAOYSA-N,2-methoxy Ketamine,arylcyclohexylamine,dissociative,yes
+MIKNPNLBFHVMKK-UHFFFAOYSA-N,3-Hydroxy PCE,arylcyclohexylamine,dissociative,yes
+OFGOOZLOGUNDFS-UHFFFAOYSA-N,3-Methoxy PCE,arylcyclohexylamine,dissociative,yes
+AVQXYMGYZVAVCH-UHFFFAOYSA-N,4-methoxy PCE,arylcyclohexylamine,dissociative,yes
+QHRXEESDYAONOU-UHFFFAOYSA-N,4-hydroxymethyl PCP,arylcyclohexylamine,dissociative,yes
+XPMMBFIMXKSQIQ-UHFFFAOYSA-N,2-bromo Deschloroketamine,arylcyclohexylamine,dissociative,yes
+SLRWGPTWJAJHDF-UHFFFAOYSA-N,3-Fluoro Deschloroketamine,arylcyclohexylamine,dissociative,yes
+GLHWPYBETIKGHM-UHFFFAOYSA-N,4-fluoro Deschloroketamine,arylcyclohexylamine,dissociative,yes
+IXDGGSSUYSFGOK-UHFFFAOYSA-N,Deschloronorketamine,arylcyclohexylamine,dissociative,yes
+ZGQWDAOLJNAADS-UHFFFAOYSA-N,Methoxmetamine,arylcyclohexylamine,dissociative,yes
+FCETYWCLCUZFJI-UHFFFAOYSA-N,Fluorexetamine,arylcyclohexylamine,dissociative,yes
+AAOVKJBEBIDNHE-UHFFFAOYSA-N,Diazepam,benzodiazepine,depressant,yes
+DIWRORZWFLOCLC-UHFFFAOYSA-N,Lorazepam,benzodiazepine,depressant,yes
+DGBIGWXXNGSACT-UHFFFAOYSA-N,Clonazepam,benzodiazepine,depressant,yes
+PPTYJKAXVCCBDU-UHFFFAOYSA-N,Flunitrazepam,benzodiazepine,depressant,yes
+BUCORZSTKDOEKQ-UHFFFAOYSA-N,Chlordiazepoxide,benzodiazepine,depressant,yes
+VREFGVBLTWBCJP-UHFFFAOYSA-N,Alprazolam,benzodiazepine,depressant,yes
+KCEIOBKDDQAYCM-UHFFFAOYSA-N,Bromazolam,benzodiazepine,depressant,yes
+VXGSZBZQCBNUIP-UHFFFAOYSA-N,Flubromazolam,benzodiazepine,depressant,yes
+CXOXHMZGEKVPMT-UHFFFAOYSA-N,Clobazam,benzodiazepine,depressant,yes
+CQERUJSORROCGH-UHFFFAOYSA-N,Hydroxetamine,arylcyclohexylamine,dissociative,yes
+DDLIGBOFAVUZHB-UHFFFAOYSA-N,Midazolam,benzodiazepine,depressant,yes
+JOFWLTCLBGQGBO-UHFFFAOYSA-N,Triazolam,benzodiazepine,depressant,yes
+ADIMAYPTOBDMTL-UHFFFAOYSA-N,Oxazepam,benzodiazepine,depressant,yes
+SEQDDYPDSLOBDC-UHFFFAOYSA-N,Temazepam,benzodiazepine,depressant,yes
+KJONHKAYOJNZEC-UHFFFAOYSA-N,Nitrazepam,benzodiazepine,depressant,yes
+CDCHDCWJMGXXRH-UHFFFAOYSA-N,Estazolam,benzodiazepine,depressant,yes
+CGMJQQJSWIRRRL-UHFFFAOYSA-N,Phenazepam,benzodiazepine,depressant,yes
+ZRKDDZBVSZLOFS-UHFFFAOYSA-N,Flubromazepam,benzodiazepine,depressant,yes
+XJRGLCAWBRZUFC-UHFFFAOYSA-N,Clonazolam,benzodiazepine,depressant,yes
+MPZVLJCMGPYWQQ-UHFFFAOYSA-N,Flualprazolam,benzodiazepine,depressant,yes
+VMIYHDSEFNYJSL-UHFFFAOYSA-N,Bromazepam,benzodiazepine,depressant,yes
+VPAYQWRBBOGGPY-UHFFFAOYSA-N,Diclazepam,benzodiazepine,depressant,yes
+SAADBVWGJQAEFS-UHFFFAOYSA-N,Flurazepam,benzodiazepine,depressant,yes
+AKPLHCDWDRPJGD-UHFFFAOYSA-N,Nordiazepam,benzodiazepine,depressant,yes
+MWQCHHACWWAQLJ-UHFFFAOYSA-N,Prazepam,benzodiazepine,depressant,yes
+IKMPWMZBZSAONZ-UHFFFAOYSA-N,Quazepam,benzodiazepine,depressant,yes
+WYCLKVQLVUQKNZ-UHFFFAOYSA-N,Halazepam,benzodiazepine,depressant,yes
+YLCXGBZIZBEVPZ-UHFFFAOYSA-N,Medazepam,benzodiazepine,depressant,yes
+BGRWSFIQQPVEML-UHFFFAOYSA-N,Pyrazolam,benzodiazepine,depressant,yes
+GJSLOMWRLALDCT-UHFFFAOYSA-N,Adinazolam,benzodiazepine,depressant,yes
+DDBREPKUVSBGFI-UHFFFAOYSA-N,Phenobarbital,depressant-other,depressant,yes
+WEXRUCMBJFQVBZ-UHFFFAOYSA-N,Pentobarbital,depressant-other,depressant,yes
+KQPKPCNLIDLUMF-UHFFFAOYSA-N,Secobarbital,depressant-other,depressant,yes
+VIROVYVQCGLCII-UHFFFAOYSA-N,Amobarbital,depressant-other,depressant,yes
+ZRIHAIZYIMGOAB-UHFFFAOYSA-N,Butabarbital,depressant-other,depressant,yes
+UYXAWHWODHRRMR-UHFFFAOYSA-N,Hexobarbital,depressant-other,depressant,yes
+FWJKNZONDWOGMI-UHFFFAOYSA-N,Metharbital,depressant-other,depressant,yes
+OFZCIYFFPZCNJE-UHFFFAOYSA-N,Carisoprodol,depressant-other,depressant,yes
+NPPQSCRMBWNHMW-UHFFFAOYSA-N,Meprobamate,depressant-other,depressant,yes
+ZAFYATHCZYHLPB-UHFFFAOYSA-N,Zolpidem,depressant-other,depressant,yes
+XAXMYHMKTCNRRZ-UHFFFAOYSA-N,Cinolazepam,benzodiazepine,depressant,yes
+GBBSUAFBMRNDJC-UHFFFAOYSA-N,Zopiclone,depressant-other,depressant,yes
+HUNXMJYCHXQEGX-UHFFFAOYSA-N,Zaleplon,depressant-other,depressant,yes
+NBUSAPJNASSKBP-UHFFFAOYSA-N,Mebroqualone,depressant-other,depressant,yes
+NPUKDXXFDDZOKR-LLVKDONJSA-N,Etomidate,depressant-other,depressant,yes
+PCLITLDOTJTVDJ-UHFFFAOYSA-N,Chlormethiazole,depressant-other,depressant,yes
+NZASCBIBXNPDMH-UHFFFAOYSA-N,Pyrithyldione,depressant-other,depressant,yes
+DAFOCGYVTAOKAJ-UHFFFAOYSA-N,Phenibut,depressant-other,depressant,yes
+QWHXHLDNSXLAPX-UHFFFAOYSA-N,4-Fluoro Phenibut,depressant-other,depressant,yes
+AYXYPKUFHZROOJ-UHFFFAOYSA-N,Pregabalin,depressant-other,depressant,yes
+UGJMXCAKCUNAIE-UHFFFAOYSA-N,Gabapentin,depressant-other,depressant,yes
+YDIIDRWHPFMLGR-UHFFFAOYSA-N,.alpha.-PVP,pyrrolidinophenone,stimulant,yes
+GSESDIFGJCCBHN-UHFFFAOYSA-N,.alpha.-PBP,pyrrolidinophenone,stimulant,yes
+DLRWKNLMJAIFQB-UHFFFAOYSA-N,PV8,pyrrolidinophenone,stimulant,yes
+UOZWZANRCOALQL-UHFFFAOYSA-N,.alpha.-Pyrrolidinoisohexanophenone,pyrrolidinophenone,stimulant,yes
+FKEHRWJWTWDTDB-UHFFFAOYSA-N,.alpha.-Pyrrolidinocyclohexanophenone,pyrrolidinophenone,stimulant,yes
+BQLSUBYYRRZHRK-UHFFFAOYSA-N,4-fluoro-.alpha.-Pyrrolidinopentiophenone,pyrrolidinophenone,stimulant,yes
+NXNPGAAZKYDOPW-UHFFFAOYSA-N,4-methyl-.alpha.-Pyrrolidinobutiophenone,pyrrolidinophenone,stimulant,yes
+OLVLMDVPMCIBQW-UHFFFAOYSA-N,"3,4-Methylenedioxy-.alpha.-Pyrrolidinobutiophenone",pyrrolidinophenone,stimulant,yes
+OOSRPGUQJAKBLV-UHFFFAOYSA-N,.alpha.-Pyrrolidinopentiothiophenone,pyrrolidinophenone,stimulant,yes
+RRSPZEIKSCFOEE-UHFFFAOYSA-N,4-chloro-.alpha.-Pyrrolidinohexanophenone,pyrrolidinophenone,stimulant,yes
+DVCBBZBNZSSXMS-UHFFFAOYSA-N,5-Aminoisotonitazene,nitazene,opioid,yes
+NOCZAWHIDDFBFO-UHFFFAOYSA-N,Butodesnitazene,nitazene,opioid,yes
+MXCQZQAWFBUAJT-UHFFFAOYSA-N,Isotodesnitazene,nitazene,opioid,yes
+NWEAJFXJKVCITM-UHFFFAOYSA-N,Ethoxyetonitazene,nitazene,opioid,yes
+XLPJOIAZBPCHTM-UHFFFAOYSA-N,Ethylene Etonitazene,nitazene,opioid,yes
+ODVCNMQMXRKHGM-UHFFFAOYSA-N,Methionitazene,nitazene,opioid,yes
+RRRJUZFZCVIDSM-UHFFFAOYSA-N,Methylenedioxynitazene,nitazene,opioid,yes
+LQZWZCJCEPUKCJ-UHFFFAOYSA-N,N-Pyrrolidino Etonitazene,nitazene,opioid,yes
+JTTDZHBAEQTIPA-UHFFFAOYSA-N,N-Pyrrolidino Metonitazene,nitazene,opioid,yes
+KCRWXNIIXGBPID-UHFFFAOYSA-N,N-Pyrrolidino Protonitazene,nitazene,opioid,yes
+GPAALPLKXRJJDE-UHFFFAOYSA-N,3-fluoro-.alpha.-Pyrrolidinopentiophenone,pyrrolidinophenone,stimulant,yes
+DXQSRSYIYCRPMM-UHFFFAOYSA-N,4-ethyl-.alpha.-Pyrrolidinopentiophenone,pyrrolidinophenone,stimulant,yes
+HWYVHRCKBXGZLV-UHFFFAOYSA-N,4-methoxy-.alpha.-Pyrrolidinopentiophenone,pyrrolidinophenone,stimulant,yes
+JVWXQJXUNJXIQE-UHFFFAOYSA-N,3-methyl-.alpha.-Pyrrolidinohexanophenone,pyrrolidinophenone,stimulant,yes
+NIYQOTCYXGXMPI-UHFFFAOYSA-N,"3,4-Methylenedioxy-.alpha.-Pyrrolidinopropiophenone",pyrrolidinophenone,stimulant,yes
+OBLFRFGUZZRECT-UHFFFAOYSA-N,"3,4-Methylenedioxy-.alpha.-pyrrolidinohexanophenone",pyrrolidinophenone,stimulant,yes
+RAHKQMUBMIJUFG-UHFFFAOYSA-N,4-bromo-.alpha.-Pyrrolidinovalerophenone,pyrrolidinophenone,stimulant,yes
+RYJXAZXFWIWTOJ-UHFFFAOYSA-N,.alpha.-Pyrrolidinononanophenone,pyrrolidinophenone,stimulant,yes
+RCGHPLZKUHDGCC-UHFFFAOYSA-N,PV9,pyrrolidinophenone,stimulant,yes
+YAFFHHPPOAYLLA-UHFFFAOYSA-N,4-fluoro PV8,pyrrolidinophenone,stimulant,yes
+KWJGAOHXZYKBKR-UHFFFAOYSA-N,4'-hydroxy Nitazene,nitazene,opioid,yes
+CFBUHHXDOWWVJW-UHFFFAOYSA-N,Ethylene Nitazene,nitazene,opioid,yes
+IPSJQZUMCSELFZ-UHFFFAOYSA-N,Ethyleneoxynitazene,nitazene,opioid,yes
+MYLQWWDDZNZULX-UHFFFAOYSA-N,"N,N-Dimethylamino Etonitazene",nitazene,opioid,yes
+PCHKHUKJPIKAGU-UHFFFAOYSA-N,5-cyano Isotodesnitazene,nitazene,opioid,yes
+AVEHVOOTGJVOJJ-UHFFFAOYSA-N,5-Methyl Metodesnitazene,nitazene,opioid,yes
+ZARKNPABJGEAOQ-UHFFFAOYSA-N,5-methyl Etodesnitazene,nitazene,opioid,yes
+VVIVTDYOMWHKAE-UHFFFAOYSA-N,2-methyl-.alpha.-Pyrrolidinovalerophenone,pyrrolidinophenone,stimulant,yes
+IKKXRCRMSQZNLG-UHFFFAOYSA-N,"3',4'-dimethyl-.alpha.-Pyrrolidinovalerophenone",pyrrolidinophenone,stimulant,yes
+AGRVUDWDZKZCAA-UHFFFAOYSA-N,"3,4-dimethoxy-.alpha.-Pyrrolidinopentiophenone",pyrrolidinophenone,stimulant,yes
+BYMOJFLMEMTDDX-UHFFFAOYSA-N,4-fluoro-.alpha.-Pyrrolidinobutiophenone,pyrrolidinophenone,stimulant,yes
+NIGBFBTVONRYQN-UHFFFAOYSA-N,4'-chloro-.alpha.-Pyrrolidinovalerophenone,pyrrolidinophenone,stimulant,yes
+CIGWUZUBQBQZAO-UHFFFAOYSA-N,"3-desoxy-3,4-Methylenedioxy Pyrovalerone",pyrrolidinophenone,stimulant,yes
+PRGXFAWAMOFULD-UHFFFAOYSA-N,2-Methylmethcathinone,cathinone,stimulant,yes
+DCMOUMKIDLRIBO-UHFFFAOYSA-N,2-Fluoromethcathinone,cathinone,stimulant,yes
+PQIBROLLUQSNQI-UHFFFAOYSA-N,3-Fluoromethcathinone,cathinone,stimulant,yes
+VOEFELLSAAJCHJ-UHFFFAOYSA-N,3-Chloromethcathinone,cathinone,stimulant,yes
+RNBCGEIZCHBTGL-UHFFFAOYSA-N,4-Chloroethcathinone,cathinone,stimulant,yes
+KBNVGQPMFGSPPT-UHFFFAOYSA-N,4-Fluoroethcathinone,cathinone,stimulant,yes
+LYMHIBZGTAPASQ-UHFFFAOYSA-N,N-Ethylcathinone,cathinone,stimulant,yes
+KBHMHROOFHVLBA-UHFFFAOYSA-N,"N,N-Dimethylcathinone",cathinone,stimulant,yes
+VAVRRUJYUFACKA-UHFFFAOYSA-N,3-Methoxymethcathinone,cathinone,stimulant,yes
+IBZRXTVDTGVBIS-UHFFFAOYSA-N,"3,4-Dimethylmethcathinone",cathinone,stimulant,yes
+UHVGPEBZWPKWNT-UHFFFAOYSA-N,2-Chloromethcathinone,cathinone,stimulant,yes
+PXLYROINIXKFAW-UHFFFAOYSA-N,3-Bromomethcathinone,cathinone,stimulant,yes
+FAXVCSOMTSWQNT-UHFFFAOYSA-N,4-Ethylethcathinone,cathinone,stimulant,yes
+GEKLDGQKEZAPFZ-UHFFFAOYSA-N,3-Methylethcathinone,cathinone,stimulant,yes
+GDSXNLDTQFFIEU-UHFFFAOYSA-N,2-Fluoroamphetamine,amphetamine-type,stimulant,yes
+PIOCLGPCMNPZFT-UHFFFAOYSA-N,3-Fluoroamphetamine,amphetamine-type,stimulant,yes
+DGXWNDGLEOIEGT-UHFFFAOYSA-N,4-Fluoroamphetamine,amphetamine-type,stimulant,yes
+NIWYLNFSJJLYHU-UHFFFAOYSA-N,2-Fluoroethamphetamine,amphetamine-type,stimulant,yes
+CKPWHLGHHXSVJI-UHFFFAOYSA-N,3-Fluoroethamphetamine,amphetamine-type,stimulant,yes
+PUJNOWQUPWZVER-UHFFFAOYSA-N,4-Fluoroethamphetamine,amphetamine-type,stimulant,yes
+RRVAUTPWWWFYQT-UHFFFAOYSA-N,3-Fluoromethamphetamine,amphetamine-type,stimulant,yes
+ZEMQBDFHXOOXLY-UHFFFAOYSA-N,2-Methylamphetamine,amphetamine-type,stimulant,yes
+XXLWNLKEOWWHDC-UHFFFAOYSA-N,4-Chloromethamphetamine,amphetamine-type,stimulant,yes
+RGXSEQYXMRRSTM-UHFFFAOYSA-N,N-Ethylmethamphetamine,amphetamine-type,stimulant,yes
+DBGIVFWFUFKIQN-UHFFFAOYSA-N,Fenfluramine,amphetamine-type,stimulant,yes
+LQZHCIPFXVLYCQ-UHFFFAOYSA-N,4-Phenylmethamphetamine,amphetamine-type,stimulant,yes
+SBUQZKJEOOQSBV-UHFFFAOYSA-N,4-Hydroxymethamphetamine,amphetamine-type,stimulant,yes
+VIAVBPFRYASSKF-UHFFFAOYSA-N,N-butyl Amphetamine,amphetamine-type,stimulant,yes
+PVXVWWANJIWJOO-UHFFFAOYSA-N,"3,4-Methylenedioxyethylamphetamine",amphetamine-type,stimulant,yes
+XCLNTWGFRQKLDT-UHFFFAOYSA-N,N-Acetylmethamphetamine,amphetamine-type,stimulant,yes
+KWGRBVOPPLSCSI-UHFFFAOYSA-N,Ephedrine,stimulant-other,stimulant,yes
+DLNKOYKMWOXYQA-UHFFFAOYSA-N,Cathine,stimulant-other,stimulant,yes
+VHFVKMTVMIZMIK-UHFFFAOYSA-N,1-(3-Chlorophenyl)piperazine,stimulant-other,stimulant,yes
+KKIMDKMETPPURN-UHFFFAOYSA-N,1-(3-Trifluoromethylphenyl)piperazine,stimulant-other,stimulant,yes
+VUNXBQRNMNVUMV-UHFFFAOYSA-N,Benzoylpiperazine,stimulant-other,stimulant,yes
+YZTJYBJCZXZGCT-UHFFFAOYSA-N,Phenylpiperazine,stimulant-other,stimulant,yes
+XQJMXPAEFMWDOZ-BTTYYORXSA-N,Tropacocaine,stimulant-other,stimulant,yes
+BOFUZZAQNVYZFF-UHFFFAOYSA-N,3-Chlorophenmetrazine,stimulant-other,stimulant,yes
+NPILLHMQNMXXTL-UHFFFAOYSA-N,"4,4'-Dimethylaminorex",stimulant-other,stimulant,yes
+NYVQQTOGYLBBDQ-UHFFFAOYSA-N,Thiopropamine,stimulant-other,stimulant,yes
+MRDGZSKYFPGAKP-UHFFFAOYSA-N,1-(4-Methoxyphenyl)piperazine,stimulant-other,stimulant,yes
+VNZLQLYBRIOLFZ-UHFFFAOYSA-N,1-(2-Methoxyphenyl)piperazine,stimulant-other,stimulant,yes
+VCVWXKKWDOJNIT-ZOMKSWQUSA-N,Tesofensine,stimulant-other,stimulant,yes
+YRCWQPVGYLYSOX-UHFFFAOYSA-N,Synephrine,stimulant-other,stimulant,yes
+HWUYTWQIMNJNNQ-UHFFFAOYSA-N,2'-Fluorofentanyl,fentanyl-type,opioid,yes
+QGNPBZQBUVNBKQ-UHFFFAOYSA-N,3'-Fluorofentanyl,fentanyl-type,opioid,yes
+GNKKPEHVTFKLMN-UHFFFAOYSA-N,4-methyl Fentanyl,fentanyl-type,opioid,yes
+POQDXIFVWVZVML-UHFFFAOYSA-N,Benzylfentanyl,fentanyl-type,opioid,yes
+XHRDMQWXMFOAIX-UHFFFAOYSA-N,Cyclobutyl fentanyl,fentanyl-type,opioid,yes
+CWLVCTNETVWMMZ-UHFFFAOYSA-N,Cyclohexyl fentanyl,fentanyl-type,opioid,yes
+SYSQDIUBJXIHAM-UHFFFAOYSA-N,Cyclopentenyl fentanyl,fentanyl-type,opioid,yes
+VDYXGPCGBKLRDA-XNWCZRBMSA-N,Crotonyl fentanyl,fentanyl-type,opioid,yes
+BYCDHAVFKDTVAM-UHFFFAOYSA-N,"2,2,3,3-Tetramethyl-Cyclopropyl fentanyl",fentanyl-type,opioid,yes
+ZFAAZMIOHJNKGD-UHFFFAOYSA-N,Benzodioxole fentanyl,fentanyl-type,opioid,yes
+ZPAOSKLOFZWBLS-OFNKIYASSA-N,cis-3-methyl Butyryl fentanyl,fentanyl-type,opioid,yes
+BXCJXJLHYMWMQU-UHFFFAOYSA-N,4-Phenyl Fentanyl,fentanyl-type,opioid,yes
+LCAFYALTIFGYLM-UHFFFAOYSA-N,2'-Methyl Fentanyl,fentanyl-type,opioid,yes
+FQXXSQDCDRQNQE-VMDGZTHMSA-N,Thebaine,morphinan,opioid,yes
+UZHSEJADLWPNLE-UHFFFAOYSA-N,Naloxone,morphinan,opioid,yes
+DQCKKXVULJGBQN-XFWGSAIBSA-N,Naltrexone,morphinan,opioid,yes
+UIQMVEYFGZJHCZ-UHFFFAOYSA-N,Nalorphine,morphinan,opioid,yes
+WIYUZYBFCWCCQJ-IFKAHUTRSA-N,Naltrindole,morphinan,opioid,yes
+MFXFQKMUCYHPFQ-BKRJIHRRSA-N,6-Acetylcodeine,morphinan,opioid,yes
+FNAHUZTWOVOCTL-UHFFFAOYSA-N,Heterocodeine,morphinan,opioid,yes
+HKOIXWVRNLGFOR-KOFBORESSA-N,Norcodeine,morphinan,opioid,yes
+JJGYGPZNTOPXGV-UHFFFAOYSA-N,O-6-Monoacetylmorphine,morphinan,opioid,yes
+KYIVACLUFRUFLS-UHFFFAOYSA-N,Pseudocodeine,morphinan,opioid,yes
+ONTPYMHHQOSZRB-UHFFFAOYSA-N,Propyl U-47700,opioid-other,opioid,yes
+YJOICMRRKWRAEL-IRXDYDNUSA-N,Cyclopropyl U-47700,opioid-other,opioid,yes
+NKTBCDDEERGNEI-GJZGRUSLSA-N,"3,4-difluoro U-47700",opioid-other,opioid,yes
+FKUWIGXXBMULOI-UHFFFAOYSA-N,U-48800,opioid-other,opioid,yes
+AXACJBKFKCCIOR-IAGOWNOFSA-N,U-49900,opioid-other,opioid,yes
+IGBRRSIHEGCUEN-UHFFFAOYSA-N,MT-45,opioid-other,opioid,yes
+LELBFTMXCIIKKX-UHFFFAOYSA-N,Mitragynine,opioid-other,opioid,yes
+RYENLSMHLCNXJT-CYXFISRXSA-N,7-hydroxy Mitragynine,opioid-other,opioid,yes
+UARBQYKTGNWZBO-UHFFFAOYSA-N,Chlorphine,opioid-other,opioid,yes
+JRPANCYSRUEJDY-UHFFFAOYSA-N,Desmethylmoramide,opioid-other,opioid,yes
+AQHPTHKEKSWGPO-UHFFFAOYSA-N,JWH-116,indole-ketone-SC,cannabinoid,yes
+CNTCHEBQQFICNR-UHFFFAOYSA-N,JWH-098,indole-ketone-SC,cannabinoid,yes
+PGOAKRPGOLHODL-UHFFFAOYSA-N,JWH-080,indole-ketone-SC,cannabinoid,yes
+JAVDQKMSPNBPCK-UHFFFAOYSA-N,JWH-213,indole-ketone-SC,cannabinoid,yes
+KQRKUKYSZPHOKC-UHFFFAOYSA-N,JWH-201,indole-ketone-SC,cannabinoid,yes
+XZVYWLVYUAQEIM-UHFFFAOYSA-N,JWH-302,indole-ketone-SC,cannabinoid,yes
+PEXYKZYTXIEEOB-UHFFFAOYSA-N,XLR12,indole-ketone-SC,cannabinoid,yes
+NXTLUQFOTQPMOD-UHFFFAOYSA-N,XLR11 N-(4-pentenyl) analog,indole-ketone-SC,cannabinoid,yes
+WCBYXIBEPFZUBG-UHFFFAOYSA-N,5-fluoro AB-PINACA,carboxamide-ester-SC,cannabinoid,yes
+FWTARAXQGJRQKN-UHFFFAOYSA-N,ADB-PINACA,carboxamide-ester-SC,cannabinoid,yes
+UFECWXZSRFBSHC-LLVKDONJSA-N,ADB-INACA,carboxamide-ester-SC,cannabinoid,yes
+JKYXWDCDKGVNGP-UHFFFAOYSA-N,5-bromo APINACA,carboxamide-ester-SC,cannabinoid,yes
+LGENBCKWDLSPTD-XHICYHHKSA-N,5-chloro AKB48,carboxamide-ester-SC,cannabinoid,yes
+MWBHSNBPUSKVDD-LPSAYFBNSA-N,FUB-AKB48,carboxamide-ester-SC,cannabinoid,yes
+KMTRIILAGPIBSD-MRXNPFEDSA-N,MDMB-3en-BUTINACA,carboxamide-ester-SC,cannabinoid,yes
+BLLKAWANSRRHLA-IBGZPJMESA-N,AB-CHMICA,carboxamide-ester-SC,cannabinoid,yes
+UVZIIUNEZHXUMY-UHFFFAOYSA-N,4-fluoro ADB,carboxamide-ester-SC,cannabinoid,yes
+LGYQSYWASFBSHJ-IAGOWNOFSA-N,Isopropyl U-47700,opioid-other,opioid,yes
+MEBBOQYQMHNKCI-HZPDHXFCSA-N,Ethyl U-47700,opioid-other,opioid,yes
+FUVLLZRVGBSHIX-HUUCEWRRSA-N,Methoxy U-47700,opioid-other,opioid,yes
+UUAVKYBZWVMWSM-ZIAGYGMSSA-N,"3,4-Methylenedioxy U-47700",opioid-other,opioid,yes
+UOLMIGVJKXDEGR-UHFFFAOYSA-N,N-Desmethyl U-47700,opioid-other,opioid,yes
+UFDJFJYMMIZKLG-UHFFFAOYSA-N,U-47931E,opioid-other,opioid,yes
+ZIGVSUYDKUDHPY-UHFFFAOYSA-N,Fluorphine,opioid-other,opioid,yes
+JSAXFVKTSYWRTR-UHFFFAOYSA-N,Iodorphine,opioid-other,opioid,yes
+XUDUTRMKKYUAKI-UHFFFAOYSA-N,Orphine,opioid-other,opioid,yes
+UVITTYOJFDLOGI-UHFFFAOYSA-N,Trimeperidine,opioid-other,opioid,yes
+QKHMFBKXTNQCTM-UHFFFAOYSA-N,Normeperidine,opioid-other,opioid,yes
+BZESPHAKQKJBSM-UHFFFAOYSA-N,2-fluoro MT-45,opioid-other,opioid,yes
+AOYYFUGUUIRBML-IAGOWNOFSA-N,exo-THC,cannabinoid-other,cannabinoid,yes
+NEBZNJDFIPBXCS-UHFFFAOYSA-N,Δ6a(10a)-Tetrahydrocannabinol,cannabinoid-other,cannabinoid,yes
+JJBMVXFZSLTKCL-ZIAGYGMSSA-N,Δ9-THC-ethyl,cannabinoid-other,cannabinoid,yes
+DAOBMYOFOPZVGI-XMHGGMMESA-N,CBGP,cannabinoid-other,cannabinoid,yes
+RSIHSRDYCUFFLA-UHFFFAOYSA-N,Boldenone,steroid,other,yes
+NPAGDVCDWIYMMC-UHFFFAOYSA-N,Nandrolone,steroid,other,yes
+GCKMFJBGXUYNAG-UHFFFAOYSA-N,Methyltestosterone,steroid,other,yes
+IKXILDNPCZPPRV-UHFFFAOYSA-N,Drostanolone,steroid,other,yes
+JYGXADMDTFJGBT-UHFFFAOYSA-N,Hydrocortisone,steroid,other,yes
+METKIMKYRPQLGS-UHFFFAOYSA-N,Atenolol,other-medicine,other,yes
+HEFNNWSXXWATRW-UHFFFAOYSA-N,Ibuprofen,other-medicine,other,yes
+MYSWGUAQZAJSOK-UHFFFAOYSA-N,Ciprofloxacin,other-medicine,other,yes
+FELGMEQIXOGIFQ-UHFFFAOYSA-N,Ondansetron,other-medicine,other,yes
+UXYRZJKIQKRJCF-UHFFFAOYSA-N,Mesterolone,steroid,other,yes
+LKAJKIOFIWVMDJ-UHFFFAOYSA-N,Stanozolol,steroid,other,yes
+BFPYWIDHMRZLRN-UHFFFAOYSA-N,Ethinyl estradiol,steroid,other,yes
+QGXBDMJGAMFCBF-UHFFFAOYSA-N,Androsterone,steroid,other,yes
+NNJVILVZKWQKPM-UHFFFAOYSA-N,Lidocaine,other-medicine,other,yes
+WSEQXVZVJXJVFP-UHFFFAOYSA-N,Escitalopram,other-medicine,other,yes
+JZQKKSLKJUAGIC-UHFFFAOYSA-N,Pindolol,other-medicine,other,yes
+CPJSUEIXXCENMM-UHFFFAOYSA-N,Phenacetin,other-medicine,other,yes
+NNYBQONXHNTVIJ-UHFFFAOYSA-N,Etodolac,other-medicine,other,yes
+SGKRLCUYIXIAHR-AKNGSSGZSA-N,Doxycycline,other-medicine,other,yes
+MKXZASYAUGDDCJ-UHFFFAOYSA-N,Dextromethorphan,morphinan,opioid,yes
+JAQUASYNZVUNQP-UHFFFAOYSA-N,Dextrorphan,morphinan,opioid,yes
+XWALNWXLMVGSFR-UHFFFAOYSA-N,Methandrostenolone,steroid,other,yes
+YLRFCQOZQXIBAB-UHFFFAOYSA-N,Fluoxymesterone,steroid,other,yes
+VOXZDWNPVJITMN-ZBRFXRBCSA-N,17.beta.-Estradiol,steroid,other,yes
+ITRJWOMZKQRYTA-UHFFFAOYSA-N,Cortisone Acetate,steroid,other,yes
+YGSDEFSMJLZEOE-UHFFFAOYSA-N,Salicylic Acid,other-medicine,other,yes
+HSRJKNPTNIJEKV-UHFFFAOYSA-N,Guaifenesin,other-medicine,other,yes
+VEQOALNAAJBPNY-UHFFFAOYSA-N,Antipyrine,other-medicine,other,yes
+XSDQTOBWRPYKKA-UHFFFAOYSA-N,Amiloride,other-medicine,other,yes
+ADEBPBSSDYVVLD-UHFFFAOYSA-N,Donepezil,other-medicine,other,yes
+QCHFTSOMWOSFHM-UHFFFAOYSA-N,Pilocarpine,other-medicine,other,yes
+SIDLZWOQUZRBRU-UHFFFAOYSA-N,Methyprylon,depressant-other,depressant,yes
+SKSDRVNGIZFJOJ-SNVBAGLBSA-N,CF3-Etomidate,depressant-other,depressant,yes
+ZURUZYHEEMDQBU-UHFFFAOYSA-N,.alpha.-hydroxy Alprazolam,benzodiazepine,depressant,yes
+RXXBBHGCAXVBES-UHFFFAOYSA-N,Oxymesterone,steroid,other,yes
+AJGUHANHCUPXSK-UHFFFAOYSA-N,AB-FUBINACA 2-fluorobenzyl isomer,carboxamide-ester-SC,cannabinoid,yes
+QZQFCOLCRXZSIK-UHFFFAOYSA-N,4'-chloro Deschloroalprazolam,benzodiazepine,depressant,yes
+PEKBASUYDUMOEX-GFCCVEGCSA-N,tert-Butomidate,depressant-other,depressant,yes
+NFDFQCUYFHCNBW-UHFFFAOYSA-N,Dienestrol,other-medicine,other,yes
+PGBFYUDKPCYIEB-UHFFFAOYSA-N,4-acetoxy MALT,tryptamine,psychedelic,yes
+VWGMIZQFXRZGKF-UHFFFAOYSA-N,N-methyl ortho-methyl Phenyl fentanyl,fentanyl-type,opioid,yes
+DSWKXTYRMTZUHK-UHFFFAOYSA-N,Despropionyl meta-Methylfentanyl,fentanyl-type,opioid,yes
+BVQGACGVAGRDPQ-UHFFFAOYSA-N,N-acetyl Norfentanyl,fentanyl-type,opioid,yes
+CJINBVDNZDUMJM-PYCFMQQDSA-N,5-fluoro BZO-POXIZID,cannabinoid-other,cannabinoid,yes
+JOSWCKYCXJMLNM-UHFFFAOYSA-N,2-fluoro QMPSB,carboxamide-ester-SC,cannabinoid,yes
+RCOBKSKAZMVBHT-UHFFFAOYSA-N,Hydroxy Bupropion,other-medicine,other,yes
+FSNGZFWOSNEUJM-UHFFFAOYSA-N,N-methoxy Mephedrone,cathinone,stimulant,yes
+XRAMUHKDZOPJDF-UHFFFAOYSA-N,5-fluoro-tert-Butylbenzyl-PINACA,carboxamide-ester-SC,cannabinoid,yes
+XNTCZYUZTNQPMD-UHFFFAOYSA-N,N-propyl Buphedrone,cathinone,stimulant,yes
+TYJLZTSBOBABQF-UHFFFAOYSA-N,Fentanyl Methyl Carbamate,fentanyl-type,opioid,yes
+DNRKTAYPGADPGW-UHFFFAOYSA-N,Cyclazodone,stimulant-other,stimulant,yes
+MZHOQWSDDOCSBN-INIZCTEOSA-N,5-fluoro MMB-P7AICA,carboxamide-ester-SC,cannabinoid,yes
+AKDKKEIHDXROHU-UHFFFAOYSA-N,N-Methylethylone,cathinone,stimulant,yes
+ZMTMHDQJUBQYPK-UHFFFAOYSA-N,para-methyl Norfentanyl,fentanyl-type,opioid,yes
+RKUNBYITZUJHSG-UHFFFAOYSA-N,Atropine,other-medicine,other,yes
+OZQOTHNGRNUPQU-UHFFFAOYSA-N,"6-methoxy-N,N-Diethylpentylone",cathinone,stimulant,yes
+KOCVQQYCRPJVAG-UHFFFAOYSA-N,ortho-fluoro Norfentanyl,fentanyl-type,opioid,yes
+BTTWKVFKBPAFDK-UHFFFAOYSA-N,4-Androstenediol,steroid,other,yes
+BTDIMHHNILQHMO-PVQCJRHBSA-N,"MDMB-4en-PINACA N-(4,5-dihydroxypentyl)-butanoic acid metabolite",carboxamide-ester-SC,cannabinoid,yes
+SATCULPHIDQDRE-UHFFFAOYSA-N,Piperonal,other-medicine,other,yes
+RZXMFZFHBTYBOE-UHFFFAOYSA-N,2-methyl-.alpha.-Pyrrolidinobutiophenone,pyrrolidinophenone,stimulant,yes
+DMHWDSGURMXMGE-UHFFFAOYSA-N,APP-CHMINACA,carboxamide-ester-SC,cannabinoid,yes
+GLAUHJTZUGIICI-UHFFFAOYSA-N,Thiophene fentanyl 3-thiophenecarboxamide,fentanyl-type,opioid,yes
+DDSUGTXSJFAMIM-UHFFFAOYSA-N,Furanyl norfentanyl,fentanyl-type,opioid,yes
+RDHQFKQIGNGIED-MRVPVSSYSA-O,Acetyl-L-carnitine,other-medicine,other,yes
+KGPAYJZAMGEDIQ-KRWDZBQOSA-N,Laudanosine,other-medicine,other,yes
+ANELGYQVEIZOQR-UHFFFAOYSA-N,N-Phenethyl Tetramethyl-4-AP,fentanyl-type,opioid,yes
+UDBQSKYSXWJXRB-UHFFFAOYSA-N,N-phenethyl-N-phenylpropionamide,fentanyl-type,opioid,yes
+RABQLHAVXBEJOF-UHFFFAOYSA-N,Tetrahydrothiophene fentanyl,fentanyl-type,opioid,yes
+MUXACZBSNWAPTG-UHFFFAOYSA-N,N-methyl-N-Isopropylcathinone,cathinone,stimulant,yes
+ZOVRTIPCNFERHY-UHFFFAOYSA-N,5-MAPB,amphetamine-type,stimulant,yes
+DIVZUDBOOCSMQO-UZYVYHOESA-N,BZO-4en-POXIZID,cannabinoid-other,cannabinoid,yes
+IFQWTLUCYHGSSI-UHFFFAOYSA-N,Despropionyl Carfentanil,fentanyl-type,opioid,yes
+ZAKOWWREFLAJOT-UHFFFAOYSA-N,.alpha.-Tocopherol Acetate,other-medicine,other,yes
+HQXKBEMWVAZFPK-UHFFFAOYSA-N,Isovaleryl fentanyl,fentanyl-type,opioid,yes
+ULRSISQFKHWZNP-UHFFFAOYSA-N,4'-chloro-.alpha.-Pyrrolidinopropiophenone,pyrrolidinophenone,stimulant,yes
+VBAHFEPKESUPDE-UHFFFAOYSA-N,2-Methoxyamphetamine,amphetamine-type,stimulant,yes
+FTTYVYBNZXIJGH-UHFFFAOYSA-N,.beta.-Hydroxythioacetyl fentanyl,fentanyl-type,opioid,yes
+CKLKGWHINGNHOK-UHFFFAOYSA-N,.alpha.-Phthalimidopropiophenone,cathinone,stimulant,yes
+NQTRBZXDWMDXAQ-UHFFFAOYSA-N,Cinazepam,benzodiazepine,depressant,yes
+JMZROFPPEXCTST-UHFFFAOYSA-N,AH 7921,opioid-other,opioid,yes
+VXJABHHJLXLNMP-UHFFFAOYSA-N,Meprylcaine,other-medicine,other,yes
+VRBKIVRKKCLPHA-UHFFFAOYSA-N,Nefazodone,other-medicine,other,yes
+AZVBJJDUDXZLTM-UHFFFAOYSA-N,Methylclonazepam,benzodiazepine,depressant,yes
+DKNWSYNQZKUICI-UHFFFAOYSA-N,Amantadine,other-medicine,other,yes
+FOGBYCHIDCWXCE-INIZCTEOSA-N,AEP-CHMINACA,carboxamide-ester-SC,cannabinoid,yes
+OYARCJMQMAFMTG-KRWDZBQOSA-N,APP-BUTINACA,carboxamide-ester-SC,cannabinoid,yes
+YBHILYKTIRIUTE-UHFFFAOYSA-N,Berberine,other-medicine,other,yes
+SMRRORRDOWXERZ-UHFFFAOYSA-N,5-fluoro CUMYL-PeGACLONE,cannabinoid-other,cannabinoid,yes
+RPWUTEXLVPDNEA-UHFFFAOYSA-N,6-fluoro DET,tryptamine,psychedelic,yes
+YEJZJVJJPVZXGX-UHFFFAOYSA-N,Lefetamine,opioid-other,opioid,yes
+GMZVRMREEHBGGF-UHFFFAOYSA-N,Piracetam,other-medicine,other,yes
+KYNAATZHNRULED-ZDUSSCGKSA-N,AB-MDMSBA,carboxamide-ester-SC,cannabinoid,yes
+JGVJLLGNTVSNSP-UHFFFAOYSA-N,N-(DOBU) Fentanyl,fentanyl-type,opioid,yes
+NQSSWDKQLVBUQN-UHFFFAOYSA-N,Metizolam,benzodiazepine,depressant,yes
+CNBGNNVCVSKAQZ-UHFFFAOYSA-N,Benzydamine,other-medicine,other,yes
+PRSUTWWKYIVBEU-UHFFFAOYSA-N,Bromadol,opioid-other,opioid,yes
+XJOJZKGOCBYKGW-UHFFFAOYSA-N,"3,4-Ethylenedioxy U-51754",opioid-other,opioid,yes
+AIZFEOPQVZBNGH-UHFFFAOYSA-N,Bentazepam,benzodiazepine,depressant,yes
+PNVNVHUZROJLTJ-UHFFFAOYSA-N,Venlafaxine,other-medicine,other,yes
+LARJEXMBQJPNFL-UHFFFAOYSA-N,N-Piperidinyl Protonitazene,nitazene,opioid,yes
+AJGASUCDTSLMNP-LLVKDONJSA-N,ADB-5Br-INACA,carboxamide-ester-SC,cannabinoid,yes
+FJRCMNJZLRNCND-UHFFFAOYSA-N,JWH-122 N-(4-pentenyl) analog,indole-ketone-SC,cannabinoid,yes
+SLVWKYAQSZKFAZ-UHFFFAOYSA-N,"3,4-difluoro U-50488",opioid-other,opioid,yes
+RUIOAJGEGJVHIU-UHFFFAOYSA-N,N-(6-APB) Fentanyl,fentanyl-type,opioid,yes
+UBXNIOQMIRVNIT-UHFFFAOYSA-N,N-(1-Benzyl-4-piperidyl)-N-benzylpropanamide,fentanyl-type,opioid,yes
+YQNQNVDNTFHQSW-UHFFFAOYSA-N,Nitazoxanide,other-medicine,other,yes
+SUHOQUVVVLNYQR-MRVPVSSYSA-N,sn-glycero-3-Phosphocholine,other-medicine,other,yes
+DDRJAANPRJIHGJ-UHFFFAOYSA-N,Creatine,other-medicine,other,yes
+AOLNSOXELLOWKK-UHFFFAOYSA-N,N-benzyl meta-fluoro Cyclopropyl norfentanyl,fentanyl-type,opioid,yes
+CGVHPULMBGGZPI-UHFFFAOYSA-N,3-fluoro MT-45,opioid-other,opioid,yes
+UFRAAIGOXGTHQX-UHFFFAOYSA-N,1-(2-Chloro-3-fluorophenyl)piperazine,stimulant-other,stimulant,yes
+BANLFAZSVPLZEB-UHFFFAOYSA-N,CUMYL-NBMICA,carboxamide-ester-SC,cannabinoid,yes
+KDPNLRQZHDJRFU-UHFFFAOYSA-N,Romifidine,other-medicine,other,yes
+FVQKQPVVCKOWLM-UHFFFAOYSA-N,5-chloro Tryptamine,tryptamine,psychedelic,yes
+ARBYGDBJECGMGA-UHFFFAOYSA-N,RU-58841,other-medicine,other,yes
+LYONXVJRBWWGQO-UHFFFAOYSA-N,Phenylpiracetam,other-medicine,other,yes
+RHDJRPPFURBGLQ-UHFFFAOYSA-N,Detomidine,other-medicine,other,yes
+ZQBMUHABRSEAIK-UXBLZVDNSA-N,AP-237,opioid-other,opioid,yes
+XWTYSIMOBUGWOL-UHFFFAOYSA-N,Terbutaline,other-medicine,other,yes
+NPHUSRHIDKYNDO-UHFFFAOYSA-N,N-Desethyl Protonitazene,nitazene,opioid,yes
+AGKZEOCNYCHVLW-UHFFFAOYSA-N,4-fluoro MT-45,opioid-other,opioid,yes
+UUOJIACWOAYWEZ-UHFFFAOYSA-N,Bopindolol,other-medicine,other,yes
+ZFXYFBGIUFBOJW-UHFFFAOYSA-N,Theophylline,other-medicine,other,yes
+LVFPLZZLKWURRJ-UHFFFAOYSA-N,N-(3C-B-fly) Fentanyl,fentanyl-type,opioid,yes
+QXAITBQSYVNQDR-ZIOPAAQOSA-N,Amitraz,other-medicine,other,yes
+SNPPWIUOZRMYNY-UHFFFAOYSA-N,Bupropion,other-medicine,other,yes
+LHZPMSHOQIWRNE-UHFFFAOYSA-M,Propofol Sulfate,depressant-other,depressant,yes
+QQXLDOJGLXJCSE-UHFFFAOYSA-N,Tropinone,other-medicine,other,yes
+ZXUMUPVQYAFTLF-UHFFFAOYSA-N,.alpha.-Ethyltryptamine,tryptamine,psychedelic,yes
+GVOUFPWUYJWQSK-UHFFFAOYSA-N,Cyclofenil,other-medicine,other,yes
+HNMJDLVMIUDJNH-PKOBYXMFSA-N,"CP 47,497-C8-homolog",cannabinoid-other,cannabinoid,yes
+KJXSIXMJHKAJOD-UHFFFAOYSA-N,Dihydromyricetin,other-medicine,other,yes
+XEDHVZKDSYZQBF-UHFFFAOYSA-N,Lasmiditan,other-medicine,other,yes
+SBDNJUWAMKYJOX-UHFFFAOYSA-N,Meclofenamate,other-medicine,other,yes
+WHTVZRBIWZFKQO-UHFFFAOYSA-N,Chloroquine,other-medicine,other,yes
+LWJALJDRFBXHKX-KZAAHDRASA-N,Bromantane,other-medicine,other,yes
+VHGCDTVCOLNTBX-UHFFFAOYSA-N,Atomoxetine,other-medicine,other,yes
+PNUYASIDNIWYQI-UHFFFAOYSA-N,NMDMSB,carboxamide-ester-SC,cannabinoid,yes
+QWCRAEMEVRGPNT-UHFFFAOYSA-N,Buspirone,other-medicine,other,yes
+RKLNONIVDFXQRX-UHFFFAOYSA-N,Bromperidol,other-medicine,other,yes
+AQHHHDLHHXJYJD-AWEZNQCLSA-N,Propranolol,other-medicine,other,yes
+KHOITXIGCFIULA-UHFFFAOYSA-N,Bisacodyl,other-medicine,other,yes
+CYHWMBVXXDIZNZ-KRWDZBQOSA-N,Remimazolam,benzodiazepine,depressant,yes
+ZRJBHWIHUMBLCN-YQEJDHNASA-N,Huperzine A,other-medicine,other,yes
+WXZMFSXDPGVJKK-UHFFFAOYSA-N,Pentaerythritol,other-medicine,other,yes
+SQVIAVUSQAWMKL-UHFFFAOYSA-N,Etilefrine,other-medicine,other,yes
+RONZAEMNMFQXRA-UHFFFAOYSA-N,Mirtazapine,other-medicine,other,yes
+KHAUCCNSUMBFOT-OAQYLSRUSA-N,ADB-FUBIATA,carboxamide-ester-SC,cannabinoid,yes
+RGLYKWWBQGJZGM-UHFFFAOYSA-N,Diethylstilbestrol,other-medicine,other,yes
+IEDVJHCEMCRBQM-UHFFFAOYSA-N,Trimethoprim,other-medicine,other,yes
+ZCTUUSNQUQURDL-UHFFFAOYSA-N,"3',4'-trimethylene-.alpha.-methylamino-Valerophenone",cathinone,stimulant,yes
+VQGDMQICNRCQEH-UFKXBGGNSA-N,MN-25,indole-ketone-SC,cannabinoid,yes
+MOPMGVMKLSZZPB-UHFFFAOYSA-N,"5,7-dichloro Tryptamine",tryptamine,psychedelic,yes
+YDOQIEUYWRSIGV-NRFANRHFSA-N,ADB-5'Br-DECINACA,carboxamide-ester-SC,cannabinoid,yes
+PYZRQGJRPPTADH-UHFFFAOYSA-N,Lamotrigine,other-medicine,other,yes
+TZFWDZFKRBELIQ-UHFFFAOYSA-N,Chlorzoxazone,other-medicine,other,yes
+PAYRUJLWNCNPSJ-UHFFFAOYSA-N,Aniline,other-medicine,other,yes
+HEMJJKBWTPKOJG-UHFFFAOYSA-N,Gemfibrozil,other-medicine,other,yes
+ASUSBMNYRHGZIG-UHFFFAOYSA-N,5-hydroxy-N-methyl Tryptamine,tryptamine,psychedelic,yes
+SBBMOHKSHNBAAX-UHFFFAOYSA-N,N-(2C-T-7) Fentanyl,fentanyl-type,opioid,yes
+KKMGSAIPMRCJFU-UHFFFAOYSA-N,"3,4-Ethylenedioxy U-47700",opioid-other,opioid,yes
+CMRJPMODSSEAPL-FYQPLNBISA-N,Trenbolone Acetate,steroid,other,yes
+VJXZPPKMTRTYIH-UHFFFAOYSA-N,bk-EABDI,cathinone,stimulant,yes
+SRAXTWKCHURJIT-UHFFFAOYSA-N,N-(2C-N) Fentanyl,fentanyl-type,opioid,yes
+POQUVOZXJFOPBC-FLFQWRMESA-N,N-acetyl W-19,opioid-other,opioid,yes
+SXFKFRRXJUJGSS-UHFFFAOYSA-N,Olivetolic Acid,other-medicine,other,yes
+ZAIPMKNFIOOWCQ-UHFFFAOYSA-N,Cephalexin,other-medicine,other,yes
+FMGYKKMPNATWHP-UHFFFAOYSA-N,MPP+,other-medicine,other,yes
+XMAYWYJOQHXEEK-UHFFFAOYSA-N,Ketoconazole,other-medicine,other,yes
+XZTYGFHCIAKPGJ-UHFFFAOYSA-N,Meclofenoxate,other-medicine,other,yes
+FXQMNNHPOYWWKI-UHFFFAOYSA-N,2-fluoro Viminol,opioid-other,opioid,yes
+AKNNEGZIBPJZJG-UHFFFAOYSA-N,Noscapine,other-medicine,other,yes
+RMMXTBMQSGEXHJ-UHFFFAOYSA-N,Aminopyrine,other-medicine,other,yes
+MVFGUOIZUNYYSO-UHFFFAOYSA-N,Prilocaine,other-medicine,other,yes
+CUHVIMMYOGQXCV-LLVKDONJSA-N,Medetomidine,other-medicine,other,yes
+CJCSPKMFHVPWAR-UHFFFAOYSA-N,Methyldopa,other-medicine,other,yes

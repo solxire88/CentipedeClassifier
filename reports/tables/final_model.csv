@@ -1,0 +1,2 @@
+method,setting,target,threshold,cv_drug_f1,holdout_drug_f1
+self-training,"logreg, threshold 0.9",sum,0.45,0.8056942864817751,0.796235968494576

@@ -1,0 +1,127 @@
+inchikey,name,family,class,predicted_family,predicted_class,confidence,uncertain
+FEUZHYRXGQTBRO-UHFFFAOYSA-N,25I-NBOH,phenethylamine-psychedelic,psychedelic,benzodiazepine,depressant,0.433,True
+UXQBKANLBLUVMK-UHFFFAOYSA-N,2-bromo Mescaline,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic,psychedelic,0.991,False
+UHVGPEBZWPKWNT-UHFFFAOYSA-N,2-Chloromethcathinone,cathinone,stimulant,cathinone,stimulant,0.977,False
+JOSWCKYCXJMLNM-UHFFFAOYSA-N,2-fluoro QMPSB,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC,cannabinoid,0.405,True
+FXQMNNHPOYWWKI-UHFFFAOYSA-N,2-fluoro Viminol,opioid-other,opioid,cannabinoid-other,cannabinoid,0.371,True
+NIWYLNFSJJLYHU-UHFFFAOYSA-N,2-Fluoroethamphetamine,amphetamine-type,stimulant,amphetamine-type,stimulant,0.848,False
+DCMOUMKIDLRIBO-UHFFFAOYSA-N,2-Fluoromethcathinone,cathinone,stimulant,cathinone,stimulant,0.86,False
+PRGXFAWAMOFULD-UHFFFAOYSA-N,2-Methylmethcathinone,cathinone,stimulant,cathinone,stimulant,0.99,False
+SLVWKYAQSZKFAZ-UHFFFAOYSA-N,"3,4-difluoro U-50488",opioid-other,opioid,other-medicine,other,0.399,True
+PVXVWWANJIWJOO-UHFFFAOYSA-N,"3,4-Methylenedioxyethylamphetamine",amphetamine-type,stimulant,amphetamine-type,stimulant,0.79,False
+PIOCLGPCMNPZFT-UHFFFAOYSA-N,3-Fluoroamphetamine,amphetamine-type,stimulant,amphetamine-type,stimulant,0.973,False
+CKPWHLGHHXSVJI-UHFFFAOYSA-N,3-Fluoroethamphetamine,amphetamine-type,stimulant,amphetamine-type,stimulant,0.859,False
+OFGOOZLOGUNDFS-UHFFFAOYSA-N,3-Methoxy PCE,arylcyclohexylamine,dissociative,arylcyclohexylamine,dissociative,0.994,False
+NPILLHMQNMXXTL-UHFFFAOYSA-N,"4,4'-Dimethylaminorex",stimulant-other,stimulant,stimulant-other,stimulant,0.958,False
+PGBFYUDKPCYIEB-UHFFFAOYSA-N,4-acetoxy MALT,tryptamine,psychedelic,tryptamine,psychedelic,0.894,False
+OMDKHOOGGJRLLX-UHFFFAOYSA-N,4-acetoxy MET,tryptamine,psychedelic,tryptamine,psychedelic,0.926,False
+CNGCYOYLGRGRQJ-UHFFFAOYSA-N,4-acetoxy PiPT,tryptamine,psychedelic,tryptamine,psychedelic,0.939,False
+WYEVVQJLTXBMPM-UHFFFAOYSA-N,"4-Acetoxy-N,N-diethyltryptamine",tryptamine,psychedelic,other-medicine,other,0.323,True
+ZPAOVGZYDSXCPK-UHFFFAOYSA-N,"4-acetoxy-N,N-Diisopropyltryptamine",tryptamine,psychedelic,tryptamine,psychedelic,0.911,False
+RRSPZEIKSCFOEE-UHFFFAOYSA-N,4-chloro-.alpha.-Pyrrolidinohexanophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone,stimulant,0.96,False
+NIGBFBTVONRYQN-UHFFFAOYSA-N,4'-chloro-.alpha.-Pyrrolidinovalerophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone,stimulant,0.981,False
+DGXWNDGLEOIEGT-UHFFFAOYSA-N,4-Fluoroamphetamine,amphetamine-type,stimulant,amphetamine-type,stimulant,0.959,False
+PUJNOWQUPWZVER-UHFFFAOYSA-N,4-Fluoroethamphetamine,amphetamine-type,stimulant,amphetamine-type,stimulant,0.885,False
+XISBAJBPDVRSPG-CHWSQXEVSA-N,4-Fluoromethylphenidate,stimulant-other,stimulant,other-medicine,other,0.56,False
+BYMOJFLMEMTDDX-UHFFFAOYSA-N,4-fluoro-.alpha.-Pyrrolidinobutiophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone,stimulant,0.926,False
+KWJGAOHXZYKBKR-UHFFFAOYSA-N,4'-hydroxy Nitazene,nitazene,opioid,nitazene,opioid,0.477,False
+LJQBMYDFWFGESC-UHFFFAOYSA-N,4-Methylaminorex,stimulant-other,stimulant,stimulant-other,stimulant,0.99,False
+NXNPGAAZKYDOPW-UHFFFAOYSA-N,4-methyl-.alpha.-Pyrrolidinobutiophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone,stimulant,0.993,False
+BXCJXJLHYMWMQU-UHFFFAOYSA-N,4-Phenyl Fentanyl,fentanyl-type,opioid,fentanyl-type,opioid,0.976,False
+DVCBBZBNZSSXMS-UHFFFAOYSA-N,5-Aminoisotonitazene,nitazene,opioid,nitazene,opioid,0.996,False
+JKYXWDCDKGVNGP-UHFFFAOYSA-N,5-bromo APINACA,carboxamide-ester-SC,cannabinoid,other-medicine,other,0.531,False
+LGENBCKWDLSPTD-XHICYHHKSA-N,5-chloro AKB48,carboxamide-ester-SC,cannabinoid,other-medicine,other,0.619,False
+UCMFSGVIEPXYIV-XHICYHHKSA-N,5-fluoro AKB48,carboxamide-ester-SC,cannabinoid,other-medicine,other,0.331,True
+CJINBVDNZDUMJM-PYCFMQQDSA-N,5-fluoro BZO-POXIZID,cannabinoid-other,cannabinoid,fentanyl-type,opioid,0.51,False
+CHSUEEBESACQDV-UHFFFAOYSA-N,5-fluoro-MDMB-PICA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC,cannabinoid,0.986,False
+ASUSBMNYRHGZIG-UHFFFAOYSA-N,5-hydroxy-N-methyl Tryptamine,tryptamine,psychedelic,tryptamine,psychedelic,0.908,False
+RFQNLMWUIJJEQF-UHFFFAOYSA-N,Acrylfentanyl,fentanyl-type,opioid,fentanyl-type,opioid,0.993,False
+JMZROFPPEXCTST-UHFFFAOYSA-N,AH 7921,opioid-other,opioid,opioid-other,opioid,0.942,False
+UCTCCIPCJZKWEZ-UHFFFAOYSA-N,AKB48,carboxamide-ester-SC,cannabinoid,opioid-other,opioid,0.453,False
+URKVBEKZCMUTQC-UHFFFAOYSA-N,AM1220,indole-ketone-SC,cannabinoid,indole-ketone-SC,opioid,0.546,False
+KSLCYQTUSSEGPT-UHFFFAOYSA-N,AM2233,indole-ketone-SC,cannabinoid,other-medicine,other,0.459,False
+VEQOALNAAJBPNY-UHFFFAOYSA-N,Antipyrine,other-medicine,other,fentanyl-type,opioid,0.376,True
+ZQBMUHABRSEAIK-UXBLZVDNSA-N,AP-237,opioid-other,opioid,opioid-other,opioid,0.502,False
+METKIMKYRPQLGS-UHFFFAOYSA-N,Atenolol,other-medicine,other,other-medicine,other,0.717,False
+VUNXBQRNMNVUMV-UHFFFAOYSA-N,Benzoylpiperazine,stimulant-other,stimulant,stimulant-other,stimulant,0.692,False
+GIKPTWKWYXCBEC-UHFFFAOYSA-N,Bromo-DragonFLY,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic,psychedelic,0.501,False
+IFKLAQQSCNILHL-UHFFFAOYSA-N,Butorphanol,morphinan,opioid,other-medicine,other,0.324,True
+DIVZUDBOOCSMQO-UZYVYHOESA-N,BZO-4en-POXIZID,cannabinoid-other,cannabinoid,fentanyl-type,opioid,0.409,True
+PUAQLLVFLMYYJJ-UHFFFAOYSA-N,Cathinone,cathinone,stimulant,stimulant-other,stimulant,0.954,False
+DAOBMYOFOPZVGI-XMHGGMMESA-N,CBGP,cannabinoid-other,cannabinoid,opioid-other,opioid,0.334,True
+ZAIPMKNFIOOWCQ-UHFFFAOYSA-N,Cephalexin,other-medicine,other,morphinan,opioid,0.547,False
+BUCORZSTKDOEKQ-UHFFFAOYSA-N,Chlordiazepoxide,benzodiazepine,depressant,benzodiazepine,depressant,0.754,False
+PCLITLDOTJTVDJ-UHFFFAOYSA-N,Chlormethiazole,depressant-other,depressant,other-medicine,other,0.418,True
+WHTVZRBIWZFKQO-UHFFFAOYSA-N,Chloroquine,other-medicine,other,other-medicine,other,0.287,True
+NQTRBZXDWMDXAQ-UHFFFAOYSA-N,Cinazepam,benzodiazepine,depressant,carboxamide-ester-SC,cannabinoid,0.887,False
+XAXMYHMKTCNRRZ-UHFFFAOYSA-N,Cinolazepam,benzodiazepine,depressant,benzodiazepine,depressant,0.645,False
+CXOXHMZGEKVPMT-UHFFFAOYSA-N,Clobazam,benzodiazepine,depressant,benzodiazepine,depressant,0.52,False
+GPZLDQAEBHTMPG-UHFFFAOYSA-N,Clonitazene,nitazene,opioid,nitazene,opioid,0.978,False
+DDRJAANPRJIHGJ-UHFFFAOYSA-N,Creatine,other-medicine,other,other-medicine,other,0.861,False
+VDYXGPCGBKLRDA-XNWCZRBMSA-N,Crotonyl fentanyl,fentanyl-type,opioid,fentanyl-type,opioid,0.99,False
+WIMLPRYZJQNQLE-UHFFFAOYSA-N,Deoxymethoxetamine,arylcyclohexylamine,dissociative,cathinone,stimulant,0.548,False
+IFQWTLUCYHGSSI-UHFFFAOYSA-N,Despropionyl Carfentanil,fentanyl-type,opioid,fentanyl-type,opioid,0.602,False
+DSWKXTYRMTZUHK-UHFFFAOYSA-N,Despropionyl meta-Methylfentanyl,fentanyl-type,opioid,fentanyl-type,opioid,0.989,False
+DUGOZIWVEXMGBE-UHFFFAOYSA-N,Dexmethylphenidate,stimulant-other,stimulant,pyrrolidinophenone,stimulant,0.468,False
+MKXZASYAUGDDCJ-UHFFFAOYSA-N,Dextromethorphan,morphinan,opioid,morphinan,stimulant,0.355,True
+JAQUASYNZVUNQP-UHFFFAOYSA-N,Dextrorphan,morphinan,opioid,other-medicine,other,0.609,False
+NFDFQCUYFHCNBW-UHFFFAOYSA-N,Dienestrol,other-medicine,other,other-medicine,other,0.623,False
+XXEPPPIWZFICOJ-UHFFFAOYSA-N,Diethylpropion,cathinone,stimulant,cathinone,stimulant,0.676,False
+ACRITBNCBMTINK-UHFFFAOYSA-N,DOC,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic,psychedelic,0.556,False
+UEEAUFJYLUJWQJ-UHFFFAOYSA-N,DOPR,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic,psychedelic,0.964,False
+SGKRLCUYIXIAHR-AKNGSSGZSA-N,Doxycycline,other-medicine,other,benzodiazepine,depressant,0.291,True
+IKXILDNPCZPPRV-UHFFFAOYSA-N,Drostanolone,steroid,other,steroid,other,0.996,False
+DBGIVFWFUFKIQN-UHFFFAOYSA-N,Fenfluramine,amphetamine-type,stimulant,amphetamine-type,stimulant,0.525,False
+ZTWHIDCAGRMKTC-UHFFFAOYSA-N,Flunitazene,nitazene,opioid,nitazene,opioid,0.81,False
+FCETYWCLCUZFJI-UHFFFAOYSA-N,Fluorexetamine,arylcyclohexylamine,dissociative,arylcyclohexylamine,dissociative,0.537,False
+YLRFCQOZQXIBAB-UHFFFAOYSA-N,Fluoxymesterone,steroid,other,steroid,other,0.752,False
+UXOFEILQVZFLRH-UHFFFAOYSA-N,FUB-144,indole-ketone-SC,cannabinoid,indole-ketone-SC,cannabinoid,0.527,False
+MWBHSNBPUSKVDD-LPSAYFBNSA-N,FUB-AKB48,carboxamide-ester-SC,cannabinoid,other-medicine,cannabinoid,0.32,True
+RERZNCLIYCABFS-UHFFFAOYSA-N,Harmaline,psychedelic-other,psychedelic,other-medicine,other,0.463,False
+BXNJHAXVSOCGBA-UHFFFAOYSA-N,Harmine,psychedelic-other,psychedelic,other-medicine,other,0.549,False
+UYXAWHWODHRRMR-UHFFFAOYSA-N,Hexobarbital,depressant-other,depressant,depressant-other,depressant,0.427,True
+CQERUJSORROCGH-UHFFFAOYSA-N,Hydroxetamine,arylcyclohexylamine,dissociative,arylcyclohexylamine,dissociative,0.602,False
+RCOBKSKAZMVBHT-UHFFFAOYSA-N,Hydroxy Bupropion,other-medicine,other,cathinone,stimulant,0.453,False
+HEFNNWSXXWATRW-UHFFFAOYSA-N,Ibuprofen,other-medicine,other,other-medicine,other,0.47,False
+LJSBBBWQTLXQEN-UHFFFAOYSA-N,JWH-015,indole-ketone-SC,cannabinoid,indole-ketone-SC,cannabinoid,0.955,False
+CNTCHEBQQFICNR-UHFFFAOYSA-N,JWH-098,indole-ketone-SC,cannabinoid,indole-ketone-SC,cannabinoid,0.855,False
+JAVDQKMSPNBPCK-UHFFFAOYSA-N,JWH-213,indole-ketone-SC,cannabinoid,indole-ketone-SC,cannabinoid,0.899,False
+YEJZJVJJPVZXGX-UHFFFAOYSA-N,Lefetamine,opioid-other,opioid,other-medicine,other,0.442,True
+DIWRORZWFLOCLC-UHFFFAOYSA-N,Lorazepam,benzodiazepine,depressant,benzodiazepine,depressant,0.616,False
+SRJKCVHWIDFUBO-UHFFFAOYSA-N,MDMB-CHMICA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC,cannabinoid,0.956,False
+XZTYGFHCIAKPGJ-UHFFFAOYSA-N,Meclofenoxate,other-medicine,other,other-medicine,other,0.314,True
+CUHVIMMYOGQXCV-LLVKDONJSA-N,Medetomidine,other-medicine,other,other-medicine,other,0.524,False
+XGHTZJUKJYZDSW-UHFFFAOYSA-N,Menitazene,nitazene,opioid,nitazene,opioid,0.996,False
+USPSMWCGHVXKMN-UHFFFAOYSA-N,Mescaline NBOMe,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic,psychedelic,0.571,False
+UXYRZJKIQKRJCF-UHFFFAOYSA-N,Mesterolone,steroid,other,steroid,other,0.995,False
+ODVCNMQMXRKHGM-UHFFFAOYSA-N,Methionitazene,nitazene,opioid,nitazene,opioid,0.995,False
+LPKTWLVEGBNOOX-UHFFFAOYSA-N,Methoxetamine,arylcyclohexylamine,dissociative,arylcyclohexylamine,dissociative,0.665,False
+NQSSWDKQLVBUQN-UHFFFAOYSA-N,Metizolam,benzodiazepine,depressant,benzodiazepine,depressant,0.984,False
+ZJQHPWUVQPJPQT-UHFFFAOYSA-N,Muscimol,psychedelic-other,psychedelic,other-medicine,other,0.706,False
+UBXNIOQMIRVNIT-UHFFFAOYSA-N,N-(1-Benzyl-4-piperidyl)-N-benzylpropanamide,fentanyl-type,opioid,fentanyl-type,opioid,0.705,False
+LVFPLZZLKWURRJ-UHFFFAOYSA-N,N-(3C-B-fly) Fentanyl,fentanyl-type,opioid,fentanyl-type,opioid,0.543,False
+RUIOAJGEGJVHIU-UHFFFAOYSA-N,N-(6-APB) Fentanyl,fentanyl-type,opioid,fentanyl-type,opioid,0.907,False
+ZRVAAGAZUWXRIP-UHFFFAOYSA-N,"N,N-Diisopropyltryptamine",tryptamine,psychedelic,tryptamine,psychedelic,0.967,False
+KBHMHROOFHVLBA-UHFFFAOYSA-N,"N,N-Dimethylcathinone",cathinone,stimulant,amphetamine-type,stimulant,0.944,False
+POQUVOZXJFOPBC-FLFQWRMESA-N,N-acetyl W-19,opioid-other,opioid,indole-ketone-SC,cannabinoid,0.311,True
+UIQMVEYFGZJHCZ-UHFFFAOYSA-N,Nalorphine,morphinan,opioid,morphinan,opioid,0.815,False
+DTNUPBSOODGRKW-UHFFFAOYSA-N,Naphyrone,pyrrolidinophenone,stimulant,pyrrolidinophenone,stimulant,0.735,False
+PNUYASIDNIWYQI-UHFFFAOYSA-N,NMDMSB,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC,cannabinoid,0.364,True
+FSNGZFWOSNEUJM-UHFFFAOYSA-N,N-methoxy Mephedrone,cathinone,stimulant,cathinone,stimulant,0.866,False
+MUXACZBSNWAPTG-UHFFFAOYSA-N,N-methyl-N-Isopropylcathinone,cathinone,stimulant,cathinone,stimulant,0.828,False
+ANELGYQVEIZOQR-UHFFFAOYSA-N,N-Phenethyl Tetramethyl-4-AP,fentanyl-type,opioid,fentanyl-type,opioid,0.877,False
+ADIMAYPTOBDMTL-UHFFFAOYSA-N,Oxazepam,benzodiazepine,depressant,benzodiazepine,depressant,0.555,False
+ZMTMHDQJUBQYPK-UHFFFAOYSA-N,para-methyl Norfentanyl,fentanyl-type,opioid,fentanyl-type,opioid,0.519,False
+WXZMFSXDPGVJKK-UHFFFAOYSA-N,Pentaerythritol,other-medicine,other,stimulant-other,stimulant,0.603,False
+VOKSWYLNZZRQPF-UHFFFAOYSA-N,Pentazocine,opioid-other,opioid,opioid-other,opioid,0.506,False
+DDBREPKUVSBGFI-UHFFFAOYSA-N,Phenobarbital,depressant-other,depressant,depressant-other,depressant,0.387,True
+QCHFTSOMWOSFHM-UHFFFAOYSA-N,Pilocarpine,other-medicine,other,other-medicine,other,0.443,True
+AYXYPKUFHZROOJ-UHFFFAOYSA-N,Pregabalin,depressant-other,depressant,depressant-other,depressant,0.71,False
+NZASCBIBXNPDMH-UHFFFAOYSA-N,Pyrithyldione,depressant-other,depressant,other-medicine,other,0.765,False
+KDPNLRQZHDJRFU-UHFFFAOYSA-N,Romifidine,other-medicine,other,other-medicine,other,0.708,False
+JUZZEWSCNBCFRL-UHFFFAOYSA-N,Tenocyclidine,arylcyclohexylamine,dissociative,arylcyclohexylamine,dissociative,0.696,False
+FQXXSQDCDRQNQE-VMDGZTHMSA-N,Thebaine,morphinan,opioid,morphinan,opioid,0.429,True
+NYVQQTOGYLBBDQ-UHFFFAOYSA-N,Thiopropamine,stimulant-other,stimulant,amphetamine-type,stimulant,0.89,False
+IEDVJHCEMCRBQM-UHFFFAOYSA-N,Trimethoprim,other-medicine,other,other-medicine,other,0.723,False
+UFDJFJYMMIZKLG-UHFFFAOYSA-N,U-47931E,opioid-other,opioid,opioid-other,opioid,0.41,True
+GSESDIFGJCCBHN-UHFFFAOYSA-N,.alpha.-PBP,pyrrolidinophenone,stimulant,pyrrolidinophenone,stimulant,0.952,False

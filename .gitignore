@@ -1,0 +1,20 @@
+# environments and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+node_modules/
+.next/
+*.tsbuildinfo
+.env*.local
+
+# the NIST library and what is derived from it is not redistributed
+data/raw/
+data/processed/
+app/backend/data/
+
+# assignment documents and local notes
+docs/
+*.pdf
+
+# browser-test output
+.playwright-mcp/

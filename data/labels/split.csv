@@ -1,0 +1,638 @@
+inchikey,name,family,class,group,cutoff,set,fold_0,fold_1,fold_2
+LQZHCIPFXVLYCQ-UHFFFAOYSA-N,4-Phenylmethamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_19,0.5,train,0,1,2
+UFRAAIGOXGTHQX-UHFFFAOYSA-N,1-(2-Chloro-3-fluorophenyl)piperazine,stimulant-other,stimulant,stimulant-other_0.5_243,0.5,train,2,0,2
+VNZLQLYBRIOLFZ-UHFFFAOYSA-N,1-(2-Methoxyphenyl)piperazine,stimulant-other,stimulant,stimulant-other_0.5_242,0.5,train,3,3,0
+VHFVKMTVMIZMIK-UHFFFAOYSA-N,1-(3-Chlorophenyl)piperazine,stimulant-other,stimulant,stimulant-other_0.5_43,0.5,train,3,1,3
+KKIMDKMETPPURN-UHFFFAOYSA-N,1-(3-Trifluoromethylphenyl)piperazine,stimulant-other,stimulant,stimulant-other_0.5_43,0.5,train,3,1,3
+MRDGZSKYFPGAKP-UHFFFAOYSA-N,1-(4-Methoxyphenyl)piperazine,stimulant-other,stimulant,stimulant-other_0.5_43,0.5,train,3,1,3
+UNBMPKNTYKDYCG-UHFFFAOYSA-N,"1,3-Dimethylbutylamine",stimulant-other,stimulant,stimulant-other_0.5_241,0.5,train,2,3,4
+VOXZDWNPVJITMN-ZBRFXRBCSA-N,17.beta.-Estradiol,steroid,other,steroid_0.5_86,0.5,train,3,3,2
+IQXXEPZFOOTTBA-UHFFFAOYSA-N,1-Benzylpiperazine,stimulant-other,stimulant,stimulant-other_0.5_240,0.5,train,0,2,0
+SVRFNPSJPIDUBC-DYESRHJHSA-N,1B-LSD,psychedelic-other,psychedelic,psychedelic-other_0.7_13,0.7,train,2,4,4
+RAFUPYYDHPFASC-UHFFFAOYSA-N,1cP-LSD,psychedelic-other,psychedelic,psychedelic-other_0.7_13,0.7,train,2,4,4
+RSBBZALMPUUEKF-AUSIDOKSSA-N,1H-LSD,psychedelic-other,psychedelic,psychedelic-other_0.7_13,0.7,train,2,4,4
+JSMQOVGXBIDBIE-UHFFFAOYSA-N,1P-LSD,psychedelic-other,psychedelic,psychedelic-other_0.7_13,0.7,train,2,4,4
+GIIBVGJWUZNECE-XMSQKQJNSA-N,1V-LSD,psychedelic-other,psychedelic,psychedelic-other_0.7_13,0.7,train,2,4,4
+BYCDHAVFKDTVAM-UHFFFAOYSA-N,"2,2,3,3-Tetramethyl-Cyclopropyl fentanyl",fentanyl-type,opioid,fentanyl-type_0.7_19,0.7,train,3,1,2
+NFOSUSKGYPPAMT-UHFFFAOYSA-N,25B-NB3OMe,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_10,0.6,train,3,1,2
+ATMBBMXJNIJRST-UHFFFAOYSA-N,25B-NBF,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_10,0.6,train,3,1,2
+RSUNJYKZRKIBNB-UHFFFAOYSA-N,25B-NBOH,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_10,0.6,train,3,1,2
+SUXGNJVVBGJEFB-UHFFFAOYSA-N,25B-NBOMe,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_10,0.6,train,3,1,2
+FJFPOGCVVLUYAQ-UHFFFAOYSA-N,25C-NBOMe,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_10,0.6,train,3,1,2
+RMLXCDMTGWSEOU-UHFFFAOYSA-N,25H-NBOMe,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_10,0.6,train,3,1,2
+FEUZHYRXGQTBRO-UHFFFAOYSA-N,25I-NBOH,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_75,0.6,holdout,,,
+ZFUOLNAKPBFDIJ-UHFFFAOYSA-N,25I-NBOMe,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_10,0.6,train,3,1,2
+QHEBYIJRKGDFGH-UHFFFAOYSA-N,25P-NBOMe,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_10,0.6,train,3,1,2
+OZEBFZPAWCXEGK-UHFFFAOYSA-N,25T2-NBOMe,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_10,0.6,train,3,1,2
+CPVMNHOHOSNFOP-UHFFFAOYSA-N,25T7-NBOMe,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_10,0.6,train,3,1,2
+XPMMBFIMXKSQIQ-UHFFFAOYSA-N,2-bromo Deschloroketamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_18,0.6,train,0,4,2
+VKRAXSZEDRWLAG-SJKOYZFVSA-N,2-bromo LSD,psychedelic-other,psychedelic,psychedelic-other_0.7_430,0.7,train,4,3,0
+UXQBKANLBLUVMK-UHFFFAOYSA-N,2-bromo Mescaline,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_299,0.6,holdout,,,
+YMHOBZXQZVXHBM-UHFFFAOYSA-N,2C-B,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_30,0.6,train,0,3,3
+YZDFADGMVOSVIX-UHFFFAOYSA-N,2C-B-FLY,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_298,0.6,train,2,4,4
+CGKQFIWIPSIVAS-UHFFFAOYSA-N,2C-C,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_30,0.6,train,0,3,3
+UNQQFDCVEMVQHM-UHFFFAOYSA-N,2C-D,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_30,0.6,train,0,3,3
+VDRGNAMREYBIHA-UHFFFAOYSA-N,2C-E,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_30,0.6,train,0,3,3
+WNCUVUUEJZEATP-UHFFFAOYSA-N,2C-H,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_297,0.6,train,1,4,1
+UHVGPEBZWPKWNT-UHFFFAOYSA-N,2-Chloromethcathinone,cathinone,stimulant,cathinone_0.6_73,0.6,holdout,,,
+PQHQBRJAAZQXHL-UHFFFAOYSA-N,2C-I,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_30,0.6,train,0,3,3
+HCWQGDLBIKOJPM-UHFFFAOYSA-N,2C-T-2,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_30,0.6,train,0,3,3
+PHFAGYYTDLITTB-UHFFFAOYSA-N,2-Fluoro Deschloroketamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_18,0.6,train,0,4,2
+BZESPHAKQKJBSM-UHFFFAOYSA-N,2-fluoro MT-45,opioid-other,opioid,opioid-other_0.5_47,0.5,train,1,1,0
+JOSWCKYCXJMLNM-UHFFFAOYSA-N,2-fluoro QMPSB,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_296,0.6,holdout,,,
+FXQMNNHPOYWWKI-UHFFFAOYSA-N,2-fluoro Viminol,opioid-other,opioid,opioid-other_0.5_237,0.5,holdout,,,
+GDSXNLDTQFFIEU-UHFFFAOYSA-N,2-Fluoroamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_34,0.5,train,2,4,4
+NIWYLNFSJJLYHU-UHFFFAOYSA-N,2-Fluoroethamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_29,0.5,holdout,,,
+HWUYTWQIMNJNNQ-UHFFFAOYSA-N,2'-Fluorofentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+XNWIKJYFOIDUGD-UHFFFAOYSA-N,2-Fluoromethamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_19,0.5,train,0,1,2
+DCMOUMKIDLRIBO-UHFFFAOYSA-N,2-Fluoromethcathinone,cathinone,stimulant,cathinone_0.6_73,0.6,holdout,,,
+FZJVHWISUGFFQV-UHFFFAOYSA-N,2-Furanyl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_412,0.7,train,4,4,4
+OYAUVHORXFUVAJ-UHFFFAOYSA-N,2-methoxy Ketamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_54,0.6,train,3,2,0
+VBAHFEPKESUPDE-UHFFFAOYSA-N,2-Methoxyamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_34,0.5,train,2,4,4
+LCAFYALTIFGYLM-UHFFFAOYSA-N,2'-Methyl Fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+ZEMQBDFHXOOXLY-UHFFFAOYSA-N,2-Methylamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_34,0.5,train,2,4,4
+PRGXFAWAMOFULD-UHFFFAOYSA-N,2-Methylmethcathinone,cathinone,stimulant,cathinone_0.6_73,0.6,holdout,,,
+RZXMFZFHBTYBOE-UHFFFAOYSA-N,2-methyl-.alpha.-Pyrrolidinobutiophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_521,0.8,train,4,3,2
+VVIVTDYOMWHKAE-UHFFFAOYSA-N,2-methyl-.alpha.-Pyrrolidinovalerophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_520,0.8,train,4,1,0
+NKTBCDDEERGNEI-GJZGRUSLSA-N,"3,4-difluoro U-47700",opioid-other,opioid,opioid-other_0.5_12,0.5,train,0,2,4
+SLVWKYAQSZKFAZ-UHFFFAOYSA-N,"3,4-difluoro U-50488",opioid-other,opioid,opioid-other_0.5_236,0.5,holdout,,,
+AGRVUDWDZKZCAA-UHFFFAOYSA-N,"3,4-dimethoxy-.alpha.-Pyrrolidinopentiophenone",pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_517,0.8,train,2,4,1
+IBZRXTVDTGVBIS-UHFFFAOYSA-N,"3,4-Dimethylmethcathinone",cathinone,stimulant,cathinone_0.6_72,0.6,train,3,3,3
+IKKXRCRMSQZNLG-UHFFFAOYSA-N,"3',4'-dimethyl-.alpha.-Pyrrolidinovalerophenone",pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_515,0.8,train,1,3,3
+KKMGSAIPMRCJFU-UHFFFAOYSA-N,"3,4-Ethylenedioxy U-47700",opioid-other,opioid,opioid-other_0.5_12,0.5,train,0,2,4
+XJOJZKGOCBYKGW-UHFFFAOYSA-N,"3,4-Ethylenedioxy U-51754",opioid-other,opioid,opioid-other_0.5_53,0.5,train,4,0,0
+ANUGFLCSICVCSB-UHFFFAOYSA-N,"3,4-Methylenedioxy PCP",arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_292,0.6,train,3,1,4
+UUAVKYBZWVMWSM-ZIAGYGMSSA-N,"3,4-Methylenedioxy U-47700",opioid-other,opioid,opioid-other_0.5_12,0.5,train,0,2,4
+NGBBVGZWCFBOGO-UHFFFAOYSA-N,"3,4-Methylenedioxyamphetamine",amphetamine-type,stimulant,amphetamine-type_0.5_68,0.5,train,3,0,3
+PVXVWWANJIWJOO-UHFFFAOYSA-N,"3,4-Methylenedioxyethylamphetamine",amphetamine-type,stimulant,amphetamine-type_0.5_6,0.5,holdout,,,
+SHXWCVYOXRDMCX-UHFFFAOYSA-N,"3,4-Methylenedioxymethamphetamine",amphetamine-type,stimulant,amphetamine-type_0.5_68,0.5,train,3,0,3
+SYHGEUNFJIGTRX-UHFFFAOYSA-N,"3,4-Methylenedioxypyrovalerone",pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_13,0.8,train,3,0,1
+OLVLMDVPMCIBQW-UHFFFAOYSA-N,"3,4-Methylenedioxy-.alpha.-Pyrrolidinobutiophenone",pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_13,0.8,train,3,0,1
+OBLFRFGUZZRECT-UHFFFAOYSA-N,"3,4-Methylenedioxy-.alpha.-pyrrolidinohexanophenone",pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_13,0.8,train,3,0,1
+NIYQOTCYXGXMPI-UHFFFAOYSA-N,"3,4-Methylenedioxy-.alpha.-Pyrrolidinopropiophenone",pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_509,0.8,train,2,4,3
+ZCTUUSNQUQURDL-UHFFFAOYSA-N,"3',4'-trimethylene-.alpha.-methylamino-Valerophenone",cathinone,stimulant,cathinone_0.6_101,0.6,train,2,0,0
+PXLYROINIXKFAW-UHFFFAOYSA-N,3-Bromomethcathinone,cathinone,stimulant,cathinone_0.6_7,0.6,train,4,4,1
+VOEFELLSAAJCHJ-UHFFFAOYSA-N,3-Chloromethcathinone,cathinone,stimulant,cathinone_0.6_7,0.6,train,4,4,1
+HUHBTESMMFLCAN-UHFFFAOYSA-N,3-Chloro-PCP,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_12,0.6,train,2,3,3
+BOFUZZAQNVYZFF-UHFFFAOYSA-N,3-Chlorophenmetrazine,stimulant-other,stimulant,stimulant-other_0.5_57,0.5,train,4,0,1
+CIGWUZUBQBQZAO-UHFFFAOYSA-N,"3-desoxy-3,4-Methylenedioxy Pyrovalerone",pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_503,0.8,train,1,4,4
+SLRWGPTWJAJHDF-UHFFFAOYSA-N,3-Fluoro Deschloroketamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_18,0.6,train,0,4,2
+CGVHPULMBGGZPI-UHFFFAOYSA-N,3-fluoro MT-45,opioid-other,opioid,opioid-other_0.5_47,0.5,train,1,1,0
+PIOCLGPCMNPZFT-UHFFFAOYSA-N,3-Fluoroamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_40,0.5,holdout,,,
+CKPWHLGHHXSVJI-UHFFFAOYSA-N,3-Fluoroethamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_29,0.5,holdout,,,
+QGNPBZQBUVNBKQ-UHFFFAOYSA-N,3'-Fluorofentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+RRVAUTPWWWFYQT-UHFFFAOYSA-N,3-Fluoromethamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_19,0.5,train,0,1,2
+PQIBROLLUQSNQI-UHFFFAOYSA-N,3-Fluoromethcathinone,cathinone,stimulant,cathinone_0.6_7,0.6,train,4,4,1
+PFPLGKFWWBXTNP-UHFFFAOYSA-N,3-fluoro-PCP,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_12,0.6,train,2,3,3
+GPAALPLKXRJJDE-UHFFFAOYSA-N,3-fluoro-.alpha.-Pyrrolidinopentiophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_494,0.8,train,3,4,0
+MIKNPNLBFHVMKK-UHFFFAOYSA-N,3-Hydroxy PCE,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_70,0.6,train,4,0,0
+AMSXTZUCNOKUEN-UHFFFAOYSA-N,3-Hydroxy-PCP,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_12,0.6,train,2,3,3
+OFGOOZLOGUNDFS-UHFFFAOYSA-N,3-Methoxy PCE,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_22,0.6,holdout,,,
+BQQSZHHKGPOXLN-UHFFFAOYSA-N,3-Methoxy PCP,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_24,0.6,train,1,0,1
+NLTZYGQREVLCBK-UHFFFAOYSA-N,3-methoxy Rolicyclidine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_24,0.6,train,1,0,1
+VAVRRUJYUFACKA-UHFFFAOYSA-N,3-Methoxymethcathinone,cathinone,stimulant,cathinone_0.6_42,0.6,train,1,2,0
+BMFKUCGCXMDGBK-UHFFFAOYSA-N,3-methyl PCP,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_12,0.6,train,2,3,3
+GEKLDGQKEZAPFZ-UHFFFAOYSA-N,3-Methylethcathinone,cathinone,stimulant,cathinone_0.6_69,0.6,train,3,3,4
+QDNXSIYWHYGMCD-UHFFFAOYSA-N,3-Methylmethcathinone,cathinone,stimulant,cathinone_0.6_7,0.6,train,4,4,1
+JVWXQJXUNJXIQE-UHFFFAOYSA-N,3-methyl-.alpha.-Pyrrolidinohexanophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_486,0.8,train,4,3,3
+NPILLHMQNMXXTL-UHFFFAOYSA-N,"4,4'-Dimethylaminorex",stimulant-other,stimulant,stimulant-other_0.5_100,0.5,holdout,,,
+PGBFYUDKPCYIEB-UHFFFAOYSA-N,4-acetoxy MALT,tryptamine,psychedelic,tryptamine_0.5_18,0.5,holdout,,,
+OMDKHOOGGJRLLX-UHFFFAOYSA-N,4-acetoxy MET,tryptamine,psychedelic,tryptamine_0.5_18,0.5,holdout,,,
+CNGCYOYLGRGRQJ-UHFFFAOYSA-N,4-acetoxy PiPT,tryptamine,psychedelic,tryptamine_0.5_18,0.5,holdout,,,
+WYEVVQJLTXBMPM-UHFFFAOYSA-N,"4-Acetoxy-N,N-diethyltryptamine",tryptamine,psychedelic,tryptamine_0.5_18,0.5,holdout,,,
+ZPAOVGZYDSXCPK-UHFFFAOYSA-N,"4-acetoxy-N,N-Diisopropyltryptamine",tryptamine,psychedelic,tryptamine_0.5_18,0.5,holdout,,,
+BTTWKVFKBPAFDK-UHFFFAOYSA-N,4-Androstenediol,steroid,other,steroid_0.5_63,0.5,train,0,4,0
+OOJXMFNDUXHDOV-UHFFFAOYSA-N,4-Bromomethcathinone,cathinone,stimulant,cathinone_0.6_7,0.6,train,4,4,1
+RAHKQMUBMIJUFG-UHFFFAOYSA-N,4-bromo-.alpha.-Pyrrolidinovalerophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_479,0.8,train,3,1,2
+QZQFCOLCRXZSIK-UHFFFAOYSA-N,4'-chloro Deschloroalprazolam,benzodiazepine,depressant,benzodiazepine_0.5_9,0.5,train,2,2,2
+RNBCGEIZCHBTGL-UHFFFAOYSA-N,4-Chloroethcathinone,cathinone,stimulant,cathinone_0.6_41,0.6,train,3,2,4
+XXLWNLKEOWWHDC-UHFFFAOYSA-N,4-Chloromethamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_19,0.5,train,0,1,2
+UEJBEYOXRNGPEI-UHFFFAOYSA-N,4-Chloromethcathinone,cathinone,stimulant,cathinone_0.6_7,0.6,train,4,4,1
+RRSPZEIKSCFOEE-UHFFFAOYSA-N,4-chloro-.alpha.-Pyrrolidinohexanophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_33,0.8,holdout,,,
+ULRSISQFKHWZNP-UHFFFAOYSA-N,4'-chloro-.alpha.-Pyrrolidinopropiophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_474,0.8,train,1,1,3
+NIGBFBTVONRYQN-UHFFFAOYSA-N,4'-chloro-.alpha.-Pyrrolidinovalerophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_33,0.8,holdout,,,
+FAXVCSOMTSWQNT-UHFFFAOYSA-N,4-Ethylethcathinone,cathinone,stimulant,cathinone_0.6_41,0.6,train,3,2,4
+FUYPDKFWOHBUFT-UHFFFAOYSA-N,4-Ethylmethcathinone,cathinone,stimulant,cathinone_0.6_7,0.6,train,4,4,1
+DXQSRSYIYCRPMM-UHFFFAOYSA-N,4-ethyl-.alpha.-Pyrrolidinopentiophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_471,0.8,train,2,1,1
+UVZIIUNEZHXUMY-UHFFFAOYSA-N,4-fluoro ADB,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_4,0.6,train,3,2,4
+GLHWPYBETIKGHM-UHFFFAOYSA-N,4-fluoro Deschloroketamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_18,0.6,train,0,4,2
+AGKZEOCNYCHVLW-UHFFFAOYSA-N,4-fluoro MT-45,opioid-other,opioid,opioid-other_0.5_47,0.5,train,1,1,0
+QWHXHLDNSXLAPX-UHFFFAOYSA-N,4-Fluoro Phenibut,depressant-other,depressant,depressant-other_0.5_75,0.5,train,1,0,0
+YAFFHHPPOAYLLA-UHFFFAOYSA-N,4-fluoro PV8,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_31,0.8,train,2,4,0
+DGXWNDGLEOIEGT-UHFFFAOYSA-N,4-Fluoroamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_29,0.5,holdout,,,
+PUJNOWQUPWZVER-UHFFFAOYSA-N,4-Fluoroethamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_29,0.5,holdout,,,
+KBNVGQPMFGSPPT-UHFFFAOYSA-N,4-Fluoroethcathinone,cathinone,stimulant,cathinone_0.6_41,0.6,train,3,2,4
+LSSHGONYDWDTQM-UHFFFAOYSA-N,4'-Fluorofentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+MWKQPIROPJSFRI-UHFFFAOYSA-N,4-Fluoromethamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_4,0.5,train,2,0,4
+XISBAJBPDVRSPG-CHWSQXEVSA-N,4-Fluoromethylphenidate,stimulant-other,stimulant,stimulant-other_0.5_88,0.5,holdout,,,
+BYMOJFLMEMTDDX-UHFFFAOYSA-N,4-fluoro-.alpha.-Pyrrolidinobutiophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_462,0.8,holdout,,,
+BQLSUBYYRRZHRK-UHFFFAOYSA-N,4-fluoro-.alpha.-Pyrrolidinopentiophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_31,0.8,train,2,4,0
+KBRYKXCBGISXQV-UHFFFAOYSA-N,4-hydroxy DiPT,tryptamine,psychedelic,tryptamine_0.5_15,0.5,train,3,4,1
+KWJGAOHXZYKBKR-UHFFFAOYSA-N,4'-hydroxy Nitazene,nitazene,opioid,nitazene_0.8_1,0.8,holdout,,,
+OHHYMKDBKJPILO-UHFFFAOYSA-N,4-Hydroxy-DET,tryptamine,psychedelic,tryptamine_0.5_15,0.5,train,3,4,1
+ORWQBKPSGDRPPA-UHFFFAOYSA-N,4-Hydroxy-MET,tryptamine,psychedelic,tryptamine_0.5_15,0.5,train,3,4,1
+SBUQZKJEOOQSBV-UHFFFAOYSA-N,4-Hydroxymethamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_19,0.5,train,0,1,2
+QHRXEESDYAONOU-UHFFFAOYSA-N,4-hydroxymethyl PCP,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_12,0.6,train,2,3,3
+RXKGHZCQFXXWFQ-UHFFFAOYSA-N,4-Hydroxy-MIPT,tryptamine,psychedelic,tryptamine_0.5_15,0.5,train,3,4,1
+XFQDDPQGBLSNCN-UHFFFAOYSA-N,4-Hydroxy-MPT,tryptamine,psychedelic,tryptamine_0.5_15,0.5,train,3,4,1
+HFYHBTWTJDAYGW-UHFFFAOYSA-N,4-methoxy DMT,tryptamine,psychedelic,tryptamine_0.5_10,0.5,train,4,2,4
+AVQXYMGYZVAVCH-UHFFFAOYSA-N,4-methoxy PCE,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_107,0.6,train,4,2,4
+MUZGGFNYVLGUFS-UHFFFAOYSA-N,4-Methoxy-PCP,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_12,0.6,train,2,3,3
+HWYVHRCKBXGZLV-UHFFFAOYSA-N,4-methoxy-.alpha.-Pyrrolidinopentiophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_453,0.8,train,1,3,0
+GNKKPEHVTFKLMN-UHFFFAOYSA-N,4-methyl Fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_42,0.7,train,4,0,1
+LJQBMYDFWFGESC-UHFFFAOYSA-N,4-Methylaminorex,stimulant-other,stimulant,stimulant-other_0.5_100,0.5,holdout,,,
+ZDHZDWSHLNBTEB-UHFFFAOYSA-N,4-Methylamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_67,0.5,train,4,0,3
+XPZHMMRWEBHHNI-UHFFFAOYSA-N,4-methyl-PCP,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_12,0.6,train,2,3,3
+NXNPGAAZKYDOPW-UHFFFAOYSA-N,4-methyl-.alpha.-Pyrrolidinobutiophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_448,0.8,holdout,,,
+BXCJXJLHYMWMQU-UHFFFAOYSA-N,4-Phenyl Fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_88,0.7,holdout,,,
+MOPMGVMKLSZZPB-UHFFFAOYSA-N,"5,7-dichloro Tryptamine",tryptamine,psychedelic,tryptamine_0.5_99,0.5,train,2,0,2
+DVCBBZBNZSSXMS-UHFFFAOYSA-N,5-Aminoisotonitazene,nitazene,opioid,nitazene_0.8_445,0.8,holdout,,,
+VKUMKUZDZWHMQU-UHFFFAOYSA-N,5-APB,amphetamine-type,stimulant,amphetamine-type_0.5_96,0.5,train,4,2,1
+JKYXWDCDKGVNGP-UHFFFAOYSA-N,5-bromo APINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_37,0.6,holdout,,,
+LGENBCKWDLSPTD-XHICYHHKSA-N,5-chloro AKB48,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_37,0.6,holdout,,,
+FVQKQPVVCKOWLM-UHFFFAOYSA-N,5-chloro Tryptamine,tryptamine,psychedelic,tryptamine_0.5_99,0.5,train,2,0,2
+PCHKHUKJPIKAGU-UHFFFAOYSA-N,5-cyano Isotodesnitazene,nitazene,opioid,nitazene_0.8_442,0.8,train,4,0,1
+WCBYXIBEPFZUBG-UHFFFAOYSA-N,5-fluoro AB-PINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_4,0.6,train,3,2,4
+PWEKNGSNNAKWBL-QGZVFWFLSA-N,5-fluoro ADB,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_4,0.6,train,3,2,4
+UCMFSGVIEPXYIV-XHICYHHKSA-N,5-fluoro AKB48,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_37,0.6,holdout,,,
+CJINBVDNZDUMJM-PYCFMQQDSA-N,5-fluoro BZO-POXIZID,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_93,0.5,holdout,,,
+SMRRORRDOWXERZ-UHFFFAOYSA-N,5-fluoro CUMYL-PeGACLONE,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_235,0.5,train,2,2,0
+MZHOQWSDDOCSBN-INIZCTEOSA-N,5-fluoro MMB-P7AICA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_287,0.6,train,4,3,3
+MBOCMBFDYVSGLJ-UHFFFAOYSA-N,5-fluoro PB-22,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_57,0.6,train,4,0,1
+CHSUEEBESACQDV-UHFFFAOYSA-N,5-fluoro-MDMB-PICA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_64,0.6,holdout,,,
+XRAMUHKDZOPJDF-UHFFFAOYSA-N,5-fluoro-tert-Butylbenzyl-PINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_68,0.6,train,4,0,1
+ASUSBMNYRHGZIG-UHFFFAOYSA-N,5-hydroxy-N-methyl Tryptamine,tryptamine,psychedelic,tryptamine_0.5_97,0.5,holdout,,,
+ZOVRTIPCNFERHY-UHFFFAOYSA-N,5-MAPB,amphetamine-type,stimulant,amphetamine-type_0.5_96,0.5,train,4,2,1
+HGRHWEAUHXYNNP-UHFFFAOYSA-N,5-Methoxy DALT,tryptamine,psychedelic,tryptamine_0.5_10,0.5,train,4,2,4
+WVGCRISHWANOTO-UHFFFAOYSA-N,5-methoxy DBT,tryptamine,psychedelic,tryptamine_0.5_10,0.5,train,4,2,4
+KGDVJQQWCDDEPP-UHFFFAOYSA-N,5-methoxy DET,tryptamine,psychedelic,tryptamine_0.5_10,0.5,train,4,2,4
+ZSTKHSQDNIGFLM-UHFFFAOYSA-N,5-methoxy DMT,tryptamine,psychedelic,tryptamine_0.5_10,0.5,train,4,2,4
+VVEQXDHSGNBFLZ-UHFFFAOYSA-N,5-methoxy EiPT,tryptamine,psychedelic,tryptamine_0.5_10,0.5,train,4,2,4
+AVECDEWGCOLCPZ-UHFFFAOYSA-N,5-methoxy MET,tryptamine,psychedelic,tryptamine_0.5_10,0.5,train,4,2,4
+HEDOODBJFVUQMS-UHFFFAOYSA-N,5-methoxy MiPT,tryptamine,psychedelic,tryptamine_0.5_10,0.5,train,4,2,4
+QQZJNZJNPDORBO-UHFFFAOYSA-N,5-methoxy NiPT,tryptamine,psychedelic,tryptamine_0.5_10,0.5,train,4,2,4
+DNBPMBJFRRVTSJ-UHFFFAOYSA-N,"5-methoxy-N,N-Diisopropyltryptamine",tryptamine,psychedelic,tryptamine_0.5_10,0.5,train,4,2,4
+ZARKNPABJGEAOQ-UHFFFAOYSA-N,5-methyl Etodesnitazene,nitazene,opioid,nitazene_0.8_29,0.8,train,2,2,3
+AVEHVOOTGJVOJJ-UHFFFAOYSA-N,5-Methyl Metodesnitazene,nitazene,opioid,nitazene_0.8_29,0.8,train,2,2,3
+MFXFQKMUCYHPFQ-BKRJIHRRSA-N,6-Acetylcodeine,morphinan,opioid,morphinan_0.6_19,0.6,train,0,4,1
+RPWUTEXLVPDNEA-UHFFFAOYSA-N,6-fluoro DET,tryptamine,psychedelic,tryptamine_0.5_20,0.5,train,0,3,3
+AWOWBKXVYZRYSP-UHFFFAOYSA-N,6-methoxy DMT,tryptamine,psychedelic,tryptamine_0.5_10,0.5,train,4,2,4
+OZQOTHNGRNUPQU-UHFFFAOYSA-N,"6-methoxy-N,N-Diethylpentylone",cathinone,stimulant,cathinone_0.6_286,0.6,train,2,2,4
+RYENLSMHLCNXJT-CYXFISRXSA-N,7-hydroxy Mitragynine,opioid-other,opioid,opioid-other_0.5_79,0.5,train,2,0,2
+BLLKAWANSRRHLA-IBGZPJMESA-N,AB-CHMICA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_14,0.6,train,0,4,0
+KJNZIEGLNLCWTQ-UHFFFAOYSA-N,AB-CHMINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_14,0.6,train,0,4,0
+AKOOIMKXADOPDA-UHFFFAOYSA-N,AB-FUBINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_13,0.6,train,2,3,2
+AJGUHANHCUPXSK-UHFFFAOYSA-N,AB-FUBINACA 2-fluorobenzyl isomer,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_14,0.6,train,0,4,0
+KYNAATZHNRULED-ZDUSSCGKSA-N,AB-MDMSBA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_284,0.6,train,4,0,2
+GIMHPAQOAAZSHS-UHFFFAOYSA-N,AB-PINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_4,0.6,train,3,2,4
+FYIUUQUPOKIKNI-UHFFFAOYSA-N,Acetyl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+RDHQFKQIGNGIED-MRVPVSSYSA-O,Acetyl-L-carnitine,other-medicine,other,other-medicine_0.5_232,0.5,train,0,2,4
+RTLRUOSYLFOFHV-UHFFFAOYSA-N,Acetylpsilocin,tryptamine,psychedelic,tryptamine_0.5_15,0.5,train,3,4,1
+RFQNLMWUIJJEQF-UHFFFAOYSA-N,Acrylfentanyl,fentanyl-type,opioid,fentanyl-type_0.7_39,0.7,holdout,,,
+YDOQIEUYWRSIGV-NRFANRHFSA-N,ADB-5'Br-DECINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_4,0.6,train,3,2,4
+AJGASUCDTSLMNP-LLVKDONJSA-N,ADB-5Br-INACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_103,0.6,train,1,1,3
+GPWADXHYJAZPAX-OAHLLOKOSA-N,ADB-BUTINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_4,0.6,train,3,2,4
+ZWCCSIUBHCZKOY-UHFFFAOYSA-N,ADB-CHMINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_4,0.6,train,3,2,4
+KHAUCCNSUMBFOT-OAQYLSRUSA-N,ADB-FUBIATA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_282,0.6,train,1,1,0
+ZSSGCSINPVBLQD-UHFFFAOYSA-N,ADB-FUBINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_4,0.6,train,3,2,4
+UFECWXZSRFBSHC-LLVKDONJSA-N,ADB-INACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_103,0.6,train,1,1,3
+FWTARAXQGJRQKN-UHFFFAOYSA-N,ADB-PINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_4,0.6,train,3,2,4
+GJSLOMWRLALDCT-UHFFFAOYSA-N,Adinazolam,benzodiazepine,depressant,benzodiazepine_0.5_9,0.5,train,2,2,2
+FOGBYCHIDCWXCE-INIZCTEOSA-N,AEP-CHMINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_14,0.6,train,0,4,0
+JMZROFPPEXCTST-UHFFFAOYSA-N,AH 7921,opioid-other,opioid,opioid-other_0.5_231,0.5,holdout,,,
+UCTCCIPCJZKWEZ-UHFFFAOYSA-N,AKB48,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_37,0.6,holdout,,,
+FJOWXGYLIWJFCH-UHFFFAOYSA-N,ALD-52,psychedelic-other,psychedelic,psychedelic-other_0.7_13,0.7,train,2,4,4
+IDBPHNDTYPBSNI-UHFFFAOYSA-N,Alfentanil,fentanyl-type,opioid,fentanyl-type_0.7_347,0.7,train,1,2,2
+JCQLEPDZFXGHHQ-OXQOHEQNSA-N,AL-LAD,psychedelic-other,psychedelic,psychedelic-other_0.7_24,0.7,train,1,1,3
+RLJABWOKWHXDGQ-UHFFFAOYSA-N,Allonitazene,nitazene,opioid,nitazene_0.8_0,0.8,train,1,1,0
+JNUAYHHGCXYBHX-UHFFFAOYSA-N,Allylescaline,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_32,0.6,train,4,0,0
+VREFGVBLTWBCJP-UHFFFAOYSA-N,Alprazolam,benzodiazepine,depressant,benzodiazepine_0.5_9,0.5,train,2,2,2
+URKVBEKZCMUTQC-UHFFFAOYSA-N,AM1220,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_82,0.7,holdout,,,
+ALQFAGFPQCBPED-UHFFFAOYSA-N,AM2201,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_7,0.7,train,0,2,1
+KSLCYQTUSSEGPT-UHFFFAOYSA-N,AM2233,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_82,0.7,holdout,,,
+LFFIIZFINPPEMC-UHFFFAOYSA-N,AM694,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_7,0.7,train,0,2,1
+DKNWSYNQZKUICI-UHFFFAOYSA-N,Amantadine,other-medicine,other,other-medicine_0.5_230,0.5,train,4,0,4
+XSDQTOBWRPYKKA-UHFFFAOYSA-N,Amiloride,other-medicine,other,other-medicine_0.5_229,0.5,train,3,1,2
+RMMXTBMQSGEXHJ-UHFFFAOYSA-N,Aminopyrine,other-medicine,other,other-medicine_0.5_228,0.5,train,3,1,2
+SYAKTDIEAPMBAL-UHFFFAOYSA-N,Aminorex,stimulant-other,stimulant,stimulant-other_0.5_227,0.5,train,2,2,3
+QXAITBQSYVNQDR-ZIOPAAQOSA-N,Amitraz,other-medicine,other,other-medicine_0.5_226,0.5,train,2,3,4
+VIROVYVQCGLCII-UHFFFAOYSA-N,Amobarbital,depressant-other,depressant,depressant-other_0.5_225,0.5,train,3,3,1
+KWTSXDURSIMDCE-UHFFFAOYSA-N,Amphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_19,0.5,train,0,1,2
+QGXBDMJGAMFCBF-UHFFFAOYSA-N,Androsterone,steroid,other,steroid_0.5_224,0.5,train,4,2,3
+PAYRUJLWNCNPSJ-UHFFFAOYSA-N,Aniline,other-medicine,other,other-medicine_0.5_223,0.5,train,1,3,1
+VEQOALNAAJBPNY-UHFFFAOYSA-N,Antipyrine,other-medicine,other,other-medicine_0.5_222,0.5,holdout,,,
+ZQBMUHABRSEAIK-UXBLZVDNSA-N,AP-237,opioid-other,opioid,opioid-other_0.5_221,0.5,holdout,,,
+OYARCJMQMAFMTG-KRWDZBQOSA-N,APP-BUTINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_4,0.6,train,3,2,4
+DMHWDSGURMXMGE-UHFFFAOYSA-N,APP-CHMINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_14,0.6,train,0,4,0
+TZXBEYFALIFOAG-FQEVSTJZSA-N,APP-FUBINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_13,0.6,train,2,3,2
+METKIMKYRPQLGS-UHFFFAOYSA-N,Atenolol,other-medicine,other,other-medicine_0.5_220,0.5,holdout,,,
+VHGCDTVCOLNTBX-UHFFFAOYSA-N,Atomoxetine,other-medicine,other,other-medicine_0.5_219,0.5,train,4,0,1
+RKUNBYITZUJHSG-UHFFFAOYSA-N,Atropine,other-medicine,other,other-medicine_0.5_42,0.5,train,2,1,0
+RHYGTJXOHOGQGI-UHFFFAOYSA-N,BB-22,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_57,0.6,train,4,0,1
+AIZFEOPQVZBNGH-UHFFFAOYSA-N,Bentazepam,benzodiazepine,depressant,benzodiazepine_0.5_218,0.5,train,1,1,3
+ZFAAZMIOHJNKGD-UHFFFAOYSA-N,Benzodioxole fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_328,0.7,train,1,1,2
+VUNXBQRNMNVUMV-UHFFFAOYSA-N,Benzoylpiperazine,stimulant-other,stimulant,stimulant-other_0.5_217,0.5,holdout,,,
+YXKTVDFXDRQTKV-UHFFFAOYSA-N,Benzphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_46,0.5,train,1,3,0
+CNBGNNVCVSKAQZ-UHFFFAOYSA-N,Benzydamine,other-medicine,other,other-medicine_0.5_216,0.5,train,4,0,1
+POQDXIFVWVZVML-UHFFFAOYSA-N,Benzylfentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+YBHILYKTIRIUTE-UHFFFAOYSA-N,Berberine,other-medicine,other,other-medicine_0.5_215,0.5,train,0,1,4
+KHOITXIGCFIULA-UHFFFAOYSA-N,Bisacodyl,other-medicine,other,other-medicine_0.5_214,0.5,train,1,4,3
+VJXZPPKMTRTYIH-UHFFFAOYSA-N,bk-EABDI,cathinone,stimulant,cathinone_0.6_101,0.6,train,2,0,0
+RSIHSRDYCUFFLA-UHFFFAOYSA-N,Boldenone,steroid,other,steroid_0.5_63,0.5,train,0,4,0
+UUOJIACWOAYWEZ-UHFFFAOYSA-N,Bopindolol,other-medicine,other,other-medicine_0.5_213,0.5,train,1,0,1
+PRSUTWWKYIVBEU-UHFFFAOYSA-N,Bromadol,opioid-other,opioid,opioid-other_0.5_212,0.5,train,4,0,3
+LWJALJDRFBXHKX-KZAAHDRASA-N,Bromantane,other-medicine,other,other-medicine_0.5_211,0.5,train,2,2,2
+VMIYHDSEFNYJSL-UHFFFAOYSA-N,Bromazepam,benzodiazepine,depressant,benzodiazepine_0.5_49,0.5,train,0,3,4
+KCEIOBKDDQAYCM-UHFFFAOYSA-N,Bromazolam,benzodiazepine,depressant,benzodiazepine_0.5_9,0.5,train,2,2,2
+GIKPTWKWYXCBEC-UHFFFAOYSA-N,Bromo-DragonFLY,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_259,0.6,holdout,,,
+RKLNONIVDFXQRX-UHFFFAOYSA-N,Bromperidol,other-medicine,other,other-medicine_0.5_209,0.5,train,0,1,0
+CNOFBGYRMCBVLO-UHFFFAOYSA-N,Brorphine,opioid-other,opioid,opioid-other_0.5_35,0.5,train,3,3,1
+VTTONGPRPXSUTJ-UHFFFAOYSA-N,Bufotenine,tryptamine,psychedelic,tryptamine_0.5_10,0.5,train,4,2,4
+DDPMGIMJSRUULN-UHFFFAOYSA-N,Buphedrone,cathinone,stimulant,cathinone_0.6_67,0.6,train,1,3,3
+RMRJXGBAOAMLHD-UHFFFAOYSA-N,Buprenorphine,morphinan,opioid,morphinan_0.6_257,0.6,train,4,3,0
+SNPPWIUOZRMYNY-UHFFFAOYSA-N,Bupropion,other-medicine,other,other-medicine_0.5_94,0.5,train,3,1,3
+QWCRAEMEVRGPNT-UHFFFAOYSA-N,Buspirone,other-medicine,other,other-medicine_0.5_208,0.5,train,4,3,3
+ZRIHAIZYIMGOAB-UHFFFAOYSA-N,Butabarbital,depressant-other,depressant,depressant-other_0.5_58,0.5,train,0,4,4
+NOCZAWHIDDFBFO-UHFFFAOYSA-N,Butodesnitazene,nitazene,opioid,nitazene_0.8_7,0.8,train,3,3,2
+UZZPOLCDCVWLAZ-UHFFFAOYSA-N,Butonitazene,nitazene,opioid,nitazene_0.8_0,0.8,train,1,1,0
+IFKLAQQSCNILHL-UHFFFAOYSA-N,Butorphanol,morphinan,opioid,morphinan_0.6_255,0.6,holdout,,,
+CGKQZIULZRXRRJ-UHFFFAOYSA-N,Butylone,cathinone,stimulant,cathinone_0.6_25,0.6,train,0,1,2
+QQOMYEQLWQJRKK-UHFFFAOYSA-N,Butyryl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+DIVZUDBOOCSMQO-UZYVYHOESA-N,BZO-4en-POXIZID,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_93,0.5,holdout,,,
+UVOLYTDXHDXWJU-UHFFFAOYSA-N,Cannabichromene,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_206,0.5,train,0,4,3
+QHMBSVQNZZTUGM-UHFFFAOYSA-N,Cannabidiol,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_30,0.5,train,1,3,1
+VBGLYOIFKLUMQG-UHFFFAOYSA-N,Cannabinol,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_69,0.5,train,4,1,2
+YDSDEBIZUNNPOB-UHFFFAOYSA-N,Carfentanil,fentanyl-type,opioid,fentanyl-type_0.7_42,0.7,train,4,0,1
+OFZCIYFFPZCNJE-UHFFFAOYSA-N,Carisoprodol,depressant-other,depressant,depressant-other_0.5_82,0.5,train,2,1,1
+DLNKOYKMWOXYQA-UHFFFAOYSA-N,Cathine,stimulant-other,stimulant,stimulant-other_0.5_60,0.5,train,1,3,4
+PUAQLLVFLMYYJJ-UHFFFAOYSA-N,Cathinone,cathinone,stimulant,cathinone_0.6_250,0.6,holdout,,,
+DAOBMYOFOPZVGI-XMHGGMMESA-N,CBGP,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_205,0.5,holdout,,,
+ZAIPMKNFIOOWCQ-UHFFFAOYSA-N,Cephalexin,other-medicine,other,other-medicine_0.5_204,0.5,holdout,,,
+SKSDRVNGIZFJOJ-SNVBAGLBSA-N,CF3-Etomidate,depressant-other,depressant,depressant-other_0.5_56,0.5,train,4,2,2
+BUCORZSTKDOEKQ-UHFFFAOYSA-N,Chlordiazepoxide,benzodiazepine,depressant,benzodiazepine_0.5_203,0.5,holdout,,,
+PCLITLDOTJTVDJ-UHFFFAOYSA-N,Chlormethiazole,depressant-other,depressant,depressant-other_0.5_202,0.5,holdout,,,
+WHTVZRBIWZFKQO-UHFFFAOYSA-N,Chloroquine,other-medicine,other,other-medicine_0.5_201,0.5,holdout,,,
+UARBQYKTGNWZBO-UHFFFAOYSA-N,Chlorphine,opioid-other,opioid,opioid-other_0.5_35,0.5,train,3,3,1
+TZFWDZFKRBELIQ-UHFFFAOYSA-N,Chlorzoxazone,other-medicine,other,other-medicine_0.5_200,0.5,train,4,2,1
+NQTRBZXDWMDXAQ-UHFFFAOYSA-N,Cinazepam,benzodiazepine,depressant,benzodiazepine_0.5_199,0.5,holdout,,,
+XAXMYHMKTCNRRZ-UHFFFAOYSA-N,Cinolazepam,benzodiazepine,depressant,benzodiazepine_0.5_92,0.5,holdout,,,
+MYSWGUAQZAJSOK-UHFFFAOYSA-N,Ciprofloxacin,other-medicine,other,other-medicine_0.5_198,0.5,train,2,1,1
+ZPAOSKLOFZWBLS-OFNKIYASSA-N,cis-3-methyl Butyryl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_41,0.7,train,1,2,0
+MLQRZXNZHAOCHQ-KNQAVFIVSA-N,cis-3-methyl Fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+CXOXHMZGEKVPMT-UHFFFAOYSA-N,Clobazam,benzodiazepine,depressant,benzodiazepine_0.5_197,0.5,holdout,,,
+DGBIGWXXNGSACT-UHFFFAOYSA-N,Clonazepam,benzodiazepine,depressant,benzodiazepine_0.5_32,0.5,train,3,4,0
+XJRGLCAWBRZUFC-UHFFFAOYSA-N,Clonazolam,benzodiazepine,depressant,benzodiazepine_0.5_9,0.5,train,2,2,2
+GPZLDQAEBHTMPG-UHFFFAOYSA-N,Clonitazene,nitazene,opioid,nitazene_0.8_1,0.8,holdout,,,
+NMPOSNRHZIWLLL-XUWVNRHRSA-N,Cocaethylene,stimulant-other,stimulant,stimulant-other_0.5_42,0.5,train,0,4,2
+ZPUCINDJVBIVPJ-UHFFFAOYSA-N,Cocaine,stimulant-other,stimulant,stimulant-other_0.5_42,0.5,train,0,4,2
+OROGSEYTTFOCAN-UHFFFAOYSA-N,Codeine,morphinan,opioid,morphinan_0.6_19,0.6,train,0,4,1
+ITRJWOMZKQRYTA-UHFFFAOYSA-N,Cortisone Acetate,steroid,other,steroid_0.5_91,0.5,train,1,1,0
+HNMJDLVMIUDJNH-PKOBYXMFSA-N,"CP 47,497-C8-homolog",cannabinoid-other,cannabinoid,cannabinoid-other_0.5_196,0.5,train,3,2,3
+DDRJAANPRJIHGJ-UHFFFAOYSA-N,Creatine,other-medicine,other,other-medicine_0.5_195,0.5,holdout,,,
+VDYXGPCGBKLRDA-XNWCZRBMSA-N,Crotonyl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_39,0.7,holdout,,,
+INXXQNIOWMOYEJ-UHFFFAOYSA-N,CUMYL-CBMICA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_66,0.6,train,1,1,3
+CFMZQSDQCNKGII-UHFFFAOYSA-N,CUMYL-CBMINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_66,0.6,train,1,1,3
+BANLFAZSVPLZEB-UHFFFAOYSA-N,CUMYL-NBMICA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_97,0.6,train,2,1,3
+DNRKTAYPGADPGW-UHFFFAOYSA-N,Cyclazodone,stimulant-other,stimulant,stimulant-other_0.5_194,0.5,train,1,2,1
+XHRDMQWXMFOAIX-UHFFFAOYSA-N,Cyclobutyl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_19,0.7,train,3,1,2
+GVOUFPWUYJWQSK-UHFFFAOYSA-N,Cyclofenil,other-medicine,other,other-medicine_0.5_193,0.5,train,0,4,0
+CWLVCTNETVWMMZ-UHFFFAOYSA-N,Cyclohexyl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_19,0.7,train,3,1,2
+SYSQDIUBJXIHAM-UHFFFAOYSA-N,Cyclopentenyl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_286,0.7,train,2,1,4
+YJOICMRRKWRAEL-IRXDYDNUSA-N,Cyclopropyl U-47700,opioid-other,opioid,opioid-other_0.5_12,0.5,train,0,2,4
+WIMLPRYZJQNQLE-UHFFFAOYSA-N,Deoxymethoxetamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_22,0.6,holdout,,,
+ZAGBSZSITDFFAF-UHFFFAOYSA-N,Deschloroketamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_18,0.6,train,0,4,2
+IDLSBAANXISGEI-UHFFFAOYSA-N,Deschloro-N-ethyl-ketamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_18,0.6,train,0,4,2
+IXDGGSSUYSFGOK-UHFFFAOYSA-N,Deschloronorketamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_234,0.6,train,1,1,0
+JRPANCYSRUEJDY-UHFFFAOYSA-N,Desmethylmoramide,opioid-other,opioid,opioid-other_0.5_192,0.5,train,2,4,3
+LNNWVNGFPYWNQE-UHFFFAOYSA-N,Desomorphine,morphinan,opioid,morphinan_0.6_96,0.6,train,1,1,3
+IFQWTLUCYHGSSI-UHFFFAOYSA-N,Despropionyl Carfentanil,fentanyl-type,opioid,fentanyl-type_0.7_282,0.7,holdout,,,
+DSWKXTYRMTZUHK-UHFFFAOYSA-N,Despropionyl meta-Methylfentanyl,fentanyl-type,opioid,fentanyl-type_0.7_281,0.7,holdout,,,
+RHDJRPPFURBGLQ-UHFFFAOYSA-N,Detomidine,other-medicine,other,other-medicine_0.5_190,0.5,train,3,3,2
+DUGOZIWVEXMGBE-UHFFFAOYSA-N,Dexmethylphenidate,stimulant-other,stimulant,stimulant-other_0.5_88,0.5,holdout,,,
+MKXZASYAUGDDCJ-UHFFFAOYSA-N,Dextromethorphan,morphinan,opioid,morphinan_0.6_94,0.6,holdout,,,
+JAQUASYNZVUNQP-UHFFFAOYSA-N,Dextrorphan,morphinan,opioid,morphinan_0.6_94,0.6,holdout,,,
+AAOVKJBEBIDNHE-UHFFFAOYSA-N,Diazepam,benzodiazepine,depressant,benzodiazepine_0.5_14,0.5,train,4,0,1
+VPAYQWRBBOGGPY-UHFFFAOYSA-N,Diclazepam,benzodiazepine,depressant,benzodiazepine_0.5_14,0.5,train,4,0,1
+NFDFQCUYFHCNBW-UHFFFAOYSA-N,Dienestrol,other-medicine,other,other-medicine_0.5_189,0.5,holdout,,,
+XXEPPPIWZFICOJ-UHFFFAOYSA-N,Diethylpropion,cathinone,stimulant,cathinone_0.6_60,0.6,holdout,,,
+RGLYKWWBQGJZGM-UHFFFAOYSA-N,Diethylstilbestrol,other-medicine,other,other-medicine_0.5_188,0.5,train,1,1,3
+LSSUMOWDTKZHHT-UHFFFAOYSA-N,Diethyltryptamine,tryptamine,psychedelic,tryptamine_0.5_20,0.5,train,0,3,3
+RBOXVHNMENFORY-DNJOTXNNSA-N,Dihydrocodeine,morphinan,opioid,morphinan_0.6_19,0.6,train,0,4,1
+KJXSIXMJHKAJOD-UHFFFAOYSA-N,Dihydromyricetin,other-medicine,other,other-medicine_0.5_187,0.5,train,0,4,0
+OWQIUQKMMPDHQQ-UHFFFAOYSA-N,Dimethocaine,stimulant-other,stimulant,stimulant-other_0.5_186,0.5,train,0,1,1
+OSNIIMCBVLBNGS-UHFFFAOYSA-N,Dimethylone,cathinone,stimulant,cathinone_0.6_58,0.6,train,2,0,0
+DMULVCHRPCFFGV-UHFFFAOYSA-N,Dimethyltryptamine,tryptamine,psychedelic,tryptamine_0.5_10,0.5,train,4,2,4
+SVDHSZFEQYXRDC-UHFFFAOYSA-N,Dipipanone,opioid-other,opioid,opioid-other_0.5_80,0.5,train,4,4,2
+ACRITBNCBMTINK-UHFFFAOYSA-N,DOC,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_93,0.6,holdout,,,
+ADEBPBSSDYVVLD-UHFFFAOYSA-N,Donepezil,other-medicine,other,other-medicine_0.5_185,0.5,train,3,2,4
+UEEAUFJYLUJWQJ-UHFFFAOYSA-N,DOPR,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_93,0.6,holdout,,,
+SGKRLCUYIXIAHR-AKNGSSGZSA-N,Doxycycline,other-medicine,other,other-medicine_0.5_184,0.5,holdout,,,
+IKXILDNPCZPPRV-UHFFFAOYSA-N,Drostanolone,steroid,other,steroid_0.5_81,0.5,holdout,,,
+NSCXPXDWLZORPX-UHFFFAOYSA-N,EAM2201,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_7,0.7,train,0,2,1
+KWGRBVOPPLSCSI-UHFFFAOYSA-N,Ephedrine,stimulant-other,stimulant,stimulant-other_0.5_60,0.5,train,1,3,4
+RHOGRSKNWDNCDN-UHFFFAOYSA-N,Escaline,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_32,0.6,train,4,0,0
+WSEQXVZVJXJVFP-UHFFFAOYSA-N,Escitalopram,other-medicine,other,other-medicine_0.5_183,0.5,train,4,4,1
+CDCHDCWJMGXXRH-UHFFFAOYSA-N,Estazolam,benzodiazepine,depressant,benzodiazepine_0.5_14,0.5,train,4,0,1
+BFPYWIDHMRZLRN-UHFFFAOYSA-N,Ethinyl estradiol,steroid,other,steroid_0.5_86,0.5,train,3,3,2
+NWEAJFXJKVCITM-UHFFFAOYSA-N,Ethoxyetonitazene,nitazene,opioid,nitazene_0.8_0,0.8,train,1,1,0
+MEBBOQYQMHNKCI-HZPDHXFCSA-N,Ethyl U-47700,opioid-other,opioid,opioid-other_0.5_12,0.5,train,0,2,4
+XLPJOIAZBPCHTM-UHFFFAOYSA-N,Ethylene Etonitazene,nitazene,opioid,nitazene_0.8_0,0.8,train,1,1,0
+CFBUHHXDOWWVJW-UHFFFAOYSA-N,Ethylene Nitazene,nitazene,opioid,nitazene_0.8_286,0.8,train,4,2,1
+IPSJQZUMCSELFZ-UHFFFAOYSA-N,Ethyleneoxynitazene,nitazene,opioid,nitazene_0.8_285,0.8,train,2,2,3
+MJEMIOXXNCZZFK-UHFFFAOYSA-N,Ethylone,cathinone,stimulant,cathinone_0.6_25,0.6,train,0,1,2
+SQVIAVUSQAWMKL-UHFFFAOYSA-N,Etilefrine,other-medicine,other,other-medicine_0.5_182,0.5,train,1,2,3
+BMLPNUNXHUGDOI-UHFFFAOYSA-N,Etodesnitazene,nitazene,opioid,nitazene_0.8_7,0.8,train,3,3,2
+NNYBQONXHNTVIJ-UHFFFAOYSA-N,Etodolac,other-medicine,other,other-medicine_0.5_181,0.5,train,1,0,1
+NPUKDXXFDDZOKR-LLVKDONJSA-N,Etomidate,depressant-other,depressant,depressant-other_0.5_56,0.5,train,4,2,2
+PXDBZSCGSQSKST-UHFFFAOYSA-N,Etonitazene,nitazene,opioid,nitazene_0.8_0,0.8,train,1,1,0
+YERSNXHEOIYEGX-UHFFFAOYSA-N,Eutylone,cathinone,stimulant,cathinone_0.6_25,0.6,train,0,1,2
+AOYYFUGUUIRBML-IAGOWNOFSA-N,exo-THC,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_30,0.5,train,1,3,1
+RCEKSVIFQKKFLS-UHFFFAOYSA-N,FDU-PB-22,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_217,0.6,train,2,0,1
+IKFBPFGUINLYQI-UHFFFAOYSA-N,Fencamfamine,stimulant-other,stimulant,stimulant-other_0.5_180,0.5,train,1,4,2
+NMCHYWGKBADVMK-UHFFFAOYSA-N,Fenethylline,amphetamine-type,stimulant,amphetamine-type_0.5_179,0.5,train,4,4,3
+DBGIVFWFUFKIQN-UHFFFAOYSA-N,Fenfluramine,amphetamine-type,stimulant,amphetamine-type_0.5_29,0.5,holdout,,,
+PJMPHNIQZUBGLI-UHFFFAOYSA-N,Fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+TYJLZTSBOBABQF-UHFFFAOYSA-N,Fentanyl Methyl Carbamate,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+MPZVLJCMGPYWQQ-UHFFFAOYSA-N,Flualprazolam,benzodiazepine,depressant,benzodiazepine_0.5_9,0.5,train,2,2,2
+ZRKDDZBVSZLOFS-UHFFFAOYSA-N,Flubromazepam,benzodiazepine,depressant,benzodiazepine_0.5_49,0.5,train,0,3,4
+VXGSZBZQCBNUIP-UHFFFAOYSA-N,Flubromazolam,benzodiazepine,depressant,benzodiazepine_0.5_9,0.5,train,2,2,2
+XCWWXPKOMYPTRP-UHFFFAOYSA-N,Fluetonitazene,nitazene,opioid,nitazene_0.8_0,0.8,train,1,1,0
+ZTWHIDCAGRMKTC-UHFFFAOYSA-N,Flunitazene,nitazene,opioid,nitazene_0.8_1,0.8,holdout,,,
+PPTYJKAXVCCBDU-UHFFFAOYSA-N,Flunitrazepam,benzodiazepine,depressant,benzodiazepine_0.5_61,0.5,train,1,1,3
+FCETYWCLCUZFJI-UHFFFAOYSA-N,Fluorexetamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_22,0.6,holdout,,,
+ZIGVSUYDKUDHPY-UHFFFAOYSA-N,Fluorphine,opioid-other,opioid,opioid-other_0.5_35,0.5,train,3,3,1
+YLRFCQOZQXIBAB-UHFFFAOYSA-N,Fluoxymesterone,steroid,other,steroid_0.5_178,0.5,holdout,,,
+SAADBVWGJQAEFS-UHFFFAOYSA-N,Flurazepam,benzodiazepine,depressant,benzodiazepine_0.5_9,0.5,train,2,2,2
+UXOFEILQVZFLRH-UHFFFAOYSA-N,FUB-144,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_254,0.7,holdout,,,
+MWBHSNBPUSKVDD-LPSAYFBNSA-N,FUB-AKB48,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_37,0.6,holdout,,,
+DDSUGTXSJFAMIM-UHFFFAOYSA-N,Furanyl norfentanyl,fentanyl-type,opioid,fentanyl-type_0.7_252,0.7,train,2,4,1
+UGJMXCAKCUNAIE-UHFFFAOYSA-N,Gabapentin,depressant-other,depressant,depressant-other_0.5_177,0.5,train,3,1,3
+HEMJJKBWTPKOJG-UHFFFAOYSA-N,Gemfibrozil,other-medicine,other,other-medicine_0.5_176,0.5,train,3,2,0
+HSRJKNPTNIJEKV-UHFFFAOYSA-N,Guaifenesin,other-medicine,other,other-medicine_0.5_175,0.5,train,0,4,2
+WYCLKVQLVUQKNZ-UHFFFAOYSA-N,Halazepam,benzodiazepine,depressant,benzodiazepine_0.5_14,0.5,train,4,0,1
+RERZNCLIYCABFS-UHFFFAOYSA-N,Harmaline,psychedelic-other,psychedelic,psychedelic-other_0.7_247,0.7,holdout,,,
+BXNJHAXVSOCGBA-UHFFFAOYSA-N,Harmine,psychedelic-other,psychedelic,psychedelic-other_0.7_246,0.7,holdout,,,
+GVGLGOZIDCSQPN-UHFFFAOYSA-N,Heroin,morphinan,opioid,morphinan_0.6_19,0.6,train,0,4,1
+FNAHUZTWOVOCTL-UHFFFAOYSA-N,Heterocodeine,morphinan,opioid,morphinan_0.6_19,0.6,train,0,4,1
+UYXAWHWODHRRMR-UHFFFAOYSA-N,Hexobarbital,depressant-other,depressant,depressant-other_0.5_172,0.5,holdout,,,
+SSQJFGMEZBFMNV-UHFFFAOYSA-N,HU-210,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_84,0.5,train,2,0,4
+ZRJBHWIHUMBLCN-YQEJDHNASA-N,Huperzine A,other-medicine,other,other-medicine_0.5_171,0.5,train,2,2,0
+LLPOLZWFYMWNKH-UHFFFAOYSA-N,Hydrocodone,morphinan,opioid,morphinan_0.6_50,0.6,train,3,2,2
+JYGXADMDTFJGBT-UHFFFAOYSA-N,Hydrocortisone,steroid,other,steroid_0.5_48,0.5,train,2,0,4
+WVLOADHCBXTIJK-UHFFFAOYSA-N,Hydromorphone,morphinan,opioid,morphinan_0.6_50,0.6,train,3,2,2
+CQERUJSORROCGH-UHFFFAOYSA-N,Hydroxetamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_22,0.6,holdout,,,
+RCOBKSKAZMVBHT-UHFFFAOYSA-N,Hydroxy Bupropion,other-medicine,other,other-medicine_0.5_170,0.5,holdout,,,
+HEFNNWSXXWATRW-UHFFFAOYSA-N,Ibuprofen,other-medicine,other,other-medicine_0.5_169,0.5,holdout,,,
+JSAXFVKTSYWRTR-UHFFFAOYSA-N,Iodorphine,opioid-other,opioid,opioid-other_0.5_35,0.5,train,3,3,1
+WRPFPNIHTOSMKU-UHFFFAOYSA-N,Isobutyryl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+VAYOSLLFUXYJDT-KBXCAEBGSA-N,iso-LSD,psychedelic-other,psychedelic,psychedelic-other_0.7_24,0.7,train,1,1,3
+LGYQSYWASFBSHJ-IAGOWNOFSA-N,Isopropyl U-47700,opioid-other,opioid,opioid-other_0.5_12,0.5,train,0,2,4
+MXCQZQAWFBUAJT-UHFFFAOYSA-N,Isotodesnitazene,nitazene,opioid,nitazene_0.8_246,0.8,train,4,0,1
+OIOQREYBGDAYGT-UHFFFAOYSA-N,Isotonitazene,nitazene,opioid,nitazene_0.8_0,0.8,train,1,1,0
+HQXKBEMWVAZFPK-UHFFFAOYSA-N,Isovaleryl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+LJSBBBWQTLXQEN-UHFFFAOYSA-N,JWH-015,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_239,0.7,holdout,,,
+JDNLPKCAXICMBW-UHFFFAOYSA-N,JWH-018,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_3,0.7,train,1,1,3
+PALJPGHWDUHUPO-UHFFFAOYSA-N,JWH-019,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_3,0.7,train,1,1,3
+VCHHHSMPMLNVGS-UHFFFAOYSA-N,JWH-073,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_7,0.7,train,0,2,1
+PGOAKRPGOLHODL-UHFFFAOYSA-N,JWH-080,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_72,0.7,train,3,0,0
+UBMPKJKGUQDHRM-UHFFFAOYSA-N,JWH-081,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_3,0.7,train,1,1,3
+CNTCHEBQQFICNR-UHFFFAOYSA-N,JWH-098,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_71,0.7,holdout,,,
+AQHPTHKEKSWGPO-UHFFFAOYSA-N,JWH-116,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_238,0.7,train,3,3,0
+HUKJQMKQFWYIHS-UHFFFAOYSA-N,JWH-122,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_3,0.7,train,1,1,3
+FJRCMNJZLRNCND-UHFFFAOYSA-N,JWH-122 N-(4-pentenyl) analog,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_3,0.7,train,1,1,3
+SZWYXJHTNGJPKU-UHFFFAOYSA-N,JWH-200,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_237,0.7,train,3,0,2
+KQRKUKYSZPHOKC-UHFFFAOYSA-N,JWH-201,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_35,0.7,train,2,0,4
+YDINKDBAZJOSLV-UHFFFAOYSA-N,JWH-203,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_70,0.7,train,3,3,0
+LACIUQLUNACUKC-UHFFFAOYSA-N,JWH-210,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_3,0.7,train,1,1,3
+JAVDQKMSPNBPCK-UHFFFAOYSA-N,JWH-213,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_71,0.7,holdout,,,
+FFLSJIQJQKDDCM-UHFFFAOYSA-N,JWH-250,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_70,0.7,train,3,3,0
+XZVYWLVYUAQEIM-UHFFFAOYSA-N,JWH-302,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_35,0.7,train,2,0,4
+IUWBHGFOHXVVKV-UHFFFAOYSA-N,JWH-398,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_3,0.7,train,1,1,3
+YQEZLKZALYSWHR-UHFFFAOYSA-N,Ketamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_18,0.6,train,0,4,2
+XMAYWYJOQHXEEK-UHFFFAOYSA-N,Ketoconazole,other-medicine,other,other-medicine_0.5_168,0.5,train,2,2,0
+PYZRQGJRPPTADH-UHFFFAOYSA-N,Lamotrigine,other-medicine,other,other-medicine_0.5_167,0.5,train,4,4,4
+XEDHVZKDSYZQBF-UHFFFAOYSA-N,Lasmiditan,other-medicine,other,other-medicine_0.5_166,0.5,train,1,2,2
+KGPAYJZAMGEDIQ-KRWDZBQOSA-N,Laudanosine,other-medicine,other,other-medicine_0.5_165,0.5,train,2,4,0
+YEJZJVJJPVZXGX-UHFFFAOYSA-N,Lefetamine,opioid-other,opioid,opioid-other_0.5_83,0.5,holdout,,,
+NNJVILVZKWQKPM-UHFFFAOYSA-N,Lidocaine,other-medicine,other,other-medicine_0.5_164,0.5,train,1,3,3
+VOBHXZCDAVEXEY-UHFFFAOYSA-N,Lisdexamfetamine,amphetamine-type,stimulant,amphetamine-type_0.5_163,0.5,train,1,3,0
+ORXQUAPZHKCCAX-UHFFFAOYSA-N,Lophophine,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_194,0.6,train,1,2,1
+DIWRORZWFLOCLC-UHFFFAOYSA-N,Lorazepam,benzodiazepine,depressant,benzodiazepine_0.5_44,0.5,holdout,,,
+VAYOSLLFUXYJDT-UHFFFAOYSA-N,LSD,psychedelic-other,psychedelic,psychedelic-other_0.7_24,0.7,train,1,1,3
+DUKNIHFTDAXJON-CTQRGLTFSA-N,LSZ,psychedelic-other,psychedelic,psychedelic-other_0.7_227,0.7,train,0,2,1
+CZRJGQXHVRNZRZ-UHFFFAOYSA-N,Lysergic acid N-(methylpropyl)amide,psychedelic-other,psychedelic,psychedelic-other_0.7_24,0.7,train,1,1,3
+IGBHZHCGWLHBAE-UHFFFAOYSA-N,MAM2201,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_3,0.7,train,1,1,3
+ZPXSCAKFGYXMGA-UHFFFAOYSA-N,Mazindol,stimulant-other,stimulant,stimulant-other_0.5_162,0.5,train,4,2,0
+KMTRIILAGPIBSD-MRXNPFEDSA-N,MDMB-3en-BUTINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_13,0.6,train,2,3,2
+LWOCBHBFWNGPGM-QGZVFWFLSA-N,MDMB-4en-PINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_4,0.6,train,3,2,4
+BTDIMHHNILQHMO-PVQCJRHBSA-N,"MDMB-4en-PINACA N-(4,5-dihydroxypentyl)-butanoic acid metabolite",carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_4,0.6,train,3,2,4
+YHAWFWPNIXPRDT-MRXNPFEDSA-N,MDMB-BUTINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_4,0.6,train,3,2,4
+SRJKCVHWIDFUBO-UHFFFAOYSA-N,MDMB-CHMICA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_64,0.6,holdout,,,
+RFCDVEHNYDVCMU-UHFFFAOYSA-N,MDMB-FUBINACA,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_13,0.6,train,2,3,2
+NBUSAPJNASSKBP-UHFFFAOYSA-N,Mebroqualone,depressant-other,depressant,depressant-other_0.5_161,0.5,train,1,1,3
+SBDNJUWAMKYJOX-UHFFFAOYSA-N,Meclofenamate,other-medicine,other,other-medicine_0.5_160,0.5,train,2,3,0
+XZTYGFHCIAKPGJ-UHFFFAOYSA-N,Meclofenoxate,other-medicine,other,other-medicine_0.5_159,0.5,holdout,,,
+YLCXGBZIZBEVPZ-UHFFFAOYSA-N,Medazepam,benzodiazepine,depressant,benzodiazepine_0.5_14,0.5,train,4,0,1
+CUHVIMMYOGQXCV-LLVKDONJSA-N,Medetomidine,other-medicine,other,other-medicine_0.5_158,0.5,holdout,,,
+XGHTZJUKJYZDSW-UHFFFAOYSA-N,Menitazene,nitazene,opioid,nitazene_0.8_1,0.8,holdout,,,
+XADCESSVHJOZHK-UHFFFAOYSA-N,Meperidine,opioid-other,opioid,opioid-other_0.5_77,0.5,train,2,4,3
+YELGFTGWJGBAQU-UHFFFAOYSA-N,Mephedrone,cathinone,stimulant,cathinone_0.6_7,0.6,train,4,4,1
+RXQCGGRTAILOIN-UHFFFAOYSA-N,Mephentermine,amphetamine-type,stimulant,amphetamine-type_0.5_74,0.5,train,3,2,1
+NPPQSCRMBWNHMW-UHFFFAOYSA-N,Meprobamate,depressant-other,depressant,depressant-other_0.5_82,0.5,train,2,1,1
+VXJABHHJLXLNMP-UHFFFAOYSA-N,Meprylcaine,other-medicine,other,other-medicine_0.5_157,0.5,train,0,0,4
+RHCSKNNOAZULRK-UHFFFAOYSA-N,Mescaline,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_32,0.6,train,4,0,0
+USPSMWCGHVXKMN-UHFFFAOYSA-N,Mescaline NBOMe,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_63,0.6,holdout,,,
+UXYRZJKIQKRJCF-UHFFFAOYSA-N,Mesterolone,steroid,other,steroid_0.5_81,0.5,holdout,,,
+HNBAVLIQFTYMAX-UHFFFAOYSA-N,Metaescaline,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_32,0.6,train,4,0,0
+USSIQXCVUWKGNF-UHFFFAOYSA-N,Methadone,opioid-other,opioid,opioid-other_0.5_80,0.5,train,4,4,2
+MYWUZJCMWCOHBA-UHFFFAOYSA-N,Methamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_19,0.5,train,0,1,2
+XWALNWXLMVGSFR-UHFFFAOYSA-N,Methandrostenolone,steroid,other,steroid_0.5_48,0.5,train,2,0,4
+FWJKNZONDWOGMI-UHFFFAOYSA-N,Metharbital,depressant-other,depressant,depressant-other_0.5_156,0.5,train,0,0,0
+LPLLVINFLBSFRP-UHFFFAOYSA-N,Methcathinone,cathinone,stimulant,cathinone_0.6_7,0.6,train,4,4,1
+ODVCNMQMXRKHGM-UHFFFAOYSA-N,Methionitazene,nitazene,opioid,nitazene_0.8_1,0.8,holdout,,,
+LPKTWLVEGBNOOX-UHFFFAOYSA-N,Methoxetamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_22,0.6,holdout,,,
+ZGQWDAOLJNAADS-UHFFFAOYSA-N,Methoxmetamine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_18,0.6,train,0,4,2
+FUVLLZRVGBSHIX-HUUCEWRRSA-N,Methoxy U-47700,opioid-other,opioid,opioid-other_0.5_12,0.5,train,0,2,4
+SADNVKRDSWWFTK-UHFFFAOYSA-N,Methoxyacetyl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+AZVBJJDUDXZLTM-UHFFFAOYSA-N,Methylclonazepam,benzodiazepine,depressant,benzodiazepine_0.5_14,0.5,train,4,0,1
+CJCSPKMFHVPWAR-UHFFFAOYSA-N,Methyldopa,other-medicine,other,other-medicine_0.5_155,0.5,train,0,0,1
+RRRJUZFZCVIDSM-UHFFFAOYSA-N,Methylenedioxynitazene,nitazene,opioid,nitazene_0.8_192,0.8,train,2,0,3
+FMCGSUUBYTWNDP-UHFFFAOYSA-N,Methylephedrine,stimulant-other,stimulant,stimulant-other_0.5_60,0.5,train,1,3,4
+VKEQBMCRQDSRET-UHFFFAOYSA-N,Methylone,cathinone,stimulant,cathinone_0.6_25,0.6,train,0,1,2
+GCKMFJBGXUYNAG-UHFFFAOYSA-N,Methyltestosterone,steroid,other,steroid_0.5_48,0.5,train,2,0,4
+SIDLZWOQUZRBRU-UHFFFAOYSA-N,Methyprylon,depressant-other,depressant,depressant-other_0.5_154,0.5,train,3,2,3
+NQSSWDKQLVBUQN-UHFFFAOYSA-N,Metizolam,benzodiazepine,depressant,benzodiazepine_0.5_153,0.5,holdout,,,
+SFNKTTXBZXVGOH-UHFFFAOYSA-N,Metodesnitazene,nitazene,opioid,nitazene_0.8_7,0.8,train,3,3,2
+HNGZTLMRQTVPBH-UHFFFAOYSA-N,Metonitazene,nitazene,opioid,nitazene_0.8_0,0.8,train,1,1,0
+DDLIGBOFAVUZHB-UHFFFAOYSA-N,Midazolam,benzodiazepine,depressant,benzodiazepine_0.5_9,0.5,train,2,2,2
+RONZAEMNMFQXRA-UHFFFAOYSA-N,Mirtazapine,other-medicine,other,other-medicine_0.5_152,0.5,train,0,4,1
+LELBFTMXCIIKKX-UHFFFAOYSA-N,Mitragynine,opioid-other,opioid,opioid-other_0.5_79,0.5,train,2,0,2
+VQGDMQICNRCQEH-UFKXBGGNSA-N,MN-25,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_199,0.7,train,0,3,4
+BQJCRHHNABKAKU-UHFFFAOYSA-N,Morphine,morphinan,opioid,morphinan_0.6_19,0.6,train,0,4,1
+FMGYKKMPNATWHP-UHFFFAOYSA-N,MPP+,other-medicine,other,other-medicine_0.5_150,0.5,train,2,0,0
+IGBRRSIHEGCUEN-UHFFFAOYSA-N,MT-45,opioid-other,opioid,opioid-other_0.5_47,0.5,train,1,1,0
+ZJQHPWUVQPJPQT-UHFFFAOYSA-N,Muscimol,psychedelic-other,psychedelic,psychedelic-other_0.7_197,0.7,holdout,,,
+UBXNIOQMIRVNIT-UHFFFAOYSA-N,N-(1-Benzyl-4-piperidyl)-N-benzylpropanamide,fentanyl-type,opioid,fentanyl-type_0.7_196,0.7,holdout,,,
+SRAXTWKCHURJIT-UHFFFAOYSA-N,N-(2C-N) Fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_195,0.7,train,2,0,0
+SBBMOHKSHNBAAX-UHFFFAOYSA-N,N-(2C-T-7) Fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_194,0.7,train,3,4,0
+LVFPLZZLKWURRJ-UHFFFAOYSA-N,N-(3C-B-fly) Fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_193,0.7,holdout,,,
+RUIOAJGEGJVHIU-UHFFFAOYSA-N,N-(6-APB) Fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_192,0.7,holdout,,,
+JGVJLLGNTVSNSP-UHFFFAOYSA-N,N-(DOBU) Fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_191,0.7,train,4,2,4
+ZRVAAGAZUWXRIP-UHFFFAOYSA-N,"N,N-Diisopropyltryptamine",tryptamine,psychedelic,tryptamine_0.5_18,0.5,holdout,,,
+MYLQWWDDZNZULX-UHFFFAOYSA-N,"N,N-Dimethylamino Etonitazene",nitazene,opioid,nitazene_0.8_0,0.8,train,1,1,0
+OBDSVYOSYSKVMX-UHFFFAOYSA-N,"N,N-Dimethylamphetamine",amphetamine-type,stimulant,amphetamine-type_0.5_19,0.5,train,0,1,2
+KBHMHROOFHVLBA-UHFFFAOYSA-N,"N,N-Dimethylcathinone",cathinone,stimulant,cathinone_0.6_60,0.6,holdout,,,
+BOOQTIHIKDDPRW-UHFFFAOYSA-N,"N,N-Dipropyltryptamine",tryptamine,psychedelic,tryptamine_0.5_20,0.5,train,0,3,3
+BVQGACGVAGRDPQ-UHFFFAOYSA-N,N-acetyl Norfentanyl,fentanyl-type,opioid,fentanyl-type_0.7_188,0.7,train,2,0,0
+POQUVOZXJFOPBC-FLFQWRMESA-N,N-acetyl W-19,opioid-other,opioid,opioid-other_0.5_148,0.5,holdout,,,
+XCLNTWGFRQKLDT-UHFFFAOYSA-N,N-Acetylmethamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_46,0.5,train,1,3,0
+UIQMVEYFGZJHCZ-UHFFFAOYSA-N,Nalorphine,morphinan,opioid,morphinan_0.6_87,0.6,holdout,,,
+UZHSEJADLWPNLE-UHFFFAOYSA-N,Naloxone,morphinan,opioid,morphinan_0.6_45,0.6,train,2,0,4
+DQCKKXVULJGBQN-XFWGSAIBSA-N,Naltrexone,morphinan,opioid,morphinan_0.6_45,0.6,train,2,0,4
+WIYUZYBFCWCCQJ-IFKAHUTRSA-N,Naltrindole,morphinan,opioid,morphinan_0.6_86,0.6,train,4,1,3
+NPAGDVCDWIYMMC-UHFFFAOYSA-N,Nandrolone,steroid,other,steroid_0.5_147,0.5,train,4,4,1
+DTNUPBSOODGRKW-UHFFFAOYSA-N,Naphyrone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_161,0.8,holdout,,,
+AOLNSOXELLOWKK-UHFFFAOYSA-N,N-benzyl meta-fluoro Cyclopropyl norfentanyl,fentanyl-type,opioid,fentanyl-type_0.7_183,0.7,train,4,4,0
+VIAVBPFRYASSKF-UHFFFAOYSA-N,N-butyl Amphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_19,0.5,train,0,1,2
+NPHUSRHIDKYNDO-UHFFFAOYSA-N,N-Desethyl Protonitazene,nitazene,opioid,nitazene_0.8_158,0.8,train,4,0,1
+UOLMIGVJKXDEGR-UHFFFAOYSA-N,N-Desmethyl U-47700,opioid-other,opioid,opioid-other_0.5_12,0.5,train,0,2,4
+VRBKIVRKKCLPHA-UHFFFAOYSA-N,Nefazodone,other-medicine,other,other-medicine_0.5_146,0.5,train,3,2,1
+YAGBSNMZQKEFCO-UHFFFAOYSA-N,N-Ethylamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_19,0.5,train,0,1,2
+LYMHIBZGTAPASQ-UHFFFAOYSA-N,N-Ethylcathinone,cathinone,stimulant,cathinone_0.6_7,0.6,train,4,4,1
+RGXSEQYXMRRSTM-UHFFFAOYSA-N,N-Ethylmethamphetamine,amphetamine-type,stimulant,amphetamine-type_0.5_46,0.5,train,1,3,0
+YQNQNVDNTFHQSW-UHFFFAOYSA-N,Nitazoxanide,other-medicine,other,other-medicine_0.5_145,0.5,train,0,2,3
+KJONHKAYOJNZEC-UHFFFAOYSA-N,Nitrazepam,benzodiazepine,depressant,benzodiazepine_0.5_32,0.5,train,3,4,0
+PNUYASIDNIWYQI-UHFFFAOYSA-N,NMDMSB,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_167,0.6,holdout,,,
+FSNGZFWOSNEUJM-UHFFFAOYSA-N,N-methoxy Mephedrone,cathinone,stimulant,cathinone_0.6_166,0.6,holdout,,,
+VWGMIZQFXRZGKF-UHFFFAOYSA-N,N-methyl ortho-methyl Phenyl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_175,0.7,train,1,2,4
+AKDKKEIHDXROHU-UHFFFAOYSA-N,N-Methylethylone,cathinone,stimulant,cathinone_0.6_58,0.6,train,2,0,0
+MYEGVMLMDWYPOA-UHFFFAOYSA-N,N-methyl-N-Ethyltryptamine,tryptamine,psychedelic,tryptamine_0.5_20,0.5,train,0,3,3
+MUXACZBSNWAPTG-UHFFFAOYSA-N,N-methyl-N-Isopropylcathinone,cathinone,stimulant,cathinone_0.6_60,0.6,holdout,,,
+AYDBLCSLKNTEJL-RFQIPJPRSA-N,Norcocaine,stimulant-other,stimulant,stimulant-other_0.5_78,0.5,train,2,0,0
+HKOIXWVRNLGFOR-KOFBORESSA-N,Norcodeine,morphinan,opioid,morphinan_0.6_19,0.6,train,0,4,1
+AKPLHCDWDRPJGD-UHFFFAOYSA-N,Nordiazepam,benzodiazepine,depressant,benzodiazepine_0.5_14,0.5,train,4,0,1
+JGORUXKMRLIJSV-YNHQPCIGSA-N,Norhydrocodone,morphinan,opioid,morphinan_0.6_50,0.6,train,3,2,2
+QKHMFBKXTNQCTM-UHFFFAOYSA-N,Normeperidine,opioid-other,opioid,opioid-other_0.5_77,0.5,train,2,4,3
+AKNNEGZIBPJZJG-UHFFFAOYSA-N,Noscapine,other-medicine,other,other-medicine_0.5_141,0.5,train,4,3,3
+ANELGYQVEIZOQR-UHFFFAOYSA-N,N-Phenethyl Tetramethyl-4-AP,fentanyl-type,opioid,fentanyl-type_0.7_168,0.7,holdout,,,
+UDBQSKYSXWJXRB-UHFFFAOYSA-N,N-phenethyl-N-phenylpropionamide,fentanyl-type,opioid,fentanyl-type_0.7_167,0.7,train,1,2,4
+LARJEXMBQJPNFL-UHFFFAOYSA-N,N-Piperidinyl Protonitazene,nitazene,opioid,nitazene_0.8_6,0.8,train,0,4,4
+XNTCZYUZTNQPMD-UHFFFAOYSA-N,N-propyl Buphedrone,cathinone,stimulant,cathinone_0.6_67,0.6,train,1,3,3
+LQZWZCJCEPUKCJ-UHFFFAOYSA-N,N-Pyrrolidino Etonitazene,nitazene,opioid,nitazene_0.8_6,0.8,train,0,4,4
+JTTDZHBAEQTIPA-UHFFFAOYSA-N,N-Pyrrolidino Metonitazene,nitazene,opioid,nitazene_0.8_6,0.8,train,0,4,4
+KCRWXNIIXGBPID-UHFFFAOYSA-N,N-Pyrrolidino Protonitazene,nitazene,opioid,nitazene_0.8_6,0.8,train,0,4,4
+JJGYGPZNTOPXGV-UHFFFAOYSA-N,O-6-Monoacetylmorphine,morphinan,opioid,morphinan_0.6_34,0.6,train,1,3,0
+NYISTOZKVCMVEL-UHFFFAOYSA-N,Ocfentanil,fentanyl-type,opioid,fentanyl-type_0.7_60,0.7,train,1,0,1
+SXFKFRRXJUJGSS-UHFFFAOYSA-N,Olivetolic Acid,other-medicine,other,other-medicine_0.5_138,0.5,train,2,4,2
+FELGMEQIXOGIFQ-UHFFFAOYSA-N,Ondansetron,other-medicine,other,other-medicine_0.5_137,0.5,train,1,3,2
+XUDUTRMKKYUAKI-UHFFFAOYSA-N,Orphine,opioid-other,opioid,opioid-other_0.5_35,0.5,train,3,3,1
+KOCVQQYCRPJVAG-UHFFFAOYSA-N,ortho-fluoro Norfentanyl,fentanyl-type,opioid,fentanyl-type_0.7_163,0.7,train,2,4,1
+ADIMAYPTOBDMTL-UHFFFAOYSA-N,Oxazepam,benzodiazepine,depressant,benzodiazepine_0.5_44,0.5,holdout,,,
+BRUQQQPBMZOVGD-UHFFFAOYSA-N,Oxycodone,morphinan,opioid,morphinan_0.6_45,0.6,train,2,0,4
+RXXBBHGCAXVBES-UHFFFAOYSA-N,Oxymesterone,steroid,other,steroid_0.5_48,0.5,train,2,0,4
+UQCNKQCJZOAFTQ-UHFFFAOYSA-N,Oxymorphone,morphinan,opioid,morphinan_0.6_45,0.6,train,2,0,4
+QZFMCYUBPSLOBP-UHFFFAOYSA-N,para-Fluorobutyryl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+ZMTMHDQJUBQYPK-UHFFFAOYSA-N,para-methyl Norfentanyl,fentanyl-type,opioid,fentanyl-type_0.7_161,0.7,holdout,,,
+ZAVGICCEAOUWFM-UHFFFAOYSA-N,PB-22,carboxamide-ester-SC,cannabinoid,carboxamide-ester-SC_0.6_57,0.6,train,4,0,1
+WXZMFSXDPGVJKK-UHFFFAOYSA-N,Pentaerythritol,other-medicine,other,other-medicine_0.5_136,0.5,holdout,,,
+VOKSWYLNZZRQPF-UHFFFAOYSA-N,Pentazocine,opioid-other,opioid,opioid-other_0.5_135,0.5,holdout,,,
+WLIWIUNEJRETFX-UHFFFAOYSA-N,Pentedrone,cathinone,stimulant,cathinone_0.6_67,0.6,train,1,3,3
+WEXRUCMBJFQVBZ-UHFFFAOYSA-N,Pentobarbital,depressant-other,depressant,depressant-other_0.5_58,0.5,train,0,4,4
+DFMLULIEUUXXSA-UHFFFAOYSA-N,Pentylone,cathinone,stimulant,cathinone_0.6_25,0.6,train,0,1,2
+CPJSUEIXXCENMM-UHFFFAOYSA-N,Phenacetin,other-medicine,other,other-medicine_0.5_134,0.5,train,1,4,2
+CGMJQQJSWIRRRL-UHFFFAOYSA-N,Phenazepam,benzodiazepine,depressant,benzodiazepine_0.5_32,0.5,train,3,4,0
+JTJMJGYZQZDUJJ-UHFFFAOYSA-N,Phencyclidine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_12,0.6,train,2,3,3
+MFOCDFTXLCYLKU-UHFFFAOYSA-N,Phendimetrazine,stimulant-other,stimulant,stimulant-other_0.5_57,0.5,train,4,0,1
+DAFOCGYVTAOKAJ-UHFFFAOYSA-N,Phenibut,depressant-other,depressant,depressant-other_0.5_75,0.5,train,1,0,0
+OOBHFESNSZDWIU-UHFFFAOYSA-N,Phenmetrazine,stimulant-other,stimulant,stimulant-other_0.5_57,0.5,train,4,0,1
+DDBREPKUVSBGFI-UHFFFAOYSA-N,Phenobarbital,depressant-other,depressant,depressant-other_0.5_133,0.5,holdout,,,
+DHHVAGZRUROJKS-UHFFFAOYSA-N,Phentermine,amphetamine-type,stimulant,amphetamine-type_0.5_74,0.5,train,3,2,1
+YZTJYBJCZXZGCT-UHFFFAOYSA-N,Phenylpiperazine,stimulant-other,stimulant,stimulant-other_0.5_43,0.5,train,3,1,3
+LYONXVJRBWWGQO-UHFFFAOYSA-N,Phenylpiracetam,other-medicine,other,other-medicine_0.5_132,0.5,train,3,4,3
+QCHFTSOMWOSFHM-UHFFFAOYSA-N,Pilocarpine,other-medicine,other,other-medicine_0.5_131,0.5,holdout,,,
+JZQKKSLKJUAGIC-UHFFFAOYSA-N,Pindolol,other-medicine,other,other-medicine_0.5_73,0.5,train,3,3,3
+SATCULPHIDQDRE-UHFFFAOYSA-N,Piperonal,other-medicine,other,other-medicine_0.5_130,0.5,train,0,1,2
+GMZVRMREEHBGGF-UHFFFAOYSA-N,Piracetam,other-medicine,other,other-medicine_0.5_129,0.5,train,3,3,2
+MWQCHHACWWAQLJ-UHFFFAOYSA-N,Prazepam,benzodiazepine,depressant,benzodiazepine_0.5_14,0.5,train,4,0,1
+AYXYPKUFHZROOJ-UHFFFAOYSA-N,Pregabalin,depressant-other,depressant,depressant-other_0.5_128,0.5,holdout,,,
+MVFGUOIZUNYYSO-UHFFFAOYSA-N,Prilocaine,other-medicine,other,other-medicine_0.5_127,0.5,train,2,0,0
+LHZPMSHOQIWRNE-UHFFFAOYSA-M,Propofol Sulfate,depressant-other,depressant,depressant-other_0.5_126,0.5,train,2,3,4
+AQHHHDLHHXJYJD-AWEZNQCLSA-N,Propranolol,other-medicine,other,other-medicine_0.5_73,0.5,train,3,3,3
+ONTPYMHHQOSZRB-UHFFFAOYSA-N,Propyl U-47700,opioid-other,opioid,opioid-other_0.5_12,0.5,train,0,2,4
+HYWLMSUAZVDUFW-UHFFFAOYSA-N,Proscaline,phenethylamine-psychedelic,psychedelic,phenethylamine-psychedelic_0.6_32,0.6,train,4,0,0
+CEHFMRGBRNNSCM-UHFFFAOYSA-N,Protodesnitazene,nitazene,opioid,nitazene_0.8_7,0.8,train,3,3,2
+SJHUJFHOXYDSJY-UHFFFAOYSA-N,Protonitazene,nitazene,opioid,nitazene_0.8_0,0.8,train,1,1,0
+KYIVACLUFRUFLS-UHFFFAOYSA-N,Pseudocodeine,morphinan,opioid,morphinan_0.6_19,0.6,train,0,4,1
+SPCIYGNTAMCTRO-UHFFFAOYSA-N,Psilocin,tryptamine,psychedelic,tryptamine_0.5_15,0.5,train,3,4,1
+QVDSEJDULKLHCG-UHFFFAOYSA-N,Psilocybin,tryptamine,psychedelic,tryptamine_0.5_15,0.5,train,3,4,1
+DLRWKNLMJAIFQB-UHFFFAOYSA-N,PV8,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_3,0.8,train,0,2,4
+RCGHPLZKUHDGCC-UHFFFAOYSA-N,PV9,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_3,0.8,train,0,2,4
+BGRWSFIQQPVEML-UHFFFAOYSA-N,Pyrazolam,benzodiazepine,depressant,benzodiazepine_0.5_9,0.5,train,2,2,2
+NZASCBIBXNPDMH-UHFFFAOYSA-N,Pyrithyldione,depressant-other,depressant,depressant-other_0.5_125,0.5,holdout,,,
+IKMPWMZBZSAONZ-UHFFFAOYSA-N,Quazepam,benzodiazepine,depressant,benzodiazepine_0.5_9,0.5,train,2,2,2
+OZCYJKDWRUIFFE-UHFFFAOYSA-N,RCS-4,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_35,0.7,train,2,0,4
+BSQFBMXCQIKYNI-UHFFFAOYSA-N,RCS-8,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_138,0.7,train,2,3,0
+ZTVQQQVZCWLTDF-UHFFFAOYSA-N,Remifentanil,fentanyl-type,opioid,fentanyl-type_0.7_42,0.7,train,4,0,1
+CYHWMBVXXDIZNZ-KRWDZBQOSA-N,Remimazolam,benzodiazepine,depressant,benzodiazepine_0.5_124,0.5,train,1,1,3
+FYOWWXMGDATDQY-UHFFFAOYSA-N,Rolicyclidine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_12,0.6,train,2,3,3
+KDPNLRQZHDJRFU-UHFFFAOYSA-N,Romifidine,other-medicine,other,other-medicine_0.5_123,0.5,holdout,,,
+ARBYGDBJECGMGA-UHFFFAOYSA-N,RU-58841,other-medicine,other,other-medicine_0.5_122,0.5,train,4,1,4
+YGSDEFSMJLZEOE-UHFFFAOYSA-N,Salicylic Acid,other-medicine,other,other-medicine_0.5_121,0.5,train,4,4,0
+OBSYBRPAKCASQB-UHFFFAOYSA-N,Salvinorin A,psychedelic-other,psychedelic,psychedelic-other_0.7_49,0.7,train,3,0,2
+BLTMVAIOAAGYAR-CEFSSPBYSA-N,Salvinorin B,psychedelic-other,psychedelic,psychedelic-other_0.7_49,0.7,train,3,0,2
+KQPKPCNLIDLUMF-UHFFFAOYSA-N,Secobarbital,depressant-other,depressant,depressant-other_0.5_58,0.5,train,0,4,4
+SUHOQUVVVLNYQR-MRVPVSSYSA-N,sn-glycero-3-Phosphocholine,other-medicine,other,other-medicine_0.5_120,0.5,train,4,0,4
+LKAJKIOFIWVMDJ-UHFFFAOYSA-N,Stanozolol,steroid,other,steroid_0.5_119,0.5,train,1,2,3
+GGCSSNBKKAUURC-UHFFFAOYSA-N,Sufentanil,fentanyl-type,opioid,fentanyl-type_0.7_130,0.7,train,2,1,0
+YRCWQPVGYLYSOX-UHFFFAOYSA-N,Synephrine,stimulant-other,stimulant,stimulant-other_0.5_118,0.5,train,2,2,0
+KWTWDQCKEHXFFR-UHFFFAOYSA-N,Tapentadol,opioid-other,opioid,opioid-other_0.5_117,0.5,train,2,1,2
+SEQDDYPDSLOBDC-UHFFFAOYSA-N,Temazepam,benzodiazepine,depressant,benzodiazepine_0.5_14,0.5,train,4,0,1
+JUZZEWSCNBCFRL-UHFFFAOYSA-N,Tenocyclidine,arylcyclohexylamine,dissociative,arylcyclohexylamine_0.6_132,0.6,holdout,,,
+XWTYSIMOBUGWOL-UHFFFAOYSA-N,Terbutaline,other-medicine,other,other-medicine_0.5_116,0.5,train,1,1,3
+PEKBASUYDUMOEX-GFCCVEGCSA-N,tert-Butomidate,depressant-other,depressant,depressant-other_0.5_56,0.5,train,4,2,2
+VCVWXKKWDOJNIT-ZOMKSWQUSA-N,Tesofensine,stimulant-other,stimulant,stimulant-other_0.5_115,0.5,train,4,4,4
+RABQLHAVXBEJOF-UHFFFAOYSA-N,Tetrahydrothiophene fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_19,0.7,train,3,1,2
+UCONUSSAWGCZMV-HZPDHXFCSA-N,THCA-A,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_30,0.5,train,1,3,1
+FQXXSQDCDRQNQE-VMDGZTHMSA-N,Thebaine,morphinan,opioid,morphinan_0.6_129,0.6,holdout,,,
+ZFXYFBGIUFBOJW-UHFFFAOYSA-N,Theophylline,other-medicine,other,other-medicine_0.5_113,0.5,train,4,2,1
+YMRFZDHYDKZXPA-UHFFFAOYSA-N,Thiofentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+GLAUHJTZUGIICI-UHFFFAOYSA-N,Thiophene fentanyl 3-thiophenecarboxamide,fentanyl-type,opioid,fentanyl-type_0.7_119,0.7,train,2,2,0
+NYVQQTOGYLBBDQ-UHFFFAOYSA-N,Thiopropamine,stimulant-other,stimulant,stimulant-other_0.5_112,0.5,holdout,,,
+TVYLLZQTGLZFBW-UHFFFAOYSA-N,Tramadol,opioid-other,opioid,opioid-other_0.5_111,0.5,train,1,3,2
+CMRJPMODSSEAPL-FYQPLNBISA-N,Trenbolone Acetate,steroid,other,steroid_0.5_110,0.5,train,1,1,1
+JOFWLTCLBGQGBO-UHFFFAOYSA-N,Triazolam,benzodiazepine,depressant,benzodiazepine_0.5_9,0.5,train,2,2,2
+UVITTYOJFDLOGI-UHFFFAOYSA-N,Trimeperidine,opioid-other,opioid,opioid-other_0.5_109,0.5,train,4,0,3
+IEDVJHCEMCRBQM-UHFFFAOYSA-N,Trimethoprim,other-medicine,other,other-medicine_0.5_108,0.5,holdout,,,
+XQJMXPAEFMWDOZ-BTTYYORXSA-N,Tropacocaine,stimulant-other,stimulant,stimulant-other_0.5_42,0.5,train,0,4,2
+QQXLDOJGLXJCSE-UHFFFAOYSA-N,Tropinone,other-medicine,other,other-medicine_0.5_107,0.5,train,0,0,4
+JGPNMZWFVRQNGU-UHFFFAOYSA-N,U-47700,opioid-other,opioid,opioid-other_0.5_12,0.5,train,0,2,4
+UFDJFJYMMIZKLG-UHFFFAOYSA-N,U-47931E,opioid-other,opioid,opioid-other_0.5_106,0.5,holdout,,,
+FKUWIGXXBMULOI-UHFFFAOYSA-N,U-48800,opioid-other,opioid,opioid-other_0.5_12,0.5,train,0,2,4
+AXACJBKFKCCIOR-IAGOWNOFSA-N,U-49900,opioid-other,opioid,opioid-other_0.5_12,0.5,train,0,2,4
+NBMMIBNZVQFQEO-UHFFFAOYSA-N,UR-144,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_21,0.7,train,4,4,2
+VCCPXHWAJYWQMR-UHFFFAOYSA-N,Valeryl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_1,0.7,train,0,3,3
+PNVNVHUZROJLTJ-UHFFFAOYSA-N,Venlafaxine,other-medicine,other,other-medicine_0.5_105,0.5,train,3,0,4
+PXLDPUUMIHVLEC-UHFFFAOYSA-N,XLR11,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_21,0.7,train,4,4,2
+NXTLUQFOTQPMOD-UHFFFAOYSA-N,XLR11 N-(4-pentenyl) analog,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_21,0.7,train,4,4,2
+PEXYKZYTXIEEOB-UHFFFAOYSA-N,XLR12,indole-ketone-SC,cannabinoid,indole-ketone-SC_0.7_21,0.7,train,4,4,2
+HUNXMJYCHXQEGX-UHFFFAOYSA-N,Zaleplon,depressant-other,depressant,depressant-other_0.5_104,0.5,train,1,4,2
+ZAFYATHCZYHLPB-UHFFFAOYSA-N,Zolpidem,depressant-other,depressant,depressant-other_0.5_103,0.5,train,3,0,3
+GBBSUAFBMRNDJC-UHFFFAOYSA-N,Zopiclone,depressant-other,depressant,depressant-other_0.5_102,0.5,train,4,3,1
+ZXUMUPVQYAFTLF-UHFFFAOYSA-N,.alpha.-Ethyltryptamine,tryptamine,psychedelic,tryptamine_0.5_20,0.5,train,0,3,3
+ZURUZYHEEMDQBU-UHFFFAOYSA-N,.alpha.-hydroxy Alprazolam,benzodiazepine,depressant,benzodiazepine_0.5_9,0.5,train,2,2,2
+QSQQQURBVYWZKJ-UHFFFAOYSA-N,.alpha.-methyl Tryptamine,tryptamine,psychedelic,tryptamine_0.5_41,0.5,train,1,1,0
+GSESDIFGJCCBHN-UHFFFAOYSA-N,.alpha.-PBP,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_48,0.8,holdout,,,
+CKLKGWHINGNHOK-UHFFFAOYSA-N,.alpha.-Phthalimidopropiophenone,cathinone,stimulant,cathinone_0.6_114,0.6,train,1,0,3
+YDIIDRWHPFMLGR-UHFFFAOYSA-N,.alpha.-PVP,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_3,0.8,train,0,2,4
+FKEHRWJWTWDTDB-UHFFFAOYSA-N,.alpha.-Pyrrolidinocyclohexanophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_46,0.8,train,1,0,2
+KYIJLDDXQWBNGX-UHFFFAOYSA-N,.alpha.-Pyrrolidinohexanophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_3,0.8,train,0,2,4
+UOZWZANRCOALQL-UHFFFAOYSA-N,.alpha.-Pyrrolidinoisohexanophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_45,0.8,train,4,1,2
+RYJXAZXFWIWTOJ-UHFFFAOYSA-N,.alpha.-Pyrrolidinononanophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_3,0.8,train,0,2,4
+OOSRPGUQJAKBLV-UHFFFAOYSA-N,.alpha.-Pyrrolidinopentiothiophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_44,0.8,train,4,0,3
+KPUJAQRFIJAORQ-UHFFFAOYSA-N,.alpha.-Pyrrolidinopropiophenone,pyrrolidinophenone,stimulant,pyrrolidinophenone_0.8_43,0.8,train,0,3,2
+ZAKOWWREFLAJOT-UHFFFAOYSA-N,.alpha.-Tocopherol Acetate,other-medicine,other,other-medicine_0.5_101,0.5,train,1,1,2
+FTTYVYBNZXIJGH-UHFFFAOYSA-N,.beta.-Hydroxythioacetyl fentanyl,fentanyl-type,opioid,fentanyl-type_0.7_100,0.7,train,3,4,4
+NEBZNJDFIPBXCS-UHFFFAOYSA-N,Δ6a(10a)-Tetrahydrocannabinol,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_69,0.5,train,4,1,2
+HCAWPGARWVBULJ-UHFFFAOYSA-N,Δ-8-Tetrahydrocannabinol,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_30,0.5,train,1,3,1
+CYQFCXCEBYINGO-UHFFFAOYSA-N,Δ-9-Tetrahydrocannabinol,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_30,0.5,train,1,3,1
+JJBMVXFZSLTKCL-ZIAGYGMSSA-N,Δ9-THC-ethyl,cannabinoid-other,cannabinoid,cannabinoid-other_0.5_30,0.5,train,1,3,1

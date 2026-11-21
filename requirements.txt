@@ -1,0 +1,9 @@
+# Notebooks and scripts (the app's backend has its own list in app/backend/requirements.txt).
+# scikit-learn is pinned: the saved models in models/ load only with the version that wrote them.
+numpy>=1.26
+pandas>=2.2
+scikit-learn==1.5.2
+joblib>=1.4
+matplotlib>=3.9
+rdkit>=2022.9
+jupyterlab>=4.2
