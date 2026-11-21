@@ -1,4 +1,4 @@
-import { useSyncExternalStore } from "react";
+import { useEffect, useRef, useState, useSyncExternalStore } from "react";
 
 const none = () => () => {};
 
@@ -36,3 +36,17 @@ export const useSessionText = (key: string) =>
 
 export const isApple = () => /Mac|iPhone|iPad/.test(navigator.platform);
 export const useIsApple = () => useSyncExternalStore(none, isApple, () => true);
+
+/** True once the element has scrolled into view (and stays true). */
+export function useInView<T extends HTMLElement | SVGElement>(margin = "0px 0px -6% 0px") {
+  const ref = useRef<T>(null);
+  const [seen, setSeen] = useState(false);
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    const obs = new IntersectionObserver(([e]) => { if (e.isIntersecting) { setSeen(true); obs.disconnect(); } }, { rootMargin: margin });
+    obs.observe(el);
+    return () => obs.disconnect();
+  }, [margin]);
+  return [ref, seen] as const;
+}

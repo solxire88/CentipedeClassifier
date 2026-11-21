@@ -213,6 +213,12 @@ A spectrum reflects a molecule's **structure**. A drug's class (stimulant, opioi
 
 The families and the table were chosen by me and are not a standard. Every one of the 637 labeled compounds was checked by me before it was used. The remaining 933 compounds in the library were left unlabeled on purpose.
 
+### Reference documents
+
+The labels were verified against official forensic and regulatory literature. Compounds were reviewed in batches of ten, and the family of each one was checked against the manuals and reports below for its class before it was kept. The list of families and the table that maps them to classes are my own choices.
+
+[VISUAL s7-references]
+
 Two ways of turning family probabilities into a class (adding them up, or taking the class of the single most likely family) are compared on the [Results](/results) page.
 COPY END
 

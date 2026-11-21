@@ -172,3 +172,43 @@ a.simcard:hover { border-color: var(--border-strong); }
 .prose .katex-display, .ms-tex--block { max-width: 100%; overflow-x: auto; overflow-y: hidden; }
 .prose p:has(.katex), .prose li:has(.katex) { overflow-x: auto; overflow-y: hidden; max-width: 100%; }
 .s6-visual, .s6-visual .ms-frame { min-width: 0; max-width: 100%; }
+
+/* S7 of the Science page: the reference documents table */
+.refs__filter { margin-bottom: 16px; gap: 8px; }
+.refs__filter button { padding: 6px 10px; margin: 0; border: 1px solid var(--border); border-radius: 999px; background: var(--surface); transition: border-color var(--dur-ui) var(--ease-standard), background var(--dur-ui) var(--ease-standard); }
+.refs__filter button[aria-pressed="true"] { border-color: var(--text); background: color-mix(in srgb, var(--text) 8%, transparent); text-decoration: none; color: var(--text); }
+.refs__filter button[aria-pressed="false"] { color: var(--text); text-decoration: none; }
+.refs__dash { width: 10px; height: 3px; border-radius: 2px; background: var(--text-muted); display: inline-block; }
+.refs__row { display: grid; grid-template-columns: minmax(150px, 0.9fr) minmax(0, 3fr) 76px 104px 48px; gap: 12px; align-items: baseline; padding: 11px 8px; border-bottom: 1px solid var(--border); font-size: 14px; line-height: 20px; transition: background var(--dur-ui) var(--ease-standard); }
+.refs__row--head { font: 500 11px/16px var(--font-mono); text-transform: uppercase; letter-spacing: .06em; color: var(--text-muted); padding-block: 8px; border-bottom-color: var(--border-strong); }
+.refs__group { border-left: 3px solid var(--c, var(--border-strong)); margin-top: 10px; }
+.refs__group[data-class="stimulant"] { --c: var(--class-stimulant); } .refs__group[data-class="depressant"] { --c: var(--class-depressant); } .refs__group[data-class="opioid"] { --c: var(--class-opioid); }
+.refs__group[data-class="cannabinoid"] { --c: var(--class-cannabinoid); } .refs__group[data-class="psychedelic"] { --c: var(--class-psychedelic); } .refs__group[data-class="dissociative"] { --c: var(--class-dissociative); } .refs__group[data-class="other"] { --c: var(--class-other); }
+.refs__group .refs__row:last-child { border-bottom: 0; }
+.refs__group .refs__row:hover { background: color-mix(in srgb, var(--c, var(--text)) 9%, transparent); }
+.refs__name { display: flex; align-items: center; gap: 8px; font-weight: 600; color: var(--c, var(--text)); }
+.refs__families { display: block; margin-top: 2px; font-size: 12px; line-height: 16px; color: var(--text-muted); }
+.refs__doc a { text-decoration: none; }
+.refs__doc a:hover { text-decoration: underline; }
+.refs__pub { font-weight: 500; }
+.refs__kind, .refs__year { color: var(--text-muted); }
+.refs__year { text-align: right; }
+@media (max-width: 760px) {
+  .refs__row--head { display: none; }
+  .refs__row { grid-template-columns: minmax(0, 1fr) auto; row-gap: 2px; }
+  .refs__class { grid-column: 1 / -1; }
+  .refs__class:empty { display: none; }
+  .refs__doc { grid-column: 1 / -1; }
+  .refs__pub, .refs__kind { grid-row: 3; }
+  .refs__year { grid-row: 3; grid-column: 2; }
+  .refs__kind::before { content: "· "; }
+}
+@keyframes refs-rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: no-preference) {
+  .refs .refs__row:not(.refs__row--head) { opacity: 0; }
+  .refs.is-in .refs__row:not(.refs__row--head) { animation: refs-rise 480ms var(--ease-standard) both; animation-delay: calc(var(--i, 0) * 45ms); }
+  .refs.is-in .refs__group { animation: refs-bar 600ms var(--ease-standard) both; }
+}
+@keyframes refs-bar { from { border-left-color: transparent; } }
+.refs__filter button[aria-pressed] .ms-glyph { opacity: 1; }
+.refs__doc a .ms-icon { display: inline; width: 14px; height: 14px; margin-left: 4px; vertical-align: -2px; }

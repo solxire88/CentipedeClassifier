@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { useEffect, useRef, useState, useSyncExternalStore } from "react";
+import { useEffect, useState, useSyncExternalStore } from "react";
 import { ArrowRight } from "lucide-react";
 import { GithubMark } from "../github";
 import { ConfidenceGauge } from "../classify-charts";
@@ -9,6 +9,7 @@ import { ClassGlyph, FamilyChip, HonestyTag, cap } from "../marks";
 import { Segmented } from "../ui";
 import { API, CLASSES, ClassName, Tag } from "@/lib/api";
 import { GITHUB } from "@/lib/links";
+import { useInView } from "@/lib/browser";
 
 type Peaks = [number, number][];
 export type LandingData = {
@@ -23,20 +24,6 @@ export type LandingData = {
 const f2 = (v: number) => v.toFixed(2);
 const pct = (v: number) => `${Math.round(v * 100)}%`;
 const fmt = (n: number) => n.toLocaleString("en-US");
-
-/** True once the element has scrolled into view (and stays true). */
-function useInView<T extends HTMLElement | SVGElement>(margin = "0px 0px -6% 0px") {
-  const ref = useRef<T>(null);
-  const [seen, setSeen] = useState(false);
-  useEffect(() => {
-    const el = ref.current;
-    if (!el) return;
-    const obs = new IntersectionObserver(([e]) => { if (e.isIntersecting) { setSeen(true); obs.disconnect(); } }, { rootMargin: margin });
-    obs.observe(el);
-    return () => obs.disconnect();
-  }, [margin]);
-  return [ref, seen] as const;
-}
 
 const noSubscribe = () => () => {};
 /** False on the server and while hydrating, true afterwards: the reveal only hides content once the page can show it again. */

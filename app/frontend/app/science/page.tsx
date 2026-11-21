@@ -4,6 +4,7 @@ import { parseScience } from "@/lib/prose";
 import { FigureSlot, type FigureImage } from "@/components/longform";
 import "katex/dist/katex.min.css";
 import { FeatureStory, S6Visual } from "@/components/feature-visuals";
+import { ReferenceDocuments } from "@/components/references";
 import { FamiliesSankey, HeroSpectrum } from "@/components/science-visuals";
 import { ScrollProgress, TableOfContents } from "@/components/toc";
 
@@ -16,6 +17,9 @@ const FIGURES: Record<string, FigureImage[]> = {
     { src: "/science/ir-spectrum.png", alt: "An infrared spectrum: transmittance against wavenumber." },
   ],
 };
+
+/** Figures that sections other than S6 place with a [VISUAL name] line. */
+const SECTION_VISUALS: Record<string, React.ComponentType> = { "s7-references": ReferenceDocuments };
 
 export const metadata = { title: "Science · CentipedeClassifier" };
 
@@ -48,7 +52,11 @@ export default function Science() {
                     })}
                   </FeatureStory>
                 ) : (
-                  <div className="prose measure" dangerouslySetInnerHTML={{ __html: s.html }} />
+                  s.parts.map((p, i) => {
+                    if ("html" in p) return <div key={i} className="prose measure" dangerouslySetInnerHTML={{ __html: p.html }} />;
+                    const Visual = SECTION_VISUALS[p.visual];
+                    return Visual ? <div key={i} className="s6-visual"><Visual /></div> : null;
+                  })
                 )}
                 {s.image && <FigureSlot id={s.image.id} caption={s.image.caption} credit={s.image.credit} images={FIGURES[s.image.id]} />}
                 {s.num === "S7" && <FamiliesSankey />}
