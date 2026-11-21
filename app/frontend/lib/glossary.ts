@@ -193,8 +193,8 @@ export const GLOSSARY: GlossaryEntry[] = [
  },
  {
   "term": "NIST",
-  "definition": "The US National Institute of Standards and Technology, which made the spectral library.",
-  "link": "https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology"
+  "definition": "The US National Institute of Standards and Technology, which published the spectral library (the NIST DART-MS Forensics Database).",
+  "link": "https://catalog.data.gov/dataset/nist-dart-ms-forensics-database-is-cid"
  }
 ];
 export const glossary = (term: string) => GLOSSARY.find((g) => g.term.toLowerCase() === term.toLowerCase());

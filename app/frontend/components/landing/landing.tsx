@@ -8,7 +8,7 @@ import { ScoreRuler, StatCounter } from "../longform";
 import { ClassGlyph, FamilyChip, HonestyTag, cap } from "../marks";
 import { Segmented } from "../ui";
 import { API, CLASSES, ClassName, Tag } from "@/lib/api";
-import { GITHUB } from "@/lib/links";
+import { DATASET, GITHUB } from "@/lib/links";
 import { useInView } from "@/lib/browser";
 
 type Peaks = [number, number][];
@@ -267,7 +267,7 @@ function Learned({ d }: { d: LandingData }) {
   const order = [...CLASSES].sort((a, b) => (l.per_class[b] ?? 0) - (l.per_class[a] ?? 0));
   return (
     <Section id="classes" label="Training data" title={`${fmt(l.labeled + l.unlabeled)} spectra, ${fmt(l.labeled)} expert-labeled.`}
-      lead={<>{fmt(l.labeled)} compounds were labeled by hand with one of {l.families} chemical families (7 drug classes). The other {fmt(l.unlabeled)} enter training as unlabeled spectra through semi-supervised learning.{" "}
+      lead={<>The spectra come from the <a className="ms-link" href={DATASET} target="_blank" rel="noreferrer">NIST DART-MS Forensics Database</a>. {fmt(l.labeled)} compounds were labeled by hand with one of {l.families} chemical families (7 drug classes). The other {fmt(l.unlabeled)} enter training as unlabeled spectra through semi-supervised learning.{" "}
         <Link className="ms-link" href="/science#s7">Labeling protocol</Link></>}>
       <p className="ms-mono ms-muted lp-split">{fmt(l.labeled)} labeled · {fmt(l.training)} training · {fmt(l.holdout)} held out · {fmt(l.unlabeled)} unlabeled</p>
       <ul className="ms-bars lp-classbars">

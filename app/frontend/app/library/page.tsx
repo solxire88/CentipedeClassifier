@@ -8,6 +8,7 @@ import { ClassChip, ClassGlyph, FamilyChip, HonestyTag } from "@/components/mark
 import { Spark } from "@/components/spectrum";
 import { Button, EmptyState, Segmented, Skeleton } from "@/components/ui";
 import { CLASSES, LibraryItem, Tag, get } from "@/lib/api";
+import { DATASET } from "@/lib/links";
 
 const ROW = 46, PROW = 72, VIEW = 640;
 const TAGS: [Tag, string][] = [["held_out", "Held out"], ["training", "Used in training"], ["unlabeled", "Unlabeled"]];
@@ -62,7 +63,7 @@ export default function Library() {
 
   return (
     <div className="wrap page">
-      <div className="pagehead"><h1>Library</h1><p>Browse and search all {items ? fmt(items.length) : "1,570"} compounds, then pick one to test.</p></div>
+      <div className="pagehead"><h1>Library</h1><p>Browse and search all {items ? fmt(items.length) : "1,570"} compounds, then pick one to test. Spectra: <a className="ms-link ms-link--ext" href={DATASET} target="_blank" rel="noreferrer">NIST DART-MS Forensics Database</a>.</p></div>
 
       <div className="toolbar">
         <div className="toolbar__row">

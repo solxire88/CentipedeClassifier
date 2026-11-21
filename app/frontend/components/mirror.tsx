@@ -1,5 +1,6 @@
 "use client";
 import Link from "next/link";
+import { DATASET } from "@/lib/links";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Table2, ZoomOut } from "lucide-react";
 import { Button, Segmented } from "./ui";
@@ -189,7 +190,7 @@ export function MirrorCard({ result, inputName, levelState }: {
           shared peak (within {SHARED_TOL} m/z){shared.length > MAX_MARKS ? `, the ${MAX_MARKS} strongest marked` : ""}
         </span>
         <span>{result.excluded_self ? `${inputName ?? "This compound"} is in the library, so its own entry is left out of the neighbours.` : "Similarity is the cosine of the cleaned spectra (the three levels together)."}</span>
-        <span className="ms-muted">Source: NIST DART-MS Forensics library</span>
+        <span className="ms-muted">Source: <a className="ms-link" href={DATASET} target="_blank" rel="noreferrer">NIST DART-MS Forensics Database</a></span>
       </div>
     </section>
   );

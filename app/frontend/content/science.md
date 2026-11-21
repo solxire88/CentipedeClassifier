@@ -52,7 +52,7 @@ COPY END
 COPY START
 ## How the data in this project was made
 
-The spectra come from the NIST "Locust" library of forensic compounds. Every compound was measured the same way.
+The spectra come from the [NIST DART-MS Forensics Database](https://catalog.data.gov/dataset/nist-dart-ms-forensics-database-is-cid) (the "Locust" library) of forensic compounds. Every compound was measured the same way.
 
 **DART.** The ionization method is [DART (direct analysis in real time)](https://en.wikipedia.org/wiki/Direct_analysis_in_real_time), an [ambient ionization](https://en.wikipedia.org/wiki/Ambient_ionization) technique. A stream of heated gas (here, helium) carries energy to a sample held in open air, and the sample's molecules become ions without any preparation. Every spectrum here is in *positive mode*: the main ion is the molecule plus one proton, written [M+H]⁺ ([protonation](https://en.wikipedia.org/wiki/Protonation)).
 

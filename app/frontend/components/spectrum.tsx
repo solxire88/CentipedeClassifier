@@ -1,4 +1,5 @@
 "use client";
+import { DATASET } from "@/lib/links";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Table2, ZoomOut } from "lucide-react";
 import { Button } from "./ui";
@@ -131,7 +132,7 @@ export function SpectrumPlot({ peaks, precursor, level, cleaned, name }: { peaks
       <div className="ms-frame__foot">
         <Button variant="quiet" size="sm" aria-pressed={asTable} onClick={() => setAsTable(!asTable)}><Table2 className="ms-icon" aria-hidden />{asTable ? "View as chart" : "View as table"}</Button>
         {range && <Button variant="quiet" size="sm" onClick={() => setRange(null)}><ZoomOut className="ms-icon" aria-hidden />Reset zoom</Button>}
-        <span>Source: NIST DART-MS “Locust”. {peaks.length} peaks shown · drag to zoom.</span>
+        <span>Source: <a className="ms-link" href={DATASET} target="_blank" rel="noreferrer">NIST DART-MS Forensics Database</a>. {peaks.length} peaks shown · drag to zoom.</span>
       </div>
     </>
   );

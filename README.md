@@ -113,7 +113,7 @@ assets/      screenshots
 
 ## Run it
 
-**Data.** The NIST DART-MS Forensics Database ("Locust" library, positive mode, helium, SDF) is not redistributed here. Download it from [NIST](https://chemdata.nist.gov/dart-ms/) and put `HePos_Locust.SDF` in `data/raw/locust/`.
+**Data.** The NIST DART-MS Forensics Database ("Locust" library, positive mode, helium, SDF) is not redistributed here. Download it from [data.gov](https://catalog.data.gov/dataset/nist-dart-ms-forensics-database-is-cid) (released under the [NIST open licence](https://www.nist.gov/open/license)) and put `HePos_Locust.SDF` in `data/raw/locust/`.
 
 **Notebooks.**
 
@@ -140,6 +140,6 @@ The backend needs scikit-learn 1.5.2, the version that wrote the saved models. `
 
 ## Credits
 
-Spectra and structures: NIST DART-MS Forensics Database ("Locust" library). NIST is not affiliated with this project.
+Spectra and structures: [NIST DART-MS Forensics Database](https://catalog.data.gov/dataset/nist-dart-ms-forensics-database-is-cid) ("Locust" library, in-source CID). NIST is not affiliated with this project.
 
 A machine-learning mini project for the Machine Learning course at ESI-SBA, by [solxire](https://solxire.dev).
