@@ -13,7 +13,7 @@ export function ScrollProgress() {
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
-  return <div className="ms-progress ms-progress--fixed" style={{ ["--p" as string]: p }} role="progressbar" aria-label="Reading progress" aria-valuenow={Math.round(p * 100)} aria-valuemin={0} aria-valuemax={100} />;
+  return <div className="ms-progress ms-progress--fixed" style={{ ["--p" as string]: p }} role="progressbar" aria-label="Reading progress" aria-valuenow={Math.round(p * 100)} aria-valuemin={0} aria-valuemax={100}><i /></div>;
 }
 
 /** Sticky table of contents; the section in view carries aria-current. Hidden on phones. */
