@@ -117,6 +117,7 @@ html:has(.lp) { scroll-behavior: smooth; scroll-padding-top: 72px; }
 .lp-hero .lp-figure { width: 100%; text-align: left; }
 /* the landing nav: no logo, the menu in the middle */
 .lp-nav.ms-nav--app { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; }
+.lp-nav .lp-left { margin-left: 0; justify-self: start; grid-column: 1; }
 .lp-nav .lp-links { margin-left: 0; justify-self: center; grid-column: 2; }
 .lp-nav .lp-cta-btn { margin-left: 0; justify-self: end; grid-column: 3; }   /* fixed column: when the links are hidden on a phone the buttons must not slide into the middle */
 @media (max-width: 640px) { .lp-stats { grid-template-columns: 1fr 1fr; } .lp-stats > div:nth-child(3) { border-left: 0; } .lp-stats > div:nth-child(n+3) { border-top: 1px solid var(--border); } }

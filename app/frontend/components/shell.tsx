@@ -179,13 +179,14 @@ export function NavBar() {
   if (path === "/") {
     return (
       <nav className="ms-nav ms-nav--app lp-nav" aria-label="Main">
-        <span aria-hidden />
+        <div className="ms-nav__right lp-left">
+          <a className="ms-btn ms-btn--quiet ms-btn--icon ms-btn--sm" href={GITHUB} target="_blank" rel="noreferrer" aria-label="The code on GitHub" title="The code on GitHub"><GithubMark /></a>
+          <ThemeToggle style={undefined} />
+        </div>
         <div className="lp-links">
           <a href="#how">How it works</a><a href="#numbers">Results</a><a href="#limits">Limits</a><a href="#explore">Explore</a>
         </div>
         <div className="ms-nav__right lp-cta-btn">
-          <a className="ms-btn ms-btn--quiet ms-btn--icon ms-btn--sm" href={GITHUB} target="_blank" rel="noreferrer" aria-label="The code on GitHub" title="The code on GitHub"><GithubMark /></a>
-          <ThemeToggle style={undefined} />
           <Link className="ms-btn ms-btn--primary ms-btn--sm" href="/classify">Classify a spectrum</Link>
         </div>
       </nav>
