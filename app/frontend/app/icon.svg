@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="CentipedeClassifier">
+<title>CentipedeClassifier</title>
+<style>:root{color:#0A0D14}@media (prefers-color-scheme:dark){:root{color:#F4F7FB}}</style>
+<g transform="translate(256.0 256.0) scale(3.4097) translate(-22.69 16.75) rotate(-32)">
+<path fill="none" stroke="currentColor" stroke-width="6.4" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" d="M26.17 -14.86 L38.03 -31.28 M22.75 -5.37 L21.4 14.84"/>
+<path fill="none" stroke="currentColor" stroke-width="6.08" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" d="M-7.31 -10.43 L-21.87 1.78 M-7.31 -19.57 L-21.87 -31.78"/>
+<path fill="none" stroke="currentColor" stroke-width="5.87" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" d="M44.99 -5.68 L57.68 -19.4 M40.92 2.37 L37.43 20.74"/>
+<path fill="none" stroke="currentColor" stroke-width="5.33" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" d="M61.06 2.82 L72.37 -10.15 M57.64 10.15 L54.93 27.15"/>
+<path fill="none" stroke="currentColor" stroke-width="4.99" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" d="M76.68 11.7 L85.61 10.58 M75.97 14.03 L82.78 19.92"/>
+<path fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" d="M0 -15 L1 -14.99 L2 -14.97 L3 -14.92 L4 -14.86 L5 -14.78 L6 -14.69 L7 -14.58 L8 -14.45 L9 -14.3 L10 -14.14 L11 -13.96 L12 -13.77 L13 -13.56 L14 -13.33 L15 -13.09 L16 -12.83 L17 -12.56 L18 -12.28 L19 -11.98 L20 -11.66 L21 -11.34 L22 -11 L23 -10.64 L24 -10.28 L25 -9.9 L26 -9.51 L27 -9.11 L28 -8.7 L29 -8.28 L30 -7.85 L31 -7.41 L32 -6.96 L33 -6.51 L34 -6.05 L35 -5.57 L36 -5.1 L37 -4.62 L38 -4.13 L39 -3.64 L40 -3.14 L41 -2.64 L42 -2.13 L43 -1.63 L44 -1.12 L45 -0.61 L46 -0.1 L47 0.41 L48 0.92 L49 1.43 L50 1.93 L51 2.44 L52 2.94 L53 3.44 L54 3.93 L55 4.42 L56 4.91 L57 5.39 L58 5.86 L59 6.32 L60 6.78 L61 7.23 L62 7.68 L63 8.11 L64 8.53 L65 8.95 L66 9.35 L67 9.75 L68 10.13 L69 10.5 L70 10.86 L71 11.2 L72 11.53 L73 11.85 L73.7 12.07"/>
+<path fill="currentColor" d="M32.91 -7.07 L31.07 -17.34 L21.26 -20.88 L13.29 -14.15 L15.13 -3.88 L24.94 -0.34 Z M50.13 1.96 L49.6 -7.35 L41.27 -11.54 L33.47 -6.43 L34 2.87 L42.33 7.07 Z M65.88 9.54 L65.16 1.21 L57.58 -2.33 L50.72 2.46 L51.44 10.79 L59.02 14.33 Z M80.83 14.23 L79.14 6.97 L72 4.81 L66.57 9.91 L68.26 17.17 L75.4 19.33 Z M12.19 -15 L6.1 -25.56 L-6.09 -25.56 L-12.19 -15 L-6.1 -4.44 L6.1 -4.44 Z"/>
+</g>
+</svg>

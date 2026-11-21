@@ -1,0 +1,219 @@
+@import "tailwindcss";
+@import "./ms.css";
+@import "./screens.css";
+
+:root, [data-theme="dark"] {
+  color-scheme: dark;
+  --background: #0A0D14;
+  --surface: #11151F;
+  --elevated: #171C29;
+  --border: rgba(255,255,255,0.08);
+  --border-strong: #6C7488;
+  --text: #E8ECF4;
+  --text-muted: #8B93A7;
+  --signal: #F4F7FB;
+  --on-signal: #0A0D14;
+  --unlabeled: #69718A;
+  --hatch: var(--border-strong);
+  --scrim: rgba(5,7,11,0.72);
+  --class-stimulant: #F5A524;
+  --class-depressant: #7F81F5;
+  --class-opioid: #F05454;
+  --class-cannabinoid: #50E185;
+  --class-psychedelic: #EC96F8;
+  --class-dissociative: #1FA9C9;
+  --class-other: #B4BECD;
+  --class-stimulant-soft: #312920;
+  --class-depressant-soft: #20243d;
+  --class-opioid-soft: #301e26;
+  --class-cannabinoid-soft: #1a322d;
+  --class-psychedelic-soft: #30273d;
+  --class-dissociative-soft: #132a37;
+  --class-other-soft: #282d37;
+  --font-serif: "Instrument Serif", Georgia, "Times New Roman", serif;
+  --font-sans: Geist, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "Geist Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-24: 96px;
+  --radius-mark: 2px;
+  --radius-input: 8px;
+  --radius-card: 12px;
+  --radius-full: 999px;
+  --dur-instant: 100ms;
+  --dur-ui: 200ms;
+  --dur-reveal: 750ms;
+  --stagger: 40ms;
+  --ease-standard: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --stroke-hairline: 1px;
+  --stroke-spectrum: 1.25px;
+  --stroke-icon: 1.5px;
+  --stroke-focus: 2px;
+  --content-max: 1200px;
+  --measure: 68ch;
+  --gutter-phone: 16px;
+  --nav-height: 56px;
+  --touch-min: 44px;
+  --bp-phone: 390px;
+  --bp-tablet: 768px;
+  --bp-laptop: 1024px;
+  --bp-desktop: 1440px;
+  --glow-inset: inset 0 1px 0 rgba(255,255,255,0.05);
+  --shadow-pop: 0 16px 48px rgba(0,0,0,0.55);
+  --focus-ring: 0 0 0 2px #0A0D14, 0 0 0 4px #F4F7FB;
+}
+[data-theme="light"] {
+  color-scheme: light;
+  --background: #F7F6F2;
+  --surface: #FFFFFF;
+  --elevated: #FFFFFF;
+  --border: rgba(18,21,28,0.10);
+  --border-strong: #7F8594;
+  --text: #12151C;
+  --text-muted: #5A6275;
+  --signal: #12151C;
+  --on-signal: #FFFFFF;
+  --unlabeled: #7C8394;
+  --hatch: var(--border-strong);
+  --scrim: rgba(18,21,28,0.40);
+  --class-stimulant: #946200;
+  --class-depressant: #3B36C9;
+  --class-opioid: #CF1F45;
+  --class-cannabinoid: #0A4F24;
+  --class-psychedelic: #A31FB8;
+  --class-dissociative: #0A7890;
+  --class-other: #414C5E;
+  --class-stimulant-soft: #f6f2eb;
+  --class-depressant-soft: #efeffb;
+  --class-opioid-soft: #fbedf0;
+  --class-cannabinoid-soft: #ebf1ed;
+  --class-psychedelic-soft: #f8edf9;
+  --class-dissociative-soft: #ebf4f6;
+  --class-other-soft: #f0f1f2;
+  --glow-inset: 0 1px 2px rgba(18,21,28,0.05);
+  --shadow-pop: 0 12px 32px rgba(18,21,28,0.14);
+  --focus-ring: 0 0 0 2px #F7F6F2, 0 0 0 4px #12151C;
+}
+
+/* next/font defines the real family names; the tokens name them by their plain names. */
+:root, [data-theme="dark"], [data-theme="light"] {
+  --font-serif: var(--font-instrument), Georgia, "Times New Roman", serif;
+  --font-sans: var(--font-geist), system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-elevated: var(--elevated);
+  --color-line: var(--border);
+  --color-line-strong: var(--border-strong);
+  --color-ink: var(--text);
+  --color-muted: var(--text-muted);
+  --color-signal: var(--signal);
+  --color-on-signal: var(--on-signal);
+  --color-unlabeled: var(--unlabeled);
+}
+
+html { background: var(--background); }
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 26px;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+h1, h2, h3 { text-wrap: balance; }
+a { color: inherit; }
+*:focus-visible { outline: none; box-shadow: var(--focus-ring); border-radius: var(--radius-input); }
+.num { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Page column: 1200 px content on wide screens, a 16 px gutter on phones, 24 px from tablet up. */
+.wrap { width: 100%; padding-inline: max(var(--gutter-phone), calc((100% - var(--content-max)) / 2)); }
+@media (min-width: 768px) { .wrap { padding-inline: max(var(--space-6), calc((100% - var(--content-max)) / 2)); } }
+
+/* Legacy classes used by pages that are rewritten in tasks 5 to 7. */
+.font-serif { font-family: var(--font-serif); font-weight: 400; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-card); box-shadow: var(--glow-inset); }
+.label { font-size: 12px; line-height: 16px; font-weight: 500; letter-spacing: .04em; text-transform: uppercase; color: var(--text-muted); }
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; height: 40px; padding: 0 16px;
+  border-radius: var(--radius-input); font: 500 14px/20px var(--font-sans); border: 1px solid var(--border-strong);
+  color: var(--text); background: var(--surface); cursor: pointer; white-space: nowrap; transition: background var(--dur-ui) var(--ease-standard); }
+.btn:hover { background: var(--elevated); }
+.btn:active { transform: translateY(1px); }
+.btn:disabled { opacity: .42; cursor: not-allowed; }
+.btn-primary { background: var(--signal); color: var(--on-signal); border-color: var(--signal); }
+.btn-primary:hover { background: color-mix(in srgb, var(--signal) 86%, var(--background)); }
+.field { width: 100%; background: var(--surface); color: var(--text); border: 1px solid var(--border-strong);
+  border-radius: var(--radius-input); padding: 10px 12px; font: 400 13px/20px var(--font-mono); }
+.field:focus { border-color: var(--signal); }
+.field-error { border: 2px solid var(--text); }
+.chip { display: inline-flex; align-items: center; gap: 6px; border-radius: var(--radius-full); padding: 0 10px; height: 24px; font: 500 12px/16px var(--font-sans); white-space: nowrap; }
+.hatched { background-image: repeating-linear-gradient(135deg, var(--hatch) 0 1px, transparent 1px 7px); }
+.skeleton { background: color-mix(in srgb, var(--text) 8%, transparent); border-radius: 6px; position: relative; overflow: hidden; }
+.wave span { display: inline-block; width: 3px; height: 28px; margin: 0 1.5px; background: var(--text-muted); border-radius: 1px; transform-origin: center; transform: scaleY(.3); animation: ms-wave 900ms var(--ease-standard) infinite alternate; }
+.wave span:nth-child(2) { animation-delay: 120ms } .wave span:nth-child(3) { animation-delay: 240ms }
+.wave span:nth-child(4) { animation-delay: 360ms } .wave span:nth-child(5) { animation-delay: 480ms }
+@keyframes rise { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+.peak { transform-box: fill-box; transform-origin: bottom; animation: rise var(--dur-reveal) var(--ease-standard) both; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
+
+/* ---- App shell on top of the design components ---- */
+.ms-nav--app { position: sticky; top: 0; z-index: 40; flex-wrap: nowrap; }
+.ms-nav--app .ms-wordmark { height: var(--nav-height); }
+.ms-nav--app .ms-wordmark img { display: none; width: auto; height: 34px; }
+[data-theme="dark"] .ms-nav--app .brand-icon.on-dark,
+[data-theme="light"] .ms-nav--app .brand-icon.on-light { display: block; }
+.ms-tabs--app { display: none; }
+.ms-tabs--app a { padding: 0 var(--space-3); }
+.ms-tabs--app .ms-tabs__ind { bottom: -1px; }
+.ms-nav--app .sb-label, .ms-nav--app .sb-kbd, .ms-nav--app .help-btn, .ms-nav--app .ms-toggle { display: none; }
+.ms-nav--app .ms-searchbtn { padding: 0 9px; }
+.ms-nav--app .more-btn { display: inline-flex; }
+.ms-tabbar--app { position: fixed; left: 0; right: 0; bottom: 0; z-index: 40; }
+body { padding-bottom: var(--tabbar-h, 60px); }
+.ms-toasts { position: fixed; z-index: 80; display: flex; flex-direction: column; gap: 8px; left: 16px; right: 16px; bottom: 76px; align-items: center; pointer-events: none; }
+.ms-toasts .ms-toast { pointer-events: auto; }
+@media (min-width: 768px) {
+  .ms-nav--app { gap: var(--space-4); padding: 0 var(--space-4); }
+  .ms-tabs--app { display: flex; }
+  .ms-nav--app .help-btn { display: inline-flex; }
+  .ms-nav--app .more-btn { display: none; }
+  .ms-tabbar--app { display: none; }
+  body { padding-bottom: 0; }
+  .ms-toasts { left: auto; right: 24px; bottom: 24px; align-items: flex-end; }
+}
+@media (min-width: 1024px) {
+  .ms-nav--app { gap: var(--space-6); padding: 0 var(--space-6); }
+  [data-theme="dark"] .ms-nav--app .brand-icon.on-dark,
+  [data-theme="light"] .ms-nav--app .brand-icon.on-light { display: none; }
+  [data-theme="dark"] .ms-nav--app .brand-full.on-dark,
+  [data-theme="light"] .ms-nav--app .brand-full.on-light { display: block; }
+  .ms-nav--app .sb-label, .ms-nav--app .sb-kbd { display: inline; }
+  .ms-nav--app .ms-searchbtn { padding: 0 8px 0 10px; }
+  .ms-nav--app .ms-toggle { display: inline-flex; }
+}
+.ms-footer--app { margin-top: var(--space-16); }
+.ms-progress--fixed { position: fixed; top: var(--nav-height); left: 0; right: 0; z-index: 39; }
+.toc-wrap { display: none; }
+@media (min-width: 1100px) { .toc-wrap { display: block; position: sticky; top: calc(var(--nav-height) + var(--space-6)); } }
+.ms-palette__in input:focus-visible { box-shadow: none; border-radius: 0; }
+@keyframes ms-sweep { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+.ms-peaks textarea { height: 100%; min-height: 0; }
+.ms-bars--family .ms-bar { grid-template-columns: minmax(172px, 208px) 1fr 44px; }
+@media (max-width: 480px) { .ms-bar, .ms-bars--family .ms-bar { grid-template-columns: minmax(96px, 124px) 1fr 40px; } .ms-bars--family .ms-bar { grid-template-columns: minmax(120px, 172px) 1fr 40px; } }
+.ms-peaks textarea:focus-visible { box-shadow: none; border-radius: 0; }
+.ms-peaks:focus-within { border-color: var(--signal); box-shadow: var(--focus-ring); }
+.ms-peaks.is-error:focus-within { border-color: var(--text); }
