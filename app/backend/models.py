@@ -43,8 +43,8 @@ def load_models():
         class_of = [saved["family_to_class"][f] for f in families]
         saved["M"] = np.array([[1.0 if c == k else 0.0 for k in classes] for c in class_of])
         saved["id"] = path.stem
+        saved["provisional"] = "threshold" not in saved or saved.get("provisional", False)   # decided before the default is filled in
         saved["threshold"] = saved.get("threshold", DEFAULT_THRESHOLD)
-        saved["provisional"] = "threshold" not in saved or saved.get("provisional", False)
         models[path.stem] = saved
     return models
 

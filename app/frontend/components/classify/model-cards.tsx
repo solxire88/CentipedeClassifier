@@ -4,7 +4,7 @@ import { ModelCard } from "@/lib/api";
 const NAMES: Record<string, string> = { "self-training": "Self-training", "co-training": "Co-training", "label-spreading": "Label spreading", "cluster-then-label": "Cluster then label" };
 export const modelName = (m: Pick<ModelCard, "method" | "setting">) => `${NAMES[m.method] ?? m.method}, ${m.setting}`;
 
-/** The radio row of models. Only the final model was scored on the holdout (once); the other rows say "not scored". */
+/** The radio row of models: cross-validation results for all four, the holdout score for the final model only (it is scored once). */
 export function ModelCards({ models, value, onChange }: { models: ModelCard[]; value: string; onChange: (id: string) => void }) {
   const move = (e: React.KeyboardEvent, i: number) => {
     const d = e.key === "ArrowRight" || e.key === "ArrowDown" ? 1 : e.key === "ArrowLeft" || e.key === "ArrowUp" ? -1 : 0;
@@ -33,8 +33,11 @@ export function ModelCards({ models, value, onChange }: { models: ModelCard[]; v
             <dl>
               <dt>Approach</dt><dd>{m.target === "sum" ? "family → class" : "top family"}</dd>
               <dt>CV macro-F1</dt><dd>{m.cv_drug_f1?.toFixed(2)} <small>± {m.cv_spread?.toFixed(2)}</small></dd>
-              <dt>Holdout macro-F1</dt><dd>{m.holdout ? <>{m.holdout.drug_f1.toFixed(2)} <small>({m.holdout.drug_f1_low.toFixed(2)}–{m.holdout.drug_f1_high.toFixed(2)})</small></> : <small>not scored</small>}</dd>
-              <dt>Class accuracy</dt><dd>{m.holdout ? m.holdout.accuracy.toFixed(2) : <small>not scored</small>}</dd>
+              <dt>CV family F1</dt><dd>{m.cv_family_f1?.toFixed(2)}</dd>
+              <dt>CV “other” recall</dt><dd>{m.cv_other_recall?.toFixed(2)}</dd>
+              <dt>Threshold</dt><dd>{m.threshold.toFixed(2)} <small>{m.provisional ? "default" : "tuned"}</small></dd>
+              <dt>Holdout</dt>
+              <dd>{m.holdout ? <>{m.holdout.drug_f1.toFixed(2)} <small>F1 · {m.holdout.accuracy.toFixed(2)} acc.</small></> : <small>final model only</small>}</dd>
             </dl>
           </button>
         ))}
