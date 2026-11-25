@@ -15,6 +15,7 @@ app/backend/data/
 # assignment documents and local notes
 docs/
 *.pdf
+!report/*.pdf
 
 # browser-test output
 .playwright-mcp/
